@@ -26,10 +26,10 @@ python run.py
 ## How it's put together
 
 ```
-fetch_*.py  →  dataset/  →  ┬─ chunking + embedding → index/  ─┐
-                              └─ build_loader.py → damage calc ─┤
-                                                                 ↓
-                                                    run.py (router) → answer
+fetch_*.py  →  dataset/  →  ┬─ chunking + embedding →  index/  ─┐
+                            └─ build_loader.py → damage calc   ─┤
+                                                                ↓
+                                                              run.py (router) → answer
 ```
 
 1. **fetch_*.py** — one-time scripts, pull raw character/weapon/talent/artifact/lore data from the genshin-db API + Fandom wiki. Only need to rerun these after a new patch.
