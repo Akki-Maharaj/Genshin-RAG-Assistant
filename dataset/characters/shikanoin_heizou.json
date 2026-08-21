@@ -1,0 +1,223 @@
+{
+  "query": "Shikanoin Heizou",
+  "folder": "characters",
+  "match": "Shikanoin Heizou",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "shikanoinheizou",
+  "result": {
+    "id": 10000059,
+    "name": "Shikanoin Heizou",
+    "title": "Analytical Harmony",
+    "description": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+    "weaponType": "WEAPON_CATALYST",
+    "weaponText": "Catalyst",
+    "bodyType": "BODY_BOY",
+    "gender": "Male",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "7/24",
+    "birthday": "July 24",
+    "elementType": "ELEMENT_ANEMO",
+    "elementText": "Anemo",
+    "affiliation": "Tenryou Commission",
+    "associationType": "ASSOC_INAZUMA",
+    "region": "Inazuma",
+    "substatType": "FIGHT_PROP_WIND_ADD_HURT",
+    "substatText": "Anemo DMG Bonus",
+    "constellation": "Cervus Minor",
+    "cv": {
+      "english": "Kieran Regan",
+      "chinese": "林景",
+      "japanese": "井口祐一",
+      "korean": "Jung Eui-jin"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104151,
+          "name": "Vayuda Turquoise Sliver",
+          "count": 1
+        },
+        {
+          "id": 101201,
+          "name": "Onikabuto",
+          "count": 3
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 3
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 2
+        },
+        {
+          "id": 101201,
+          "name": "Onikabuto",
+          "count": 10
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 6
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 4
+        },
+        {
+          "id": 101201,
+          "name": "Onikabuto",
+          "count": 20
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 3
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 8
+        },
+        {
+          "id": 101201,
+          "name": "Onikabuto",
+          "count": 30
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 6
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 12
+        },
+        {
+          "id": 101201,
+          "name": "Onikabuto",
+          "count": 45
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104154,
+          "name": "Vayuda Turquoise Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 20
+        },
+        {
+          "id": 101201,
+          "name": "Onikabuto",
+          "count": 60
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/07/c20ab407d9316480290f7c690836f35c_2106028234032197103.png",
+      "cover2": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/07/ec07d3511f0ebe503e83ef645acc333c_2276094340014227662.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/3669a189c4a2b374ee0730a8ae112704.png",
+      "filename_icon": "UI_AvatarIcon_Heizo",
+      "filename_iconCard": "UI_AvatarIcon_Heizo_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Heizo",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Heizo",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Heizo",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Heizo.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Shikanoin Heizou_icon.png"
+    },
+    "version": "2.8"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "query": "Ifa",
+  "folder": "characters",
+  "match": "Ifa",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "ifa",
+  "result": {
+    "id": 10000113,
+    "name": "Ifa",
+    "title": "In the Wake of Wandering Winds",
+    "description": "A vet from the Flower-Feather Clan who cherishes the life he leads alongside all manner of living things — people, animals, you name it.",
+    "weaponType": "WEAPON_CATALYST",
+    "weaponText": "Catalyst",
+    "bodyType": "BODY_MALE",
+    "gender": "Male",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "3/23",
+    "birthday": "March 23",
+    "elementType": "ELEMENT_ANEMO",
+    "elementText": "Anemo",
+    "affiliation": "Tlalocan",
+    "associationType": "ASSOC_NATLAN",
+    "region": "Natlan",
+    "substatType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "substatText": "Elemental Mastery",
+    "constellation": "Catena Opele",
+    "cv": {
+      "english": "Jonny Loquasto & Dominic Catrambone",
+      "chinese": "吕书君",
+      "japanese": "寺島惇太&小松昌平",
+      "korean": "Park Ki-wook"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104151,
+          "name": "Vayuda Turquoise Sliver",
+          "count": 1
+        },
+        {
+          "id": 101250,
+          "name": "Saurian Claw Succulent",
+          "count": 3
+        },
+        {
+          "id": 112101,
+          "name": "Juvenile Fang",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 3
+        },
+        {
+          "id": 113072,
+          "name": "Sparkless Statue Core",
+          "count": 2
+        },
+        {
+          "id": 101250,
+          "name": "Saurian Claw Succulent",
+          "count": 10
+        },
+        {
+          "id": 112101,
+          "name": "Juvenile Fang",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 6
+        },
+        {
+          "id": 113072,
+          "name": "Sparkless Statue Core",
+          "count": 4
+        },
+        {
+          "id": 101250,
+          "name": "Saurian Claw Succulent",
+          "count": 20
+        },
+        {
+          "id": 112102,
+          "name": "Seasoned Fang",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 3
+        },
+        {
+          "id": 113072,
+          "name": "Sparkless Statue Core",
+          "count": 8
+        },
+        {
+          "id": 101250,
+          "name": "Saurian Claw Succulent",
+          "count": 30
+        },
+        {
+          "id": 112102,
+          "name": "Seasoned Fang",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 6
+        },
+        {
+          "id": 113072,
+          "name": "Sparkless Statue Core",
+          "count": 12
+        },
+        {
+          "id": 101250,
+          "name": "Saurian Claw Succulent",
+          "count": 45
+        },
+        {
+          "id": 112103,
+          "name": "Tyrant's Fang",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104154,
+          "name": "Vayuda Turquoise Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113072,
+          "name": "Sparkless Statue Core",
+          "count": 20
+        },
+        {
+          "id": 101250,
+          "name": "Saurian Claw Succulent",
+          "count": 60
+        },
+        {
+          "id": 112103,
+          "name": "Tyrant's Fang",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_Ifa",
+      "filename_iconCard": "UI_AvatarIcon_Ifa_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Ifa",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Ifa",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Ifa",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ifa.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ifa.png",
+      "hoyowiki_icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/04/30/ce693d1e36aef5936b2d2db006605fc4_9036718103340803450.png"
+    },
+    "version": "5.6"
+  }
+}

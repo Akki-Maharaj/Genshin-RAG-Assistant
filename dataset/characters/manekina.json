@@ -1,0 +1,105 @@
+{
+  "query": "Manekina",
+  "folder": "characters",
+  "match": "Manekina",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "manekina",
+  "result": {
+    "id": 10000118,
+    "name": "Manekina",
+    "title": "",
+    "description": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "weaponText": "Sword",
+    "bodyType": "BODY_GIRL",
+    "gender": "Female",
+    "qualityType": "QUALITY_ORANGE_SP",
+    "rarity": 5,
+    "birthdaymmdd": "0/0",
+    "birthday": "November 30",
+    "elementType": "ELEMENT_NONE",
+    "elementText": "None",
+    "affiliation": "——",
+    "associationType": "ASSOC_MAINACTOR",
+    "region": "",
+    "substatType": "FIGHT_PROP_ATTACK_PERCENT",
+    "substatText": "ATK",
+    "constellation": "——",
+    "cv": {
+      "english": "——",
+      "chinese": "——",
+      "japanese": "——",
+      "korean": "——"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 0
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 0
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 0
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 0
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 0
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 0
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_MannequinGirl",
+      "filename_iconCard": "UI_AvatarIcon_MannequinGirl_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_MannequinGirl",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_MannequinGirl",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_MannequinGirl",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_MannequinGirl.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_MannequinGirl.png",
+      "hoyowiki_icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/28/e45a556519d524e2b14aaaff4104ebe1_558967600629726716.png"
+    },
+    "version": "6.1"
+  }
+}

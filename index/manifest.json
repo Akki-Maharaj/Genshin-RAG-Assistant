@@ -1,0 +1,21 @@
+{
+  "indexed_sources": {
+    "weapon_lore_v1": {
+      "chunk_count": 236,
+      "added": "2026-08-19T12:12:27.253090",
+      "start_idx": 6018
+    },
+    "world_mechanics_v1": {
+      "chunk_count": 149,
+      "added": "2026-08-20T00:26:55.585940",
+      "start_idx": 6254
+    },
+    "artifact_lore_v1": {
+      "chunk_count": 289,
+      "added": "2026-08-20T00:31:47.050465",
+      "start_idx": 6403
+    }
+  },
+  "total_chunks": 6692,
+  "last_updated": "2026-08-20T00:31:47.050465"
+}

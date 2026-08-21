@@ -1,0 +1,18 @@
+{
+  "character": "Linnea",
+  "element": "Geo",
+  "weapon_type": "Bow",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Healer",
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Crystallize (with elemental)",
+    "Shielding via Crystallize"
+  ],
+  "role_keyword_scores": {
+    "Healer": 1,
+    "Crowd_Control": 1
+  }
+}

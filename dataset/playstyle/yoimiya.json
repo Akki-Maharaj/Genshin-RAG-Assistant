@@ -1,0 +1,15 @@
+{
+  "character": "Yoimiya",
+  "element": "Pyro",
+  "weapon_type": "Bow",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Unclear/Flex"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Hydro)",
+    "Melt (with Cryo)",
+    "Pyro DMG"
+  ],
+  "role_keyword_scores": {}
+}

@@ -1,0 +1,15 @@
+{
+  "character": "Aino",
+  "element": "Hydro",
+  "weapon_type": "Claymore",
+  "substat": "Elemental Mastery",
+  "inferred_roles": [
+    "Unclear/Flex"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Pyro)",
+    "Freeze (with Cryo)",
+    "Electro-Charged (with Electro)"
+  ],
+  "role_keyword_scores": {}
+}

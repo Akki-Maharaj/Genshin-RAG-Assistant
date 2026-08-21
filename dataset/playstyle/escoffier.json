@@ -1,0 +1,19 @@
+{
+  "character": "Escoffier",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Healer",
+    "Shielder"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Healer": 2,
+    "Shielder": 2
+  }
+}

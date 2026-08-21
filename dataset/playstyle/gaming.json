@@ -1,0 +1,19 @@
+{
+  "character": "Gaming",
+  "element": "Pyro",
+  "weapon_type": "Claymore",
+  "substat": "ATK",
+  "inferred_roles": [
+    "Healer",
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Hydro)",
+    "Melt (with Cryo)",
+    "Pyro DMG"
+  ],
+  "role_keyword_scores": {
+    "Healer": 1,
+    "Crowd_Control": 1
+  }
+}

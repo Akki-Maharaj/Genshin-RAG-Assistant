@@ -1,0 +1,85 @@
+{
+  "query": "The Exile",
+  "folder": "artifacts",
+  "match": "The Exile",
+  "matchfolder": "artifacts",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "theexile",
+  "result": {
+    "id": 10009,
+    "rarityList": [
+      3,
+      4
+    ],
+    "name": "The Exile",
+    "effect2Pc": "Energy Recharge +20%",
+    "effect4Pc": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack.",
+    "flower": {
+      "name": "Exile's Flower",
+      "relicType": "EQUIP_BRACER",
+      "relicText": "Flower of Life",
+      "description": "A withered flower worn on the shirt. Its former owner insisted on wearing it even in exile, so it must mean something.",
+      "story": "It all happened before the exiled aristocrat was involved in the family feud.\nThis flower bloomed before the first blood was shed.\nHaving witnessed the cruelty of humanity, the exile left his kindness and gentleness in the past.\nBut this faded flower and the innocent smile he once had will always be his treasure."
+    },
+    "plume": {
+      "name": "Exile's Feather",
+      "relicType": "EQUIP_NECKLACE",
+      "relicText": "Plume of Death",
+      "description": "Not an actual accessory per se. Just a random bird feather that was found somewhere in the wilderness by the exile.",
+      "story": "Through plains and forests, the exile traveled alone in the wild.\nThrough thick layers of dark clouds, an azure feather fell on his shoulder.\nThe feather came from a panicked bird escaping from the falcon, just like the exile.\nThe feather represents the spirit of a nestless, free bird, just like the exile."
+    },
+    "sands": {
+      "name": "Exile's Pocket Watch",
+      "relicType": "EQUIP_SHOES",
+      "relicText": "Sands of Eon",
+      "description": "Even after the crystal watch face was shattered and the hands lost, its former owner kept it until the end.",
+      "story": "The aristocrat acquired this pocket watch back in his youth.\nThis delicate timepiece recorded every moment of his childhood.\nBut tragedy brought his carefree days to an abrupt end.\nThe aristocrat was forced into a long and lonesome exile."
+    },
+    "goblet": {
+      "name": "Exile's Goblet",
+      "relicType": "EQUIP_RING",
+      "relicText": "Goblet of Eonothem",
+      "description": "A dull goblet made of a heavy metal. It was once inlaid with gemstones, but they have since been stripped off.",
+      "story": "This silver goblet is a family heirloom of an exiled aristocrat. The exterior was once inlaid with a gem engraved with his family crest.\nBut after the exile had brought shame to his family, he carved out the symbol of which he was once proud.\nAs a result, this cup is broken and can no longer hold liquid.\nBut the exile still carries it with him until the end of his journey."
+    },
+    "circlet": {
+      "name": "Exile's Circlet",
+      "relicType": "EQUIP_DRESS",
+      "relicText": "Circlet of Logos",
+      "description": "A prestigious circlet. However, the royal insignia has been scratched out, and it is no longer the symbol of distinguished status that it once was.",
+      "story": "As a child, the exile lived in a noble house. His childhood was carefree, and his playground was a palace built with silver.\nIn the times of old, the circlet of his father was a symbol of gentility and nobility.\nHowever, years later, a family feud painted the collapsing palace blood-red.\nThe circlet became the evidence of the exile's crime and has been with the exile ever since."
+    },
+    "images": {
+      "flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_4.png",
+      "plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_2.png",
+      "sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_5.png",
+      "goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_1.png",
+      "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_3.png",
+      "filename_flower": "UI_RelicIcon_10009_4",
+      "filename_plume": "UI_RelicIcon_10009_2",
+      "filename_sands": "UI_RelicIcon_10009_5",
+      "filename_goblet": "UI_RelicIcon_10009_1",
+      "filename_circlet": "UI_RelicIcon_10009_3",
+      "mihoyo_flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_4.png",
+      "mihoyo_plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_2.png",
+      "mihoyo_sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_5.png",
+      "mihoyo_goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_1.png",
+      "mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10009_3.png"
+    },
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "character": "Rosaria",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "substat": "ATK",
+  "inferred_roles": [
+    "Main_DPS_Crit",
+    "Off_Field_DPS"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Off_Field_DPS": 1,
+    "Main_DPS_Crit": 4
+  }
+}

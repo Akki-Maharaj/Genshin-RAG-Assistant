@@ -1,0 +1,228 @@
+{
+  "query": "Bennett",
+  "folder": "characters",
+  "match": "Bennett",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "bennett",
+  "result": {
+    "id": 10000032,
+    "name": "Bennett",
+    "title": "Trial by Fire",
+    "description": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "weaponText": "Sword",
+    "bodyType": "BODY_BOY",
+    "gender": "Male",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "2/29",
+    "birthday": "February 29",
+    "elementType": "ELEMENT_PYRO",
+    "elementText": "Pyro",
+    "affiliation": "Adventurers' Guild",
+    "associationType": "ASSOC_MONDSTADT",
+    "region": "Mondstadt",
+    "substatType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "substatText": "Energy Recharge",
+    "constellation": "Rota Calamitas",
+    "cv": {
+      "english": "Cristina Vee Valenzuela",
+      "chinese": "穆雪婷",
+      "japanese": "逢坂良太",
+      "korean": "Song Ha-rim"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104111,
+          "name": "Agnidus Agate Sliver",
+          "count": 1
+        },
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "count": 3
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 3
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 2
+        },
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "count": 10
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 6
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 4
+        },
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "count": 20
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 3
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 8
+        },
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "count": 30
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 6
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 12
+        },
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "count": 45
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104114,
+          "name": "Agnidus Agate Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 20
+        },
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "count": 60
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Character_Bennett_Card.jpg",
+      "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Character_Bennett_Portrait.png",
+      "cover1": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200312/2020031220001589124.png",
+      "cover2": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200312/2020031220015487912.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/661fca5d5165dee41fd29c142a59c2f9.png",
+      "filename_icon": "UI_AvatarIcon_Bennett",
+      "filename_iconCard": "UI_AvatarIcon_Bennett_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Bennett",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Bennett",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Bennett",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Bennett_icon.png"
+    },
+    "url": {
+      "fandom": "https://genshin-impact.fandom.com/wiki/Bennett"
+    },
+    "version": "1.0"
+  }
+}

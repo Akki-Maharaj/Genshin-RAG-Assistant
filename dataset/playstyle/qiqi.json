@@ -1,0 +1,17 @@
+{
+  "character": "Qiqi",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "substat": "Healing Bonus",
+  "inferred_roles": [
+    "Healer"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Healer": 3
+  }
+}

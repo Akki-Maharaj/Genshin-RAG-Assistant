@@ -1,0 +1,308 @@
+[
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Kaeya — Hello: Kaeya, Knight of Favonius. Please allow me to join you on your journey. Guarding you on your journey sounds far more entertaining than any of the usual Favonius stuff."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Nothing to Do",
+    "text": "Kaeya — Chat: Nothing to Do: I didn't know you were such a slacker."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Knights of Favonius",
+    "text": "Kaeya — Chat: Knights of Favonius: Hehe, seems all the other knights already have their hands full."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Laziness",
+    "text": "Kaeya — Chat: Laziness: Come on, let's get moving. We're not frozen in place, after all."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains",
+    "text": "Kaeya — When It Rains: Cryo is always far more effective in the rain. This is going to get interesting..."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "When It Snows: Anecdote",
+    "text": "Kaeya — When It Snows: Anecdote: How about a ghost story to go with the snow?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "When It Snows: Cold",
+    "text": "Kaeya — When It Snows: Cold: What's wrong? Can't handle the cold?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "When It's Windy",
+    "text": "Kaeya — When It's Windy: What a pleasant breeze. I wonder how long it'll last?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Kaeya — Good Morning: Seize the day."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Kaeya — Good Afternoon: Hey, fancy joining me at the tavern for a bit?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Kaeya — Good Evening: You're not scared of the dark, are you? That's... interesting."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Kaeya — Good Night: Leaving already? See you next time, then. Don't make me wait too long, though."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_self",
+    "vo_title": "About {name}",
+    "text": "Kaeya — About {name}: Is the Abyss Order causing you trouble? If there's anything bothering you, you know you can talk to me."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Employment Relationship",
+    "text": "Kaeya — About Us: Employment Relationship: If you ever need me, let me know. Let's not make this a transaction relationship."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Strength",
+    "text": "Kaeya — About Us: Strength: Oh? Well, if you're concerned about keeping things professional, maybe you can find more use for me on the front lines. How 'bout it, boss? Haha, just don't feel intimidated by what I can do."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Kaeya — About the [[Vision]]: Still struggling with how Visions work? Let's see... How can I explain it... The apparatus that allows us to see is our eyes. A Vision is the apparatus by which we control the elements. Simple, is it not?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share",
+    "text": "Kaeya — Something to Share: Do you drink wine? [[Dandelion Wine"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Kaeya — Interesting Things: Have you ever seen the owl of Dragonspine? If you look directly at it, it seems to see right through you, while letting go of none of its own secrets... Quite fascinating, don't you think?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Jean]]",
+    "text": "Kaeya — About [[Jean]]: What? The Acting Grand Master? You need to give her your full support."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Lisa]]",
+    "text": "Kaeya — About [[Lisa]]: Oh Lisa. Hmm... You'd better not forget to return your books on time. I made that mistake once and boy was she angry. My arm is still numb from last time..."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Amber]]",
+    "text": "Kaeya — About [[Amber]]: That Outrider is a clever and righteous knight. Be careful not to step out of line in front of her."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Diluc]]",
+    "text": "Kaeya — About [[Diluc]]: Diluc? He was cute as a young lad. But nowadays he just seems to be in a world of his own... Overall, not much fun to hang out with."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Klee]]",
+    "text": "Kaeya — About [[Klee]]: Klee. Seems she has failed to elude the Acting Grand Master's investigative skills, despite the pointers I gave her... Haha, I'm kidding, no need to go reporting me or anything."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Albedo]]",
+    "text": "Kaeya — About [[Albedo]]: Albedo, eh? Calm, collected, and incredibly talented. He's the type everybody likes, some even more so than others. What, you into him as well?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Diona]]",
+    "text": "Kaeya — About [[Diona]]: Have you tried one of Diona's drinks? Oh right, you're still underage. Haha, such a shame, it truly is — to not be able to revel with you in such bliss. Hehe, I guess all we can do is wait for you to be old enough."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Varka]]",
+    "text": "Kaeya — About [[Varka]]: Now that you mention him, it is a shame there is no one in the Knights of Favonius to inherit the Grand Master's approach to his work. *sigh* I must say I really do appreciate people like him."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Fischl]]",
+    "text": "Kaeya — About [[Fischl]]: Hmm? You think Fischl having one eye covered is very fitting given her title of Prinzessin der Verurteilung. Hahaha, if that's the case, that must also make me a descendant of some kind of former royal lineage, no?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Noelle]]",
+    "text": "Kaeya — About [[Noelle]]: I was entrusted by the Acting Grand Master to work in the background to support Noelle. But there hasn't been much for me to concern myself with — she has a good head on her shoulders. Quite the relief."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Rosaria]]",
+    "text": "Kaeya — About [[Rosaria]]: Ahaha, you want to know about the secrets of Sister Rosaria? That... I cannot tell you. Though my impression of her is not bad — certainly better than a certain someone whose name I won't bother to mention. She's honest with herself. She casts off that which she has no time for and she doesn't feign motivation for affairs that do not interest her."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Sucrose]]",
+    "text": "Kaeya — About [[Sucrose]]: Sucrose may not be much of an extrovert in public, but as they say — it's always the quiet ones... Apparently, her laboratory is home to quite the eclectic range of implements and her experiments are more than just intellectually stimulating... All hearsay, of course. You don't seriously think I would go snooping around a fair lady's private quarters, do you?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Collei]]",
+    "text": "Kaeya — About [[Collei]]: Oh, Collei? Oho, now there's a name I haven't heard in a while... You came to the right person! Let me tell you her whole story, starting right from the very beginning, with all the delicious details!"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Mika]]",
+    "text": "Kaeya — About [[Mika]]: When I first met Mika, he seemed like the nervous type, so I decided to joke around with him a little. I didn't count on that making him even more nervous... His smile looked as if it were plastered onto his face, and in the end, he even wrote me a letter of apology. Tsk-tsk. Does taking everything so seriously run in the Schmidts' blood?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Dahlia]]",
+    "text": "Kaeya — About [[Dahlia]]: Do you know if he drinks a lot of wine as part of church ceremonies? Because his alcohol tolerance is through the steeple. The first time we got to know each other was when I lost to him in a drinking contest. Well, the Anemo Archon loves his wine, so it's fitting that his spokesperson is such a devoted advocate for the wonders of alcohol... Things like that are what give the City of Freedom its charm."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Lohen]]",
+    "text": "Kaeya — About [[Lohen]]: That Lohen kid hasn't come to me for a forged signature in a while. I wonder if he's already mastered the art? He's certainly smart enough... Give it a while, and I'll write him a letter in the Grand Master's handwriting. Then we'll see how much he's learned..."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: I",
+    "text": "Kaeya — More About {name}: I: The title of Cavalry Captain is nothing to get excited about. Now that I think about it, the Grand Master took all the cavalry from Mondstadt so there's none left for me to captain..."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: II",
+    "text": "Kaeya — More About {name}: II: There are a total of ten captains within the Knights of Favonius. But truth be told, not all of them have what it takes to be leaders."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: III",
+    "text": "Kaeya — More About {name}: III: My eye? My eye is fine. There's nothing unusual about hiding one's body parts from view. It's the same reason I wear pants... or any other item of clothing, for that matter."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: IV",
+    "text": "Kaeya — More About {name}: IV: Khaenri'ah, huh? You sure know a lot! The legacy of Khaenri'ah is long gone. The [[Abyss Order"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: V",
+    "text": "Kaeya — More About {name}: V: I didn't realize we'd known each other for so long now. Time flies! You know, following you on your journey might just be the most fun I've had in my whole life. I hope it stays that way."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Hobbies",
+    "text": "Kaeya — {name}'s Hobbies: Wine tasting is an art form. Mondstadt's wine is a gift from the Anemo Archon. It's only right that one should learn how to appreciate it."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Troubles",
+    "text": "Kaeya — {name}'s Troubles: Lonely? Me? Not with someone here nagging me all the time, that's for sure."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Kaeya — Favorite Food: Sparkling wine is a specialty of Mondstadt. Mix it with three parts Dandelion Wine and the bitterness disappears completely. This concoction is known as \"Death After Noon.\" Delectable."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Kaeya — Least Favorite Food: I can't believe that some people actually drink grape juice... If they had a little more patience, they would find that it ferments into the most exquisite wine. Hmph. So unromantic."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Kaeya — Receiving a Gift: I: Ho! This is quite exceptional... You are full of surprises."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Kaeya — Receiving a Gift: II: You should serve this with wine, it would really add the finishing touch."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Kaeya — Receiving a Gift: III: Ew... *Ahem* I'm just a slow eater... I'll finish it, don't worry."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Kaeya — Birthday: Today is a day worth celebrating, I hope this day can bring you true happiness."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Kaeya — Feelings About Ascension: Intro: Hmm. Not bad."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Kaeya — Feelings About Ascension: Building Up: You always seem to be around to give me a hand. Thanks."
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Kaeya — Feelings About Ascension: Climax: Hmm, seems I'm getting stronger. I say, how is it you seem happier than me about it?"
+  },
+  {
+    "character": "Kaeya",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Kaeya — Feelings About Ascension: Conclusion: We were just traveling partners. I never thought I'd have you to thank for getting me to this point. Seems I really should respond in kind. Let us carry on, partner. The road ahead is still long. }}"
+  }
+]

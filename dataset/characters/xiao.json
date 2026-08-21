@@ -1,0 +1,228 @@
+{
+  "query": "Xiao",
+  "folder": "characters",
+  "match": "Xiao",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "xiao",
+  "result": {
+    "id": 10000026,
+    "name": "Xiao",
+    "title": "Vigilant Yaksha",
+    "description": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
+    "weaponType": "WEAPON_POLE",
+    "weaponText": "Polearm",
+    "bodyType": "BODY_BOY",
+    "gender": "Male",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "4/17",
+    "birthday": "April 17",
+    "elementType": "ELEMENT_ANEMO",
+    "elementText": "Anemo",
+    "affiliation": "Liyue Adeptus",
+    "associationType": "ASSOC_LIYUE",
+    "region": "Liyue",
+    "substatType": "FIGHT_PROP_CRITICAL",
+    "substatText": "CRIT Rate",
+    "constellation": "Alatus Nemeseos",
+    "cv": {
+      "english": "Laila Berzins",
+      "chinese": "kinsen",
+      "japanese": "松岡禎丞",
+      "korean": "Shim Kyu-hyeok"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104151,
+          "name": "Vayuda Turquoise Sliver",
+          "count": 1
+        },
+        {
+          "id": 100031,
+          "name": "Qingxin",
+          "count": 3
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 3
+        },
+        {
+          "id": 113016,
+          "name": "Juvenile Jade",
+          "count": 2
+        },
+        {
+          "id": 100031,
+          "name": "Qingxin",
+          "count": 10
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 6
+        },
+        {
+          "id": 113016,
+          "name": "Juvenile Jade",
+          "count": 4
+        },
+        {
+          "id": 100031,
+          "name": "Qingxin",
+          "count": 20
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 3
+        },
+        {
+          "id": 113016,
+          "name": "Juvenile Jade",
+          "count": 8
+        },
+        {
+          "id": 100031,
+          "name": "Qingxin",
+          "count": 30
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 6
+        },
+        {
+          "id": 113016,
+          "name": "Juvenile Jade",
+          "count": 12
+        },
+        {
+          "id": 100031,
+          "name": "Qingxin",
+          "count": 45
+        },
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104154,
+          "name": "Vayuda Turquoise Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113016,
+          "name": "Juvenile Jade",
+          "count": 20
+        },
+        {
+          "id": 100031,
+          "name": "Qingxin",
+          "count": 60
+        },
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Character_Xiao_Card.jpg",
+      "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Character_Xiao_Portrait.png",
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/22/930f3ce55517e3c711a962c82e4639c0_8691377287489555826.png",
+      "cover2": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/20/f39029c2d532da642a6a26e939342cfe_5885839034097905642.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/59cb768b56ebc0143d6d2e37385c934c.png",
+      "filename_icon": "UI_AvatarIcon_Xiao",
+      "filename_iconCard": "UI_AvatarIcon_Xiao_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Xiao",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Xiao",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Xiao",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiao.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Xiao_icon.png"
+    },
+    "url": {
+      "fandom": "https://genshin-impact.fandom.com/wiki/Xiao"
+    },
+    "version": "1.3"
+  }
+}

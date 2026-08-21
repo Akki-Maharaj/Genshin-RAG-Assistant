@@ -1,0 +1,133 @@
+{
+  "query": "Dull Blade",
+  "folder": "weapons",
+  "match": "Dull Blade",
+  "matchfolder": "weapons",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "dullblade",
+  "result": {
+    "id": 11101,
+    "name": "Dull Blade",
+    "description": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance.",
+    "descriptionRaw": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance.",
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "weaponText": "Sword",
+    "rarity": 1,
+    "story": "Travels are full of meetings and partings.\nPerhaps the only trusty and inseparable companions of a Traveler,\nAre the sword in their hand and the dream in their heart.",
+    "baseAtkValue": 23.245,
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 0
+        },
+        {
+          "id": 114001,
+          "name": "Tile of Decarabian's Tower",
+          "count": 1
+        },
+        {
+          "id": 112014,
+          "name": "Heavy Horn",
+          "count": 1
+        },
+        {
+          "id": 112011,
+          "name": "Firm Arrowhead",
+          "count": 1
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 5000
+        },
+        {
+          "id": 114002,
+          "name": "Debris of Decarabian's City",
+          "count": 1
+        },
+        {
+          "id": 112014,
+          "name": "Heavy Horn",
+          "count": 4
+        },
+        {
+          "id": 112011,
+          "name": "Firm Arrowhead",
+          "count": 2
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 5000
+        },
+        {
+          "id": 114002,
+          "name": "Debris of Decarabian's City",
+          "count": 2
+        },
+        {
+          "id": 112015,
+          "name": "Black Bronze Horn",
+          "count": 2
+        },
+        {
+          "id": 112012,
+          "name": "Sharp Arrowhead",
+          "count": 2
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 10000
+        },
+        {
+          "id": 114003,
+          "name": "Fragment of Decarabian's Epic",
+          "count": 1
+        },
+        {
+          "id": 112015,
+          "name": "Black Bronze Horn",
+          "count": 4
+        },
+        {
+          "id": 112012,
+          "name": "Sharp Arrowhead",
+          "count": 3
+        }
+      ]
+    },
+    "images": {
+      "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png",
+      "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt_Awaken.png",
+      "filename_icon": "UI_EquipIcon_Sword_Blunt",
+      "filename_awakenIcon": "UI_EquipIcon_Sword_Blunt_Awaken",
+      "filename_gacha": "UI_Gacha_EquipIcon_Sword_Blunt",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png",
+      "mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt_Awaken.png"
+    },
+    "version": "1.0"
+  }
+}

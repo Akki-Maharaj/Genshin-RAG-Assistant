@@ -1,0 +1,16 @@
+{
+  "character": "Chasca",
+  "element": "Anemo",
+  "weapon_type": "Bow",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Crowd_Control": 2
+  }
+}

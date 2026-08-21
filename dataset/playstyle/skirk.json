@@ -1,0 +1,19 @@
+{
+  "character": "Skirk",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "substat": "CRIT DMG",
+  "inferred_roles": [
+    "Shielder",
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Shielder": 5,
+    "Crowd_Control": 1
+  }
+}

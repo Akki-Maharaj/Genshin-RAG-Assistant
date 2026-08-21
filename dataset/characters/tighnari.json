@@ -1,0 +1,223 @@
+{
+  "query": "Tighnari",
+  "folder": "characters",
+  "match": "Tighnari",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "tighnari",
+  "result": {
+    "id": 10000069,
+    "name": "Tighnari",
+    "title": "Verdant Strider",
+    "description": "A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart — and a dab hand at guiding even the dullest of pupils.",
+    "weaponType": "WEAPON_BOW",
+    "weaponText": "Bow",
+    "bodyType": "BODY_BOY",
+    "gender": "Male",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "12/29",
+    "birthday": "December 29",
+    "elementType": "ELEMENT_DENDRO",
+    "elementText": "Dendro",
+    "affiliation": "Gandharva Ville",
+    "associationType": "ASSOC_SUMERU",
+    "region": "Sumeru",
+    "substatType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "substatText": "Dendro DMG Bonus",
+    "constellation": "Vulpes Zerda",
+    "cv": {
+      "english": "Zachary Gordon",
+      "chinese": "莫然",
+      "japanese": "小林沙苗",
+      "korean": "Jung Ui-taek"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104131,
+          "name": "Nagadus Emerald Sliver",
+          "count": 1
+        },
+        {
+          "id": 101215,
+          "name": "Nilotpala Lotus",
+          "count": 3
+        },
+        {
+          "id": 112059,
+          "name": "Fungal Spores",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104132,
+          "name": "Nagadus Emerald Fragment",
+          "count": 3
+        },
+        {
+          "id": 113036,
+          "name": "Majestic Hooked Beak",
+          "count": 2
+        },
+        {
+          "id": 101215,
+          "name": "Nilotpala Lotus",
+          "count": 10
+        },
+        {
+          "id": 112059,
+          "name": "Fungal Spores",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104132,
+          "name": "Nagadus Emerald Fragment",
+          "count": 6
+        },
+        {
+          "id": 113036,
+          "name": "Majestic Hooked Beak",
+          "count": 4
+        },
+        {
+          "id": 101215,
+          "name": "Nilotpala Lotus",
+          "count": 20
+        },
+        {
+          "id": 112060,
+          "name": "Luminescent Pollen",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104133,
+          "name": "Nagadus Emerald Chunk",
+          "count": 3
+        },
+        {
+          "id": 113036,
+          "name": "Majestic Hooked Beak",
+          "count": 8
+        },
+        {
+          "id": 101215,
+          "name": "Nilotpala Lotus",
+          "count": 30
+        },
+        {
+          "id": 112060,
+          "name": "Luminescent Pollen",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104133,
+          "name": "Nagadus Emerald Chunk",
+          "count": 6
+        },
+        {
+          "id": 113036,
+          "name": "Majestic Hooked Beak",
+          "count": 12
+        },
+        {
+          "id": 101215,
+          "name": "Nilotpala Lotus",
+          "count": 45
+        },
+        {
+          "id": 112061,
+          "name": "Crystalline Cyst Dust",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104134,
+          "name": "Nagadus Emerald Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113036,
+          "name": "Majestic Hooked Beak",
+          "count": 20
+        },
+        {
+          "id": 101215,
+          "name": "Nilotpala Lotus",
+          "count": 60
+        },
+        {
+          "id": 112061,
+          "name": "Crystalline Cyst Dust",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/08/23/a15445b2b2e4443398eabf3b479f49e7_2848574930993769772.png",
+      "cover2": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/08/23/b00b62e3b4f10026bfa95bc07896bbd7_4361735007308383481.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/58163a3ff45260b4b6a5e447e9e1b7eb.png",
+      "filename_icon": "UI_AvatarIcon_Tighnari",
+      "filename_iconCard": "UI_AvatarIcon_Tighnari_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Tighnari",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Tighnari",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Tighnari",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Tighnari.png",
+      "hoyowiki_icon": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/22/35428890/497dd6fac3d3c652a367c67428550747_306268558608889633.png"
+    },
+    "version": "3.0"
+  }
+}

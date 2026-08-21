@@ -1,0 +1,260 @@
+[
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Razor — Hello: You smell... *sniff* nice! Let's hunt."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Scent",
+    "text": "Razor — Chat: Scent: *sniff* I smell rabbit."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Hunger",
+    "text": "Razor — Chat: Hunger: I'm hungry. Let's hunt."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Wind-gazing",
+    "text": "Razor — Chat: Wind-gazing: I keep watch. You leave, you call me."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "When Thunder Strikes: Warning",
+    "text": "Razor — When Thunder Strikes: Warning: If you're scared of lightning, hide now."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "When Thunder Strikes: Guidance",
+    "text": "Razor — When Thunder Strikes: Guidance: Avoid the trees. Follow me."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "When It's Windy",
+    "text": "Razor — When It's Windy: Wind... I like the wind."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "When the Wind Is Blowing",
+    "text": "Razor — When the Wind Is Blowing: The wind... bites hard."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Razor — Good Morning: The sun is up. Time to hunt."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Razor — Good Afternoon: I had a big lunch. Lots of meat. Mm, I'm happy."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Razor — Good Evening: Go to sleep. I watch the moon."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Razor — Good Night: You sleep now. I keep watch."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_self",
+    "vo_title": "About {name}",
+    "text": "Razor — About {name}: I have no human family. I am a wolf."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Friends",
+    "text": "Razor — About Us: Friends: You are my friend. We can hunt. Together!"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Weapons",
+    "text": "Razor — About Us: Weapons: I have iron claws and teeth of thunder. I protect you."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Razor — About the [[Vision]]: Vision helps Razor... fight with lightning tooth! Protect Lupical!"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share",
+    "text": "Razor — Something to Share: I like the stars at night. So many stars. In the sky, in the lake. And in the city."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Razor — Interesting Things: The wolves are my Lupical. My family."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Lisa]]",
+    "text": "Razor — About [[Lisa]]: Lisa lightning makes the sky black. She is strong. She is scary."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Barbara]]",
+    "text": "Razor — About [[Barbara]]: Shining Barbara is a good child. Very good child."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Diluc]]",
+    "text": "Razor — About [[Diluc]]: Diluc is red and black. Hot and cold."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Venti]]",
+    "text": "Razor — About [[Venti]]: Razor doesn't know poems, but... Lupical likes them."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Bennett]]",
+    "text": "Razor — About [[Bennett]]: Bennett... Much talking. Eat with him, never full."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Klee]]",
+    "text": "Razor — About [[Klee]]: Klee, friend! Friend, but... big hassle."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Varka]]: Stranger",
+    "text": "Razor — About [[Varka]]: Stranger: Varka? Razor doesn't know..."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_about_others",
+    "vo_title": "About Varka: Memory",
+    "text": "Razor — About Varka: Memory: Oh, Varka is... a name. That man big. Big steelclaw, Razor's name — Varka gave him. Oh... want to see him."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: I",
+    "text": "Razor — More About {name}: I: *sniff* Hmm... You smell kind. Do you like meat?"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: II",
+    "text": "Razor — More About {name}: II: You are strong. Like a wolf. I like to hunt with you. We catch a lot."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: III",
+    "text": "Razor — More About {name}: III: Lupical means wolf home— no, Lupical means wolf family. My Lupical lives in the woods. They say I am their Lupical."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: IV",
+    "text": "Razor — More About {name}: IV: My Lupical is my only family. But I don't have four legs, not like them. Because I'm not a real wolf. Sometimes, this makes me sad."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: V",
+    "text": "Razor — More About {name}: V: When I run with you, when I hunt with you, I am happy. With you, I am not a wolf, I am not a boy, I am just me. I am Razor. Because you are my friend. You are my Lupical. I hope you feel happy, too!"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Hobbies",
+    "text": "Razor — {name}'s Hobbies: I like Lupical. I like the woods. I like my friend. I like to run!"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Troubles",
+    "text": "Razor — {name}'s Troubles: Talking makes me tired. Talking is... hard. But... I have to try."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Razor — Favorite Food: I like meat, and... I like potatoes."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Razor — Least Favorite Food: Greens are bad. Animal eats green things. Then I eat animal!"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Razor — Receiving a Gift: I: Smells good, also tastes good, I like it."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Razor — Receiving a Gift: II: Eating this gives me energy, makes me happy."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Razor — Receiving a Gift: III: Eating it, bad. Not eating it, also bad. I'm a bit sad."
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Razor — Birthday: Today is your day. You were born on this day, many moons ago. I want to make you happy today. Can we eat meat together?"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Razor — Feelings About Ascension: Intro: Arms... bigger!"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Razor — Feelings About Ascension: Building Up: Grr! Sharpen claws. Sharpen teeth. Become stronger!"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Razor — Feelings About Ascension: Climax: Run... Hunt... No. No! Must... become stronger!"
+  },
+  {
+    "character": "Razor",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Razor — Feelings About Ascension: Conclusion: Teeth. Claws. Legs. All bigger. All stronger! To protect you. }}"
+  }
+]

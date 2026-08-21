@@ -1,0 +1,18 @@
+{
+  "character": "Ifa",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "substat": "Elemental Mastery",
+  "inferred_roles": [
+    "Healer",
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Healer": 1,
+    "Crowd_Control": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Lumine",
+  "folder": "talents",
+  "matchfolder": "talents",
+  "matchtype": "none",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  }
+}

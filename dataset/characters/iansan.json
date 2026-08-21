@@ -1,0 +1,220 @@
+{
+  "query": "Iansan",
+  "folder": "characters",
+  "match": "Iansan",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "iansan",
+  "result": {
+    "id": 10000110,
+    "name": "Iansan",
+    "title": "Tempered in Molten Stone",
+    "description": "Head coach of the fitness club at the Collective of Plenty, and a renowned Natlanese nutritionist.",
+    "weaponType": "WEAPON_POLE",
+    "weaponText": "Polearm",
+    "bodyType": "BODY_LOLI",
+    "gender": "Female",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "8/8",
+    "birthday": "August 8",
+    "elementType": "ELEMENT_ELECTRO",
+    "elementText": "Electro",
+    "affiliation": "Teteocan",
+    "associationType": "ASSOC_NATLAN",
+    "region": "Natlan",
+    "substatType": "FIGHT_PROP_ATTACK_PERCENT",
+    "substatText": "ATK",
+    "constellation": "Carnotaurus",
+    "cv": {
+      "english": "Katrina Salisbury",
+      "chinese": "真理",
+      "japanese": "大橋彩香",
+      "korean": "Lee Jae-hyun"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104141,
+          "name": "Vajrada Amethyst Sliver",
+          "count": 1
+        },
+        {
+          "id": 101255,
+          "name": "Dracolite",
+          "count": 3
+        },
+        {
+          "id": 112104,
+          "name": "Sentry's Wooden Whistle",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104142,
+          "name": "Vajrada Amethyst Fragment",
+          "count": 3
+        },
+        {
+          "id": 113067,
+          "name": "Ensnaring Gaze",
+          "count": 2
+        },
+        {
+          "id": 101255,
+          "name": "Dracolite",
+          "count": 10
+        },
+        {
+          "id": 112104,
+          "name": "Sentry's Wooden Whistle",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104142,
+          "name": "Vajrada Amethyst Fragment",
+          "count": 6
+        },
+        {
+          "id": 113067,
+          "name": "Ensnaring Gaze",
+          "count": 4
+        },
+        {
+          "id": 101255,
+          "name": "Dracolite",
+          "count": 20
+        },
+        {
+          "id": 112105,
+          "name": "Warrior's Metal Whistle",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104143,
+          "name": "Vajrada Amethyst Chunk",
+          "count": 3
+        },
+        {
+          "id": 113067,
+          "name": "Ensnaring Gaze",
+          "count": 8
+        },
+        {
+          "id": 101255,
+          "name": "Dracolite",
+          "count": 30
+        },
+        {
+          "id": 112105,
+          "name": "Warrior's Metal Whistle",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104143,
+          "name": "Vajrada Amethyst Chunk",
+          "count": 6
+        },
+        {
+          "id": 113067,
+          "name": "Ensnaring Gaze",
+          "count": 12
+        },
+        {
+          "id": 101255,
+          "name": "Dracolite",
+          "count": 45
+        },
+        {
+          "id": 112106,
+          "name": "Saurian-Crowned Warrior's Golden Whistle",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104144,
+          "name": "Vajrada Amethyst Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113067,
+          "name": "Ensnaring Gaze",
+          "count": 20
+        },
+        {
+          "id": 101255,
+          "name": "Dracolite",
+          "count": 60
+        },
+        {
+          "id": 112106,
+          "name": "Saurian-Crowned Warrior's Golden Whistle",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_Iansan",
+      "filename_iconCard": "UI_AvatarIcon_Iansan_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Iansan",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Iansan",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Iansan",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Iansan.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Iansan.png",
+      "hoyowiki_icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/25/dd9a200a86b792fb1b73ef1ee7de0911_2097378734184941134.png"
+    },
+    "version": "5.5"
+  }
+}

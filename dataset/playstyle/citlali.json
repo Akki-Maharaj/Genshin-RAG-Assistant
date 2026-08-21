@@ -1,0 +1,19 @@
+{
+  "character": "Citlali",
+  "element": "Cryo",
+  "weapon_type": "Catalyst",
+  "substat": "Elemental Mastery",
+  "inferred_roles": [
+    "Shielder",
+    "Off_Field_DPS"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Shielder": 3,
+    "Off_Field_DPS": 1
+  }
+}

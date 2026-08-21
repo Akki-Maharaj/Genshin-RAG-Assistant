@@ -1,0 +1,15 @@
+{
+  "character": "Shenhe",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "substat": "ATK",
+  "inferred_roles": [
+    "Unclear/Flex"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {}
+}

@@ -1,0 +1,15 @@
+{
+  "character": "Bennett",
+  "element": "Pyro",
+  "weapon_type": "Sword",
+  "substat": "Energy Recharge",
+  "inferred_roles": [
+    "Unclear/Flex"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Hydro)",
+    "Melt (with Cryo)",
+    "Pyro DMG"
+  ],
+  "role_keyword_scores": {}
+}

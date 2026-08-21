@@ -1,0 +1,18 @@
+{
+  "character": "Illuga",
+  "element": "Geo",
+  "weapon_type": "Polearm",
+  "substat": "Elemental Mastery",
+  "inferred_roles": [
+    "Off_Field_DPS",
+    "Main_DPS_Crit"
+  ],
+  "reaction_tags": [
+    "Crystallize (with elemental)",
+    "Shielding via Crystallize"
+  ],
+  "role_keyword_scores": {
+    "Off_Field_DPS": 3,
+    "Main_DPS_Crit": 2
+  }
+}

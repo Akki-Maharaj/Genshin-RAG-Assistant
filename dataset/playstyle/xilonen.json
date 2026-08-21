@@ -1,0 +1,16 @@
+{
+  "character": "Xilonen",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "substat": "DEF",
+  "inferred_roles": [
+    "Healer"
+  ],
+  "reaction_tags": [
+    "Crystallize (with elemental)",
+    "Shielding via Crystallize"
+  ],
+  "role_keyword_scores": {
+    "Healer": 1
+  }
+}

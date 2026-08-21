@@ -1,0 +1,16 @@
+{
+  "character": "Jahoda",
+  "element": "Anemo",
+  "weapon_type": "Bow",
+  "substat": "Healing Bonus",
+  "inferred_roles": [
+    "Healer"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Healer": 2
+  }
+}

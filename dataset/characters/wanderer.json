@@ -1,0 +1,222 @@
+{
+  "query": "Wanderer",
+  "folder": "characters",
+  "match": "Wanderer",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "wanderer",
+  "result": {
+    "id": 10000075,
+    "name": "Wanderer",
+    "title": "Eons Adrift",
+    "description": "A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.",
+    "weaponType": "WEAPON_CATALYST",
+    "weaponText": "Catalyst",
+    "bodyType": "BODY_BOY",
+    "gender": "Male",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "1/3",
+    "birthday": "January 3",
+    "elementType": "ELEMENT_ANEMO",
+    "elementText": "Anemo",
+    "affiliation": "None",
+    "associationType": "ASSOC_SUMERU",
+    "region": "Sumeru",
+    "substatType": "FIGHT_PROP_CRITICAL",
+    "substatText": "CRIT Rate",
+    "constellation": "Peregrinus",
+    "cv": {
+      "english": "Patrick Pedraza",
+      "chinese": "鹿喑",
+      "japanese": "柿原徹也",
+      "korean": "Min Seung-woo"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104151,
+          "name": "Vayuda Turquoise Sliver",
+          "count": 1
+        },
+        {
+          "id": 101213,
+          "name": "Rukkhashava Mushrooms",
+          "count": 3
+        },
+        {
+          "id": 112044,
+          "name": "Old Handguard",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 3
+        },
+        {
+          "id": 113038,
+          "name": "Perpetual Caliber",
+          "count": 2
+        },
+        {
+          "id": 101213,
+          "name": "Rukkhashava Mushrooms",
+          "count": 10
+        },
+        {
+          "id": 112044,
+          "name": "Old Handguard",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 6
+        },
+        {
+          "id": 113038,
+          "name": "Perpetual Caliber",
+          "count": 4
+        },
+        {
+          "id": 101213,
+          "name": "Rukkhashava Mushrooms",
+          "count": 20
+        },
+        {
+          "id": 112045,
+          "name": "Kageuchi Handguard",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 3
+        },
+        {
+          "id": 113038,
+          "name": "Perpetual Caliber",
+          "count": 8
+        },
+        {
+          "id": 101213,
+          "name": "Rukkhashava Mushrooms",
+          "count": 30
+        },
+        {
+          "id": 112045,
+          "name": "Kageuchi Handguard",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 6
+        },
+        {
+          "id": 113038,
+          "name": "Perpetual Caliber",
+          "count": 12
+        },
+        {
+          "id": 101213,
+          "name": "Rukkhashava Mushrooms",
+          "count": 45
+        },
+        {
+          "id": 112046,
+          "name": "Famed Handguard",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104154,
+          "name": "Vayuda Turquoise Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113038,
+          "name": "Perpetual Caliber",
+          "count": 20
+        },
+        {
+          "id": 101213,
+          "name": "Rukkhashava Mushrooms",
+          "count": 60
+        },
+        {
+          "id": 112046,
+          "name": "Famed Handguard",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/11/28/d44dde6ef8b8b1963b06a94d3ea0186b_7722607396547674191.png",
+      "cover2": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/11/28/11975168707d46fe05531b133bf4bde9_2298638257865854608.png",
+      "filename_icon": "UI_AvatarIcon_Wanderer",
+      "filename_iconCard": "UI_AvatarIcon_Wanderer_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Wanderer",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Wanderer",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Wanderer",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Wanderer.png",
+      "hoyowiki_icon": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/05/35428890/24d97a22be742fb732ea96f625d1faac_2495743636540582085.png"
+    },
+    "version": "3.3"
+  }
+}

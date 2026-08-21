@@ -1,0 +1,228 @@
+{
+  "query": "Beidou",
+  "folder": "characters",
+  "match": "Beidou",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "beidou",
+  "result": {
+    "id": 10000024,
+    "name": "Beidou",
+    "title": "Uncrowned Lord of the Ocean",
+    "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+    "weaponType": "WEAPON_CLAYMORE",
+    "weaponText": "Claymore",
+    "bodyType": "BODY_LADY",
+    "gender": "Female",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "2/14",
+    "birthday": "February 14",
+    "elementType": "ELEMENT_ELECTRO",
+    "elementText": "Electro",
+    "affiliation": "The Crux",
+    "associationType": "ASSOC_LIYUE",
+    "region": "Liyue",
+    "substatType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "substatText": "Electro DMG Bonus",
+    "constellation": "Victor Mare",
+    "cv": {
+      "english": "Allegra Clark",
+      "chinese": "唐雅菁",
+      "japanese": "小清水亜美",
+      "korean": "Jung Yoo-mi"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104141,
+          "name": "Vajrada Amethyst Sliver",
+          "count": 1
+        },
+        {
+          "id": 100028,
+          "name": "Noctilucous Jade",
+          "count": 3
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104142,
+          "name": "Vajrada Amethyst Fragment",
+          "count": 3
+        },
+        {
+          "id": 113002,
+          "name": "Lightning Prism",
+          "count": 2
+        },
+        {
+          "id": 100028,
+          "name": "Noctilucous Jade",
+          "count": 10
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104142,
+          "name": "Vajrada Amethyst Fragment",
+          "count": 6
+        },
+        {
+          "id": 113002,
+          "name": "Lightning Prism",
+          "count": 4
+        },
+        {
+          "id": 100028,
+          "name": "Noctilucous Jade",
+          "count": 20
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104143,
+          "name": "Vajrada Amethyst Chunk",
+          "count": 3
+        },
+        {
+          "id": 113002,
+          "name": "Lightning Prism",
+          "count": 8
+        },
+        {
+          "id": 100028,
+          "name": "Noctilucous Jade",
+          "count": 30
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104143,
+          "name": "Vajrada Amethyst Chunk",
+          "count": 6
+        },
+        {
+          "id": 113002,
+          "name": "Lightning Prism",
+          "count": 12
+        },
+        {
+          "id": 100028,
+          "name": "Noctilucous Jade",
+          "count": 45
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104144,
+          "name": "Vajrada Amethyst Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113002,
+          "name": "Lightning Prism",
+          "count": 20
+        },
+        {
+          "id": 100028,
+          "name": "Noctilucous Jade",
+          "count": 60
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "card": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Character_Beidou_Card.jpg",
+      "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Character_Beidou_Portrait.png",
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/22/01d9b164e0de2611c84ccdec5b84ced8_6933755020052845255.png",
+      "cover2": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200227/2020022720104965706.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/515effa5bfabb8fc03a52cbf76a4a79e.png",
+      "filename_icon": "UI_AvatarIcon_Beidou",
+      "filename_iconCard": "UI_AvatarIcon_Beidou_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Beidou",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Beidou",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Beidou",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Beidou.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Beidou_icon.png"
+    },
+    "url": {
+      "fandom": "https://genshin-impact.fandom.com/wiki/Beidou"
+    },
+    "version": "1.0"
+  }
+}

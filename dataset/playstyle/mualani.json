@@ -1,0 +1,17 @@
+{
+  "character": "Mualani",
+  "element": "Hydro",
+  "weapon_type": "Catalyst",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Pyro)",
+    "Freeze (with Cryo)",
+    "Electro-Charged (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Crowd_Control": 1
+  }
+}

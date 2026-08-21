@@ -1,0 +1,14 @@
+{
+  "character": "Navia",
+  "element": "Geo",
+  "weapon_type": "Claymore",
+  "substat": "CRIT DMG",
+  "inferred_roles": [
+    "Unclear/Flex"
+  ],
+  "reaction_tags": [
+    "Crystallize (with elemental)",
+    "Shielding via Crystallize"
+  ],
+  "role_keyword_scores": {}
+}

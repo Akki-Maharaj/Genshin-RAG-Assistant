@@ -1,0 +1,17 @@
+{
+  "character": "Thoma",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "substat": "ATK",
+  "inferred_roles": [
+    "Shielder"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Hydro)",
+    "Melt (with Cryo)",
+    "Pyro DMG"
+  ],
+  "role_keyword_scores": {
+    "Shielder": 4
+  }
+}

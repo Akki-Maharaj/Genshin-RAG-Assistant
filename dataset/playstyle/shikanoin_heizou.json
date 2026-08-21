@@ -1,0 +1,16 @@
+{
+  "character": "Shikanoin Heizou",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "substat": "Anemo DMG Bonus",
+  "inferred_roles": [
+    "Buffer"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Buffer": 1
+  }
+}

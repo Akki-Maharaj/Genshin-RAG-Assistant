@@ -1,0 +1,18 @@
+{
+  "character": "Xianyun",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "substat": "ATK",
+  "inferred_roles": [
+    "Healer",
+    "Main_DPS_Crit"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Healer": 2,
+    "Main_DPS_Crit": 1
+  }
+}

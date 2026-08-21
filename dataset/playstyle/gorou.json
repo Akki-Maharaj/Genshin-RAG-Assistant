@@ -1,0 +1,16 @@
+{
+  "character": "Gorou",
+  "element": "Geo",
+  "weapon_type": "Bow",
+  "substat": "Geo DMG Bonus",
+  "inferred_roles": [
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Crystallize (with elemental)",
+    "Shielding via Crystallize"
+  ],
+  "role_keyword_scores": {
+    "Crowd_Control": 1
+  }
+}

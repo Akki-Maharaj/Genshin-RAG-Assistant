@@ -1,0 +1,302 @@
+[
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Kujou Sara — Hello: I am Kujou Sara. You may forget my name, but this you must know: On my watch, Inazuma will always be defended, and the will of the [[Raiden Shogun"
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Target",
+    "text": "Kujou Sara — Chat: Target: To strike your foe takes unity between mind, arrow, and bow."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Eternity",
+    "text": "Kujou Sara — Chat: Eternity: To manifest Eternity per the Almighty Shogun's will — that is what I aspire to."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Duty",
+    "text": "Kujou Sara — Chat: Duty: The duty of a tengu warrior is to watch over the mountains and forests, while that of the Kujou Clan is to guard Inazuma. These two are of the same ilk."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains",
+    "text": "Kujou Sara — When It Rains: The sound of rain masks the enemy's footsteps. Stay alert."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "When Thunder Strikes",
+    "text": "Kujou Sara — When Thunder Strikes: Listen. Thunder speaks the will of the Almighty Shogun."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "When It Snows",
+    "text": "Kujou Sara — When It Snows: I would like to catch a snowflake, but once you have them in the palm of your hand, they melt away all the more quickly."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "When the Sun Is Out",
+    "text": "Kujou Sara — When the Sun Is Out: The skies are clear and the sun is bright. Fine weather for a showdown."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Kujou Sara — Good Morning: Good morning...? You mean you only just got out of bed? This is already quite late by my standards. I typically rise well before daybreak."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Kujou Sara — Good Afternoon: I am not in the habit of resting at noon. But if you wish to do so, I will wait for you."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Kujou Sara — Good Evening: Good evening. You know, in Hanamizaka, the sight of the Sakura by night is quite splendid. I never tire of it."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Kujou Sara — Good Night: Go and rest. I will stay here and keep watch."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Kujou Sara: Tenryou Commission",
+    "text": "Kujou Sara — About Kujou Sara: Tenryou Commission: I am grateful to [[Kujou Takayuki"
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Kujou Sara: Preparing for War",
+    "text": "Kujou Sara — About Kujou Sara: Preparing for War: Am I ready to depart? Let me put it to you like this. If you were to make a habit of asking me this question every time before you move out, you would find that you only receive an answer from me one time out of 10. The other nine times, I would already be fighting fiercely on the front line. Not because I am foolhardy, nor because I lack courtesy, but because the battle never waits till you are ready."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Kujou Sara: Aspiration",
+    "text": "Kujou Sara — About Kujou Sara: Aspiration: My aspirations? I thought you already knew: To assist the Almighty Shogun in manifesting Eternity. That is what I aspire to. Hmm? Personal aspirations? It's not something I have ever thought about before..."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Observation",
+    "text": "Kujou Sara — About Us: Observation: Though you present an unstable factor in the Almighty Shogun's Eternity, unstable does not have to mean a threat. So I am not your enemy — but I will be watching you at all times."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Experiences",
+    "text": "Kujou Sara — About Us: Experiences: When I confiscated people's Visions, I trampled on their ambitions. Now that the Vision Hunt Decree has been repealed, I must atone for my actions. I am led to believe that you can hear those ambitions...The ones echoing within the Visions embedded on the Statue of the Omnipresent God? I'd like you to tell me more about them. Also... your own ambitions, I would like to hear about those as well."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Kujou Sara — About the [[Vision]]: Only if the gods cast their gaze upon you will you receive a Vision. Since my own Vision was granted by the Almighty Shogun, I shall return it to her in the end, without hesitation and with no regrets."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share: Spinning Top",
+    "text": "Kujou Sara — Something to Share: Spinning Top: During a previous assignment, a vendor in Hanamizaka gifted me a kind of spinning top called the \"Solo.\" It's a toy that you can play with when you're by yourself. I was quite taken with it, so I kept it. ...You want to play with it together? But that would defy the principle on which the Solo is based... Respectfully, I must decline."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share: Local Specialty",
+    "text": "Kujou Sara — Something to Share: Local Specialty: Do you know what the most distinctively Inazuman item of all is? No, it is not a blade of any sort. It is a lacquerware carving of the Statue of Her Excellency, the Almighty Narukami Ogosho, God of Thunder. They are hand-made by old and skilled lacquerware craftspeople, and nearly every single home in the city has one. My house, you ask? I have five."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Kujou Sara — Interesting Things: Whenever something is bothering me inside, I stand beneath the Sacred Sakura, close my eyes, and try to calm my mind. When I open my eyes again, the falling blossoms will guide my path."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Thoma]]",
+    "text": "Kujou Sara — About [[Thoma]]: The Tenryou Commission's estate is very large. It would serve us well to have a fine housekeeper like Thoma who could keep all the numerous and disparate household affairs in order. If he ever tires of working for the Kamisato Clan, I would very much like for him to come to us... though I doubt that day will ever come."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Kamisato Ayaka]]",
+    "text": "Kujou Sara — About [[Kamisato Ayaka]]: In the Kujou household, normally the only sound to be heard is that of soldiers training in the dojo. But in the Kamisato household, there is the sound of music, dance, bickering, and laughter... I have heard that Miss Kamisato is skilled in the game of Go, and have always hoped for an occasion to pay her a visit, but... I also worry that someone of a serious demeanor like myself may not quite fit in there."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Yoimiya]]",
+    "text": "Kujou Sara — About [[Yoimiya]]: As long as she is not setting off fireworks in my camp, I will cause her no trouble. Heh, yes, I know — all else aside, her fireworks are spectacular and brilliant, and she deserves all the praise she gets. The issue for me is that fireworks are fleeting in nature. After one brief moment of dazzling light, all that remains is the pitch-black night sky, the same as before. So I often have to caution myself not to become too captivated by this illusory spectacle. It is transient, but Inazuma is eternal, and my mission is to protect Inazuma."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Shikanoin Heizou]]",
+    "text": "Kujou Sara — About [[Shikanoin Heizou]]: Shikanoin and I may be colleagues, but I have few positive words to say about him. He seems preoccupied with his personal schemes while official duties take second place. The only reason I have not sought to bring him into line so far is that his investigations deliver results...*sigh* He is such a headache."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About the [[Raiden Shogun]]: Trust",
+    "text": "Kujou Sara — About the [[Raiden Shogun]]: Trust: As I'm sure you've heard many times before, the Almighty Shogun seeks Eternity — an existence beyond the dominion of thought and longing. \"Abandon mortal ties, strive for an unchanging Eternity\"... The Almighty Shogun's manner is always resolute, and I do not always fully grasp the meaning of her words. But this is her decision, and I trust her."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About the [[Raiden Shogun]]: Service",
+    "text": "Kujou Sara — About the [[Raiden Shogun]]: Service: So, the Vision Hunt Decree was repealed... Yes, it seems that you were right. ...Ahem, but this is not to say that the Almighty Shogun made a mistake. She has simply chosen to pursue eternity by a different route. I do not know whether the Shogun has finally found inner peace after protecting Inazuma over all these millennia. All I know is that however perilous the road ahead may become, I will follow her as I have always done."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Yae Miko]]",
+    "text": "Kujou Sara — About [[Yae Miko]]: Guuji Yae's actions often leave me with many questions... Nevertheless, the fact that she is the head shrine maiden of the [[Grand Narukami Shrine (Faction)"
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Sangonomiya Kokomi]]",
+    "text": "Kujou Sara — About [[Sangonomiya Kokomi]]: She is more proficient as a military strategist than a priestess. The way she uses directives to wage war is almost unheard of. I wonder if I should adopt this technique for commanding the Shogun's Army? Hmm... but this could lead us to a situation whereby war is waged at the negotiation table, each side with their pack of strategy cards, playing them one by one until a victor emerges... Then again, perhaps not."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Gorou]]",
+    "text": "Kujou Sara — About [[Gorou]]: Gorou is to Sangonomiya Kokomi as I am to the Raiden Shogun. He is fiercely loyal, and I have great respect for this. It's a shame we're on opposing sides, so we'll never get to work together... Still, I am glad to have an admirable foe. Also... I hear he's a fifth-born son. That just makes it even better."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Arataki Itto]]",
+    "text": "Kujou Sara — About [[Arataki Itto]]: Tsk... I can't help but get a little irate when his name comes up. He kicked up a big fuss when I confiscated his Vision, by far the noisiest person... no, the noisiest oni I've ever encountered. He showed he was enough of a man to admit defeat, but the rematch he insisted upon... Tsk... To this day, I still don't want to talk about it. If you really must know, you can go and ask him yourself."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Kuki Shinobu]]",
+    "text": "Kujou Sara — About [[Kuki Shinobu]]: With her talent and qualifications, it's a shame she decided to join the [[Arataki Gang"
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Kirara]]",
+    "text": "Kujou Sara — About [[Kirara]]: Recently, I often feel a mysterious gaze from the shadows that disappears as soon as I turn to look. What an absurd prank... Huh? A nekomata, you say? Huh... She should've just come right up to me if she needed something."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Kujou Sara: I",
+    "text": "Kujou Sara — More About Kujou Sara: I: You want to know more about me? ...Know what, exactly? I can't discuss Tenryou Commission business with you, that's strictly confidential, and I certainly can't divulge anything relating to the Almighty Shogun. What exactly are you trying to achieve? Hmm? Me on a personal level...? I suppose that's not out of the question, just... unprecedented."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Kujou Sara: II",
+    "text": "Kujou Sara — More About Kujou Sara: II: I lead a relatively simple life when I'm not leading an army into battle. I always get out of bed at 5:05 on the dot. Then I go to the courtyard where I take five deep breaths before walking five laps around it. For breakfast, I typically eat five mouthfuls... Five is my lucky number, so I do things in fives. Do you have some objection to that?"
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Kujou Sara: III",
+    "text": "Kujou Sara — More About Kujou Sara: III: The thing that gave me the most trouble when enforcing the Vision Hunt Decree was those officers of the Shogun's Army who would abuse their authority to be heavy-handed with those we detained. The will of the Almighty Shogun must be executed, but I do not condone violence against innocent people! I have expressly forbidden such behavior on countless occasions but judging by the outcome, it seems difficult to root out. If you have any ideas on how to tackle it, please share them with me."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Kujou Sara: IV",
+    "text": "Kujou Sara — More About Kujou Sara: IV: Although I was fully adopted by the Kujou Clan, I know that Takayuki does not look at me the same way he looks at [[Kujou Kamaji"
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Kujou Sara: V",
+    "text": "Kujou Sara — More About Kujou Sara: V: Now that I think about it, you and I are a good example of achieving concord through conflict. We were on opposite sides — diametrically opposed, you could say. I never imagined I would end up alongside you, either in battle or in long conversation... Fate has been kind to me, no, sorry, ignore that."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Kujou Sara's Hobbies",
+    "text": "Kujou Sara — Kujou Sara's Hobbies: To this day, not a day goes by without bow exercises and target practice. From adopting the stance, to aiming, to hearing the twang of the bowstring, none of this is dry and repetitive for me — it is about transcending the me of yesterday! I wouldn't call it a hobby so much as a lifelong discipline."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Kujou Sara's Troubles",
+    "text": "Kujou Sara — Kujou Sara's Troubles: The existence of a tengu warrior's wings is an objective fact, as is the reality that they will take up a certain amount of space when standing side-by-side. So when you say \"come closer,\" I fail to see how exactly I am supposed to achieve that."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Kujou Sara — Favorite Food: I have always had a preference for easy-to-carry foods that provide quick and ample sustenance, such as Onigiri. The top choice for replenishing your stamina in the middle of a battle! But that's just a personal preference. I don't dictate what my subordinates have to eat."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Kujou Sara — Least Favorite Food: I generally avoid sweet foods, not that I have a strong aversion to them. Why? Well, sweet things put your mind and body at rest, so if I ever eat sweet things it's easy to... Ahem, essentially, I mustn't slack off and that's the end of it. No further questions on this topic!"
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Kujou Sara — Receiving a Gift: I: So, there is a dish that tastes even better than Onigiri? Then I shall be sure to remember its name."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Kujou Sara — Receiving a Gift: II: I have eaten my fill. Thank you for your hospitality."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Kujou Sara — Receiving a Gift: III: No need for dessert..."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Kujou Sara — Birthday: Excellent timing. I will dispense with the formalities and get straight to the point — do you have a birthday wish? Providing that it does not conflict with the Almighty Shogun's grand cause, I will make every effort to see it come to fruition. To show that I am being completely serious, I will allow you to make not one, but five birthday wishes."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Kujou Sara — Feelings About Ascension: Intro: My bow sounds in peak condition. One shot is all I need."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Kujou Sara — Feelings About Ascension: Building Up: Power duly assimilated. Ready to receive instruction."
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Kujou Sara — Feelings About Ascension: Climax: The Shogun's Army might as well just be me!"
+  },
+  {
+    "character": "Kujou Sara",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Kujou Sara — Feelings About Ascension: Conclusion: The responsibility for honing my strength and advancing my martial abilities lies with me, and yet you have so diligently and willingly helped me... I will become worthy of this power by harnessing it for a higher cause! Also... the favor of the tengu will always be with you! }}"
+  }
+]

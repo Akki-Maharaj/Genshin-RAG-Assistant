@@ -1,0 +1,296 @@
+[
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Xiangling — Hello: Hello, nice to meet you! My name is Xiangling, I'm a chef from Liyue! My favorite place is the chicken... I mean, the kitchen! Ugh, I practiced so hard, but I still get nervous when introducing myself... Heh."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Snacks",
+    "text": "Xiangling — Chat: Snacks: Is there time for a quick snack? I'll whip one up in no time!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Pyro Slime",
+    "text": "Xiangling — Chat: Pyro Slime: I can't decide whether [[Pyro Slime"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Looking for Food",
+    "text": "Xiangling — Chat: Looking for Food: If there's nothing better to do, we could go foraging for ingredients..."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains: Attitude",
+    "text": "Xiangling — When It Rains: Attitude: Oh... I don't like the rain."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains: Negligence",
+    "text": "Xiangling — When It Rains: Negligence: Wait... did I leave my apron outside to dry?"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "After the Rain",
+    "text": "Xiangling — After the Rain: The rain has stopped! Come with me, let's pick some matsutake."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "When It's Windy",
+    "text": "Xiangling — When It's Windy: Anemo Slimes always come out in this weather. If you catch some, I'll make you a Slime Slushie!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Xiangling — Good Morning: Perfect timing! Wanna get a few cooking supplies?"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Xiangling — Good Afternoon: Lunch is ready! Come and get it while it lasts! *munching*"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Xiangling — Good Evening: You're just in time for a midnight snack! I made some barbecued lizard skewers. Well, don't just stand there — dig in!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Xiangling — Good Night: Hey! You're not sneaking off to get a midnight snack without me, are you? ...Bedtime? Oh. Well, good night then!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_self",
+    "vo_title": "About {name}",
+    "text": "Xiangling — About {name}: You've seen the [[Dvalin"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Strengths",
+    "text": "Xiangling — About Us: Strengths: I'm much better at cooking than navigating... but if you do go out, definitely take me with you!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: New Knowledge",
+    "text": "Xiangling — About Us: New Knowledge: Meeting you has really opened my eyes to things other than cooking. Like what? Well, such as... um... for example... I can't think when you put me on the spot! Forget it, I'll stick to cooking from now on. I have a new recipe for you to try, actually..."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Xiangling — About the [[Vision]]: Any time, night or day, I am always willing to make dishes everyone loves. I think the Archons agree with my passion, or else they wouldn't have given me this Vision, something even [[Madame Ping"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share",
+    "text": "Xiangling — Something to Share: If you get a stomach ache, a cup of herbal tea with Silk Flowers will clear it up in no time! Huh? Of course you can trust my herbal remedies! We chefs are expected to know a thing or two about medicine as well, you know!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Xiangling — Interesting Things: I love onions! I've tried cutting them dozens of ways, and they still make me cry... No matter, I still love them!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Baizhu]]",
+    "text": "Xiangling — About [[Baizhu]]: I can smell Mist Grass! It must be Dr. Baizhu! What is he doing here? *Shocked* Are you OK? Do you feel faint? Is your stomach sore? Or is it a sore throat? I've got it, you're fatigued from all that adventuring! No?... You're fine? Phew! Otherwise, he would've made you drink some traditional herbal medicine — it's so bitter!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Ningguang]]",
+    "text": "Xiangling — About [[Ningguang]]: That was the Tianquan! Did you see? She just walked past. Come here... closer... Let me tell you, she knows everything that happens in Liyue, so... keep a low profile, don't attract her attention!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Hu Tao]]",
+    "text": "Xiangling — About [[Hu Tao]]: Is Hu Tao picking on you too? Ugh, that prankster always waits till I least expect it, creeps up on me from behind and then... Boo! ...then laughs herself silly. Hmph. But I can handle it, and she does bring me fermented plum blossoms once in a while so I can make flower cakes... so I don't hold a grudge."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Diona]]",
+    "text": "Xiangling — About [[Diona]]: Diona, from Springvale! Ah, I heard she mixes a great drink, so I came specifically to see her! I thought perhaps I could use her secrets in my cooking, and bring out more flavors. But the tips that she gave me — like soaking [[Lizard Tail"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Beidou]]",
+    "text": "Xiangling — About [[Beidou]]: Oh, Beidou is the greatest! Every time I go out sailing with her, she always manages to fish up lots of fresh ingredients! Octopus tentacles go great in soup, and seaweed fries up great with some chilies. Not just Beidou, but everyone on board The Crux loves my cooking."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Zhongli]]",
+    "text": "Xiangling — About [[Zhongli]]: I've come across a lot of fussy eaters, but Mr. Zhongli is very particular and has no problem getting straight to what he has to say. The first time I served him salt and pepper tofu, he took just one bite, and then proceeded to say: \"It would be better to try sea salt extracted from the shallow seas of Guyun Stone Forest, because it would bring a fresh sense of depth to the tofu.\" I tried it and the taste was just so different! He's just amazing, don't you think!?"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Chongyun]]",
+    "text": "Xiangling — About [[Chongyun]]: Chongyun? I always see him on his way to eat at Wanmin Restaurant with Xingqiu... Ah... or perhaps I should say I see him being dragged there by Xingqiu? Chongyun doesn't eat hot food. Every time the hot food arrives, Xingqiu politely apologizes and proceeds to try every dish. I just wanna dig in with him! The look on Chongyun's face is priceless. They're quite interesting, those two."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Ganyu]]",
+    "text": "Xiangling — About [[Ganyu]]: Ganyu? Oh... Oh yeah! I remember her — vegetarian, right? She doesn't come to the Wanmin Restaurant very often — but when she does, she sits alone in the corner and eats her meal in total silence. Poor girl, she seems kinda lonely... I always give her an extra-large portion because I feel sorry for her. Funniest thing is, she eats every last bite, every time! I wouldn't have guessed she had such an appetite just by looking at her."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Yaoyao]]",
+    "text": "Xiangling — About [[Yaoyao]]: Hee-hee, I'm proud to call her my junior! She hasn't swung by the Wanmin Restaurant in ages, though. Maybe master is trying to protect her from me or something... Last time we hung out, I was about to dig into some fresh raw octopus from the Sea of Clouds, but not only did she stop me from eating it, she sent master to tell me off too! Ugh... Honestly, sometimes it feels like I'm the one who gets treated like the junior..."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Xinyan]]",
+    "text": "Xiangling — About [[Xinyan]]: Xinyan always comes to the Wanmin Restaurant for a late-night snack! She gobbles up all the new dishes that the likes of Xingqiu and Chongyun don't go near... and nine times out of ten, she enjoys them too! She's great."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Yelan]]",
+    "text": "Xiangling — About [[Yelan]]: Yelan? Of course, I remember her! When I first met her, I was certain she'd be the kind of gal who'd prefer lighter dishes... turned out that she can handle the most spice out of all my customers! Apparently, my dishes weren't spicy enough for her, because she started taking bites of raw Jueyun Chilis! Truly amazing."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Gaming]]",
+    "text": "Xiangling — About [[Gaming]]: Oh boy, once I know Gaming is coming, I make sure to prepare a huge pot of tea in advance. You know, so he can wash some of the spicy food down. I've offered to tone down the spice a bit for him, but he absolutely insists that he prefers the authentic flavor... And he's not even just saying that to be polite. Believe me, I know a true foodie when I see one! Anyway, if that's what he prefers, then who am I to disappoint, hehe!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Lan Yan]]",
+    "text": "Xiangling — About [[Lan Yan]]: Guoba loves Lan Yan! They spent soooooo long shaking hands when they first met, it was like they'd known each other forever, haha. Lan Yan actually promised to take me foraging for wild mushrooms and insects... Hehe, once my new dish is ready, you've gotta come try it!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Escoffier]]",
+    "text": "Xiangling — About [[Escoffier]]: Oh! You mean that chef from Fontaine, right? She's great! I got to try a bunch of her new dishes the other day. They were all so... what's the word... precise! It was like she took all the flavors and ingredients in her dishes and transformed them into art! I was amazed at how meticulous everything was — every measurement, every technique executed to perfection! I kinda want Shenhe to ask Aunty Xianyun to make me a precision cooking machine of my own, so I can try out Escoffier's style of cooking!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: I",
+    "text": "Xiangling — More About {name}: I: Roasted pigeon skewers, anyone? C'mon, it's my secret recipe, you'll love it!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: II",
+    "text": "Xiangling — More About {name}: II: My master did a good job teaching me spear fighting, don't you think? If you want, I could teach you too. Although... I'd much rather teach you my cooking, if you're interested! I want my recipes to spread all around Teyvat!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: III",
+    "text": "Xiangling — More About {name}: III: My heart's desire? To start my very own cooking tradition, of course! Li-style and Yue-style cooking are good, but they have a limited palate. The missing ingredient? Chili pepper! Come, let me fry up one of Guoba's chili peppers for you..."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: IV",
+    "text": "Xiangling — More About {name}: IV: I think I've won you over with my cooking now, right? It's time to introduce you to my latest masterpiece — I call it \"the most marvelous multi-colored super pancake\"! Bright red squirrel ham, orange carrot, yellow sunfrog meat, green [[Calla Lily"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: V",
+    "text": "Xiangling — More About {name}: V: I'm in a dilemma and I don't know how to solve it... It isn't like me to get so worked up over nothing... Ah! Well, here's the thing. I always love getting you to try my latest recipes, but... I'm worried that my food might not agree with your stomach and... I can't bear the thought of that happening. What should I do?"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Hobbies",
+    "text": "Xiangling — {name}'s Hobbies: Watch carefully! Heat the oil in a pan, then take a handful of crystalflies — wings removed — pop them in, and voila! Delicious deep-fried crystal— Hey! Where are you going?"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Troubles",
+    "text": "Xiangling — {name}'s Troubles: It's been a month and I still haven't sold a single bowl of Mushroom Slime Stew. Gee, is it just because it looks sticky and gooey? It's their loss if they don't have a spoonful..."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Xiangling — Favorite Food: My favorite thing to eat is... whatever exotic ingredient I haven't tried yet! No, I'm not dodging the question, that's my honest answer!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Xiangling — Least Favorite Food: I'll eat absolutely anything! There are no bad ingredients, only bad cooking!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Xiangling — Receiving a Gift: I: Mmm... wow! I know this taste, it's... boom shaka-laka!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Xiangling — Receiving a Gift: II: I gotta admit, you're really good at cooking. Next time, it's my turn to show you a thing or two."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Xiangling — Receiving a Gift: III: Are you sure you followed the recipe? Something is definitely off here..."
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Xiangling — Birthday: Ah, there you are! Come with me, I've prepared a birthday feast all for you! ... No really, I insist! Which dish is your favorite? It's okay, take your time, try them all first, then let me know!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Xiangling — Feelings About Ascension: Intro: Oh wow! This feels great! My whole body is bursting with energy!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Xiangling — Feelings About Ascension: Building Up: Hey! Ha! Hua! I can slay a beast with one punch, locking in that freshness!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Xiangling — Feelings About Ascension: Climax: Finally... with this power, I can cook... *giggle* ...Oh no, I've started salivating!"
+  },
+  {
+    "character": "Xiangling",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Xiangling — Feelings About Ascension: Conclusion: As my [[Chef Mao"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Diluc — Hello: Diluc, of Mondstadt. Not interested in idle chit-chat. If you have things you want to get done, let me know."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Relax",
+    "text": "Diluc — Chat: Relax: Guess we can rest a bit."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Knights of Favonius",
+    "text": "Diluc — Chat: Knights of Favonius: You should really bring the Knights of Favonius with you next time."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Wine Guild",
+    "text": "Diluc — Chat: Wine Guild: I still have a lot to do at the Guild. How about you take a rest while I go back?"
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains: Umbrella",
+    "text": "Diluc — When It Rains: Umbrella: I don't need an umbrella, but you can use one if you need."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains: Cleansing",
+    "text": "Diluc — When It Rains: Cleansing: Rain... If only it could cleanse the corrupt souls of this world."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "When the Sun Is Out",
+    "text": "Diluc — When the Sun Is Out: Listen, as long as you stick to your own path, it doesn't matter what Mother Nature throws at you."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "When the Wind Is Blowing",
+    "text": "Diluc — When the Wind Is Blowing: Some use the wind's whistling to drown out the sound of their crimes."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Diluc — Good Morning: No need for small talk. All that matters is that you were safe last night."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Diluc — Good Afternoon: Would you like to try the secret menu?"
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Diluc — Good Evening: Night has fallen."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Diluc — Good Night: Alright, see you next time. I'll make sure you leave safely."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_self",
+    "vo_title": "About {name}",
+    "text": "Diluc — About {name}: The legend of the \"Darknight Hero\"? An interesting rumor."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Needs",
+    "text": "Diluc — About Us: Needs: Just say the word if you need anything. For reimbursements, ask Elzer."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Proof",
+    "text": "Diluc — About Us: Proof: You have already proven your determination. Well then, it is now time for you to witness my resolve."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Diluc — About the [[Vision]]: Visions are a light in the sea of darkness that surrounds those who have lost their way. But for those who have faith, they are little more than badges of conviction."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share",
+    "text": "Diluc — Something to Share: Occasionally I'll work the bar at Angel's Share. The tavern is known for being the center of information in Mondstadt."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Diluc — Interesting Things: What? Why do you ask? ...It's an owl, quietly watching its prey from the darkness, waiting for the perfect moment to strike... Flawless."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Kaeya]]",
+    "text": "Diluc — About [[Kaeya]]: Kaeya? You can only trust half of what he says... at best."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Lisa]]",
+    "text": "Diluc — About [[Lisa]]: I believe Lisa has the potential to become the most reliable of the knights. If she's willing."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Jean]]: Enemies",
+    "text": "Diluc — About [[Jean]]: Enemies: Trifling matters can become Jean's greatest enemy."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_others",
+    "vo_title": "About Jean: Responsibilities",
+    "text": "Diluc — About Jean: Responsibilities: Her unparalleled sense of responsibility is the sole reason why she still hasn't found her true calling."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Mona]]",
+    "text": "Diluc — About [[Mona]]: The land of Mondstadt, by the Anemo Archon's grace, is bountiful. I see no need for the harvest forecasts of astrologers."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Diona]]",
+    "text": "Diluc — About [[Diona]]: Diona's attitude towards me is... how should I put it? Rather rigid. I've yet to find the opportunity to speak with her properly. I'm not sure if it's an issue with my family line or— Oh? It's not? She simply despises alcohol? Huh... I never thought I'd come across another bartender like myself in Mondstadt."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Varka]]",
+    "text": "Diluc — About [[Varka]]: Grand Master Varka... While I understand his disposition, I can make no sense of his actions. ...I—I've said too much already. I've long since left the Knights of Favonius. Forget I said anything."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Eula]]",
+    "text": "Diluc — About [[Eula]]: Ah, yes... I've heard about her. She has her own convictions. Her determination to liberate herself from the shackles of her clan is praiseworthy. But, she's... joined the Knights of Favonius."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: I",
+    "text": "Diluc — More About {name}: I: You have business to attend to?"
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: II",
+    "text": "Diluc — More About {name}: II: Huh? Knights of Favonius? ...I have nothing to say about them. We have different views is all."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: III",
+    "text": "Diluc — More About {name}: III: It's been a long while since I played chess with anyone but my butler. I just so happen to have a moment. Care to play a round?"
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: IV",
+    "text": "Diluc — More About {name}: IV: Checkmate! ...Still, it's been a while since someone tested me this much."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: V",
+    "text": "Diluc — More About {name}: V: Not bad. Be it chess or combat, you always seem to surprise me. Hm, working with you is quite the novelty. So... I look forward to continuing to work with you, partner."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Hobbies",
+    "text": "Diluc — {name}'s Hobbies: The artwork in the manor? It's not mine. It's a collection that belonged to my [[Crepus"
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Troubles",
+    "text": "Diluc — {name}'s Troubles: The darkness that seethes with evil, full of demons that must be vanquished, will take more than a blade to be torn asunder."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Diluc — Favorite Food: You want to know what's in my glass? It's... grape juice. My drink of choice."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Diluc — Least Favorite Food: I don't like alcohol. It's just... I don't like how it feels in my mouth..."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Diluc — Receiving a Gift: I: Exquisite. Unforgettable flavors."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Diluc — Receiving a Gift: II: I can see the chef put their heart into this one. A fine dish."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Diluc — Receiving a Gift: III: ...Umm, thanks."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Diluc — Birthday: Happy birthday. This is an important day for you. So tell me, what is it you wish for? If it is within my power to bestow it upon you, I will give it my consideration."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Diluc — Feelings About Ascension: Intro: Power is necessary if we are to meet our objectives."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Diluc — Feelings About Ascension: Building Up: What lies in wait for us? I rarely stop to think about it.No matter what dares to stand in my way, I must press forward."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Diluc — Feelings About Ascension: Climax: I've become stronger... Though it is still not enough, I will always face the darkness.For dawn to come, there must be those who dare to pierce the darkness with their light."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Diluc — Feelings About Ascension: Conclusion: I used to believe... if I was to stamp out evil, I would have to walk alone in darkness. However, seeing your perseverance, I know I was wrong. Friend... I owe you my thanks. }}"
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Preparation",
+    "text": "Diluc — Chat: Preparation: We should prepare while we can, then make a preemptive strike against the enemy."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Planning",
+    "text": "Diluc — Chat: Planning: Let's take a moment to rest and plan our next move."
+  },
+  {
+    "character": "Diluc",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Warning",
+    "text": "Diluc — Chat: Warning: Every course of action has its risks. Be careful. }}"
+  }
+]

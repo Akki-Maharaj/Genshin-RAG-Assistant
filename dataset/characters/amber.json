@@ -1,0 +1,228 @@
+{
+  "query": "Amber",
+  "folder": "characters",
+  "match": "Amber",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "amber",
+  "result": {
+    "id": 10000021,
+    "name": "Amber",
+    "title": "Gliding Champion",
+    "description": "Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.",
+    "weaponType": "WEAPON_BOW",
+    "weaponText": "Bow",
+    "bodyType": "BODY_GIRL",
+    "gender": "Female",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "8/10",
+    "birthday": "August 10",
+    "elementType": "ELEMENT_PYRO",
+    "elementText": "Pyro",
+    "affiliation": "Knights of Favonius",
+    "associationType": "ASSOC_MONDSTADT",
+    "region": "Mondstadt",
+    "substatType": "FIGHT_PROP_ATTACK_PERCENT",
+    "substatText": "ATK",
+    "constellation": "Lepus",
+    "cv": {
+      "english": "Kelly Baskin",
+      "chinese": "蔡书瑾",
+      "japanese": "石見舞菜香",
+      "korean": "Kim Yeon-woo"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104111,
+          "name": "Agnidus Agate Sliver",
+          "count": 1
+        },
+        {
+          "id": 100055,
+          "name": "Small Lamp Grass",
+          "count": 3
+        },
+        {
+          "id": 112011,
+          "name": "Firm Arrowhead",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 3
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 2
+        },
+        {
+          "id": 100055,
+          "name": "Small Lamp Grass",
+          "count": 10
+        },
+        {
+          "id": 112011,
+          "name": "Firm Arrowhead",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 6
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 4
+        },
+        {
+          "id": 100055,
+          "name": "Small Lamp Grass",
+          "count": 20
+        },
+        {
+          "id": 112012,
+          "name": "Sharp Arrowhead",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 3
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 8
+        },
+        {
+          "id": 100055,
+          "name": "Small Lamp Grass",
+          "count": 30
+        },
+        {
+          "id": 112012,
+          "name": "Sharp Arrowhead",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 6
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 12
+        },
+        {
+          "id": 100055,
+          "name": "Small Lamp Grass",
+          "count": 45
+        },
+        {
+          "id": 112013,
+          "name": "Weathered Arrowhead",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104114,
+          "name": "Agnidus Agate Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113011,
+          "name": "Everflame Seed",
+          "count": 20
+        },
+        {
+          "id": 100055,
+          "name": "Small Lamp Grass",
+          "count": 60
+        },
+        {
+          "id": 112013,
+          "name": "Weathered Arrowhead",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Character_Amber_Card.jpg",
+      "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Amber_Portrait.png",
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/22/6f0ef40157e95b0d59455c12f4d3f270_6966278935690800707.png",
+      "cover2": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/06/28/4f598572016e3177da5d4256fe9c1f5e_8765525983470991811.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/b7c1e4d14fdaac060eb86e3ad09bbf78.png",
+      "filename_icon": "UI_AvatarIcon_Ambor",
+      "filename_iconCard": "UI_AvatarIcon_Ambor_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Ambor",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Ambor",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Ambor",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ambor.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Amber_icon.png"
+    },
+    "url": {
+      "fandom": "https://genshin-impact.fandom.com/wiki/Amber"
+    },
+    "version": "1.0"
+  }
+}

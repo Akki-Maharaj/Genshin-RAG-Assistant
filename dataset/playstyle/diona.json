@@ -1,0 +1,17 @@
+{
+  "character": "Diona",
+  "element": "Cryo",
+  "weapon_type": "Bow",
+  "substat": "Cryo DMG Bonus",
+  "inferred_roles": [
+    "Shielder"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Shielder": 5
+  }
+}

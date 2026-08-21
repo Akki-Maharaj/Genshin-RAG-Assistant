@@ -1,0 +1,220 @@
+{
+  "query": "Flins",
+  "folder": "characters",
+  "match": "Flins",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "flins",
+  "result": {
+    "id": 10000120,
+    "name": "Flins",
+    "title": "Shadowy Lights, Stranger Wights",
+    "description": "A Lightkeeper of Nod-Krai, guardian of a lighthouse and graveyard on a northern isle. An enigmatic gentleman, cultured and courtly.",
+    "weaponType": "WEAPON_POLE",
+    "weaponText": "Polearm",
+    "bodyType": "BODY_MALE",
+    "gender": "Male",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "10/31",
+    "birthday": "October 31",
+    "elementType": "ELEMENT_ELECTRO",
+    "elementText": "Electro",
+    "affiliation": "Lightkeepers",
+    "associationType": "ASSOC_NODKRAI",
+    "region": "Nod-Krai",
+    "substatType": "FIGHT_PROP_CRITICAL_HURT",
+    "substatText": "CRIT DMG",
+    "constellation": "Laterna Vigilis",
+    "cv": {
+      "english": "Nic Olsen",
+      "chinese": "马正阳",
+      "japanese": "中村悠一",
+      "korean": "Shin Yong-woo"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104141,
+          "name": "Vajrada Amethyst Sliver",
+          "count": 1
+        },
+        {
+          "id": 101261,
+          "name": "Frostlamp Flower",
+          "count": 3
+        },
+        {
+          "id": 112122,
+          "name": "Broken Drive Shaft",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104142,
+          "name": "Vajrada Amethyst Fragment",
+          "count": 3
+        },
+        {
+          "id": 113077,
+          "name": "Precision Kuuvahki Stamping Die",
+          "count": 2
+        },
+        {
+          "id": 101261,
+          "name": "Frostlamp Flower",
+          "count": 10
+        },
+        {
+          "id": 112122,
+          "name": "Broken Drive Shaft",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104142,
+          "name": "Vajrada Amethyst Fragment",
+          "count": 6
+        },
+        {
+          "id": 113077,
+          "name": "Precision Kuuvahki Stamping Die",
+          "count": 4
+        },
+        {
+          "id": 101261,
+          "name": "Frostlamp Flower",
+          "count": 20
+        },
+        {
+          "id": 112123,
+          "name": "Reinforced Drive Shaft",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104143,
+          "name": "Vajrada Amethyst Chunk",
+          "count": 3
+        },
+        {
+          "id": 113077,
+          "name": "Precision Kuuvahki Stamping Die",
+          "count": 8
+        },
+        {
+          "id": 101261,
+          "name": "Frostlamp Flower",
+          "count": 30
+        },
+        {
+          "id": 112123,
+          "name": "Reinforced Drive Shaft",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104143,
+          "name": "Vajrada Amethyst Chunk",
+          "count": 6
+        },
+        {
+          "id": 113077,
+          "name": "Precision Kuuvahki Stamping Die",
+          "count": 12
+        },
+        {
+          "id": 101261,
+          "name": "Frostlamp Flower",
+          "count": 45
+        },
+        {
+          "id": 112124,
+          "name": "Precision Drive Shaft",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104144,
+          "name": "Vajrada Amethyst Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113077,
+          "name": "Precision Kuuvahki Stamping Die",
+          "count": 20
+        },
+        {
+          "id": 101261,
+          "name": "Frostlamp Flower",
+          "count": 60
+        },
+        {
+          "id": 112124,
+          "name": "Precision Drive Shaft",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_Flins",
+      "filename_iconCard": "UI_AvatarIcon_Flins_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Flins",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Flins",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Flins",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Flins.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Flins.png",
+      "hoyowiki_icon": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/09/29/35428890/f6feccecc61d2bf772461f057dfb41cd_5944664216414192017.png"
+    },
+    "version": "6.0"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "query": "Old Merc's Pal",
+  "folder": "weapons",
+  "match": "Old Merc's Pal",
+  "matchfolder": "weapons",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "oldmercspal",
+  "result": {
+    "id": 12201,
+    "name": "Old Merc's Pal",
+    "description": "A battle-tested greatsword that has seen better days and worse.",
+    "descriptionRaw": "A battle-tested greatsword that has seen better days and worse.",
+    "weaponType": "WEAPON_CLAYMORE",
+    "weaponText": "Claymore",
+    "rarity": 2,
+    "story": "He would often mention the experiences that he had in his youth as an adventurer.\nThey were always the same old long-winded, annoying tall tales.\nBut this old greatsword seems to silently say,\n\"Well, it is a bit over the top, yes. But I was there too, you know.\"",
+    "baseAtkValue": 32.93,
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 5000
+        },
+        {
+          "id": 114005,
+          "name": "Boreal Wolf's Milk Tooth",
+          "count": 1
+        },
+        {
+          "id": 112020,
+          "name": "Dead Ley Line Branch",
+          "count": 1
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 1
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 5000
+        },
+        {
+          "id": 114006,
+          "name": "Boreal Wolf's Cracked Tooth",
+          "count": 1
+        },
+        {
+          "id": 112020,
+          "name": "Dead Ley Line Branch",
+          "count": 5
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 4
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 10000
+        },
+        {
+          "id": 114006,
+          "name": "Boreal Wolf's Cracked Tooth",
+          "count": 3
+        },
+        {
+          "id": 112021,
+          "name": "Dead Ley Line Leaves",
+          "count": 3
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 3
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 15000
+        },
+        {
+          "id": 114007,
+          "name": "Boreal Wolf's Broken Fang",
+          "count": 1
+        },
+        {
+          "id": 112021,
+          "name": "Dead Ley Line Leaves",
+          "count": 5
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 4
+        }
+      ]
+    },
+    "images": {
+      "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Oyaji.png",
+      "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Oyaji_Awaken.png",
+      "filename_icon": "UI_EquipIcon_Claymore_Oyaji",
+      "filename_awakenIcon": "UI_EquipIcon_Claymore_Oyaji_Awaken",
+      "filename_gacha": "UI_Gacha_EquipIcon_Claymore_Oyaji",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Oyaji.png",
+      "mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Oyaji_Awaken.png"
+    },
+    "version": "1.0"
+  }
+}

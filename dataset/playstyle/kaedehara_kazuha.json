@@ -1,0 +1,16 @@
+{
+  "character": "Kaedehara Kazuha",
+  "element": "Anemo",
+  "weapon_type": "Sword",
+  "substat": "Elemental Mastery",
+  "inferred_roles": [
+    "Shielder"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Shielder": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "character": "Jean",
+  "element": "Anemo",
+  "weapon_type": "Sword",
+  "substat": "Healing Bonus",
+  "inferred_roles": [
+    "Healer"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Healer": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "character": "Beidou",
+  "element": "Electro",
+  "weapon_type": "Claymore",
+  "substat": "Electro DMG Bonus",
+  "inferred_roles": [
+    "Shielder",
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Electro-Charged (with Hydro)",
+    "Superconduct (with Cryo)",
+    "Overload (with Pyro)"
+  ],
+  "role_keyword_scores": {
+    "Shielder": 3,
+    "Crowd_Control": 1
+  }
+}

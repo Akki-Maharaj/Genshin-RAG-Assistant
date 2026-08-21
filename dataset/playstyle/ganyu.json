@@ -1,0 +1,17 @@
+{
+  "character": "Ganyu",
+  "element": "Cryo",
+  "weapon_type": "Bow",
+  "substat": "CRIT DMG",
+  "inferred_roles": [
+    "Main_DPS_Crit"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Main_DPS_Crit": 1
+  }
+}

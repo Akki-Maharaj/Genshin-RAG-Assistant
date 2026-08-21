@@ -1,0 +1,222 @@
+{
+  "query": "Chevreuse",
+  "folder": "characters",
+  "match": "Chevreuse",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "chevreuse",
+  "result": {
+    "id": 10000090,
+    "name": "Chevreuse",
+    "title": "Executor of Justice",
+    "description": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
+    "weaponType": "WEAPON_POLE",
+    "weaponText": "Polearm",
+    "bodyType": "BODY_GIRL",
+    "gender": "Female",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "1/10",
+    "birthday": "January 10",
+    "elementType": "ELEMENT_PYRO",
+    "elementText": "Pyro",
+    "affiliation": "Special Security and Surveillance Patrol",
+    "associationType": "ASSOC_FONTAINE",
+    "region": "Fontaine",
+    "substatType": "FIGHT_PROP_HP_PERCENT",
+    "substatText": "HP",
+    "constellation": "Sclopetum Ensiferum",
+    "cv": {
+      "english": "Erica Lindbeck",
+      "chinese": "潘丹妮",
+      "japanese": "下地紫野",
+      "korean": "Chae Min-ji"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104111,
+          "name": "Agnidus Agate Sliver",
+          "count": 1
+        },
+        {
+          "id": 101235,
+          "name": "Lumidouce Bell",
+          "count": 3
+        },
+        {
+          "id": 112083,
+          "name": "Meshing Gear",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 3
+        },
+        {
+          "id": 113053,
+          "name": "Fontemer Unihorn",
+          "count": 2
+        },
+        {
+          "id": 101235,
+          "name": "Lumidouce Bell",
+          "count": 10
+        },
+        {
+          "id": 112083,
+          "name": "Meshing Gear",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 6
+        },
+        {
+          "id": 113053,
+          "name": "Fontemer Unihorn",
+          "count": 4
+        },
+        {
+          "id": 101235,
+          "name": "Lumidouce Bell",
+          "count": 20
+        },
+        {
+          "id": 112084,
+          "name": "Mechanical Spur Gear",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 3
+        },
+        {
+          "id": 113053,
+          "name": "Fontemer Unihorn",
+          "count": 8
+        },
+        {
+          "id": 101235,
+          "name": "Lumidouce Bell",
+          "count": 30
+        },
+        {
+          "id": 112084,
+          "name": "Mechanical Spur Gear",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 6
+        },
+        {
+          "id": 113053,
+          "name": "Fontemer Unihorn",
+          "count": 12
+        },
+        {
+          "id": 101235,
+          "name": "Lumidouce Bell",
+          "count": 45
+        },
+        {
+          "id": 112085,
+          "name": "Artificed Dynamic Gear",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104114,
+          "name": "Agnidus Agate Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113053,
+          "name": "Fontemer Unihorn",
+          "count": 20
+        },
+        {
+          "id": 101235,
+          "name": "Lumidouce Bell",
+          "count": 60
+        },
+        {
+          "id": 112085,
+          "name": "Artificed Dynamic Gear",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_Chevreuse",
+      "filename_iconCard": "UI_AvatarIcon_Chevreuse_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Chevreuse",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Chevreuse",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Chevreuse",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chevreuse.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chevreuse.png",
+      "cover1": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113800/88545e86d7e4c748c1590e86721a6867_2441793563748391899.png",
+      "cover2": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113800/8fbdc47c202d9e608e41734dc3a61265_7581201906574465914.png",
+      "hoyowiki_icon": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/35428890/a846729f31f16a987a8696466ebabcc0_6857330048220230431.png"
+    },
+    "version": "4.3"
+  }
+}

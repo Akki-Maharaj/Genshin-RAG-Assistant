@@ -1,0 +1,66 @@
+{
+  "query": "Xinyan",
+  "folder": "constellations",
+  "match": "Xinyan",
+  "matchfolder": "constellations",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "xinyan",
+  "result": {
+    "id": 4401,
+    "name": "Xinyan",
+    "c1": {
+      "name": "Fatal Acceleration",
+      "descriptionRaw": "Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.\nCan only occur once every 5s.",
+      "description": "Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.\nCan only occur once every 5s."
+    },
+    "c2": {
+      "name": "Impromptu Opening",
+      "descriptionRaw": "<color=#FFD780FF>Riff Revolution</color>'s Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.",
+      "description": "Riff Revolution's Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast."
+    },
+    "c3": {
+      "name": "Double-Stop",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Sweeping Fervor</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Sweeping Fervor by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Wildfire Rhythm",
+      "descriptionRaw": "<color=#FFD780FF>Sweeping Fervor</color>'s swing DMG decreases opponent's Physical RES by 15% for 12s.",
+      "description": "Sweeping Fervor's swing DMG decreases opponent's Physical RES by 15% for 12s."
+    },
+    "c5": {
+      "name": "Screamin' for an Encore",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Riff Revolution</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Riff Revolution by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Rockin' in a Flaming World",
+      "descriptionRaw": "Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.",
+      "description": "Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF."
+    },
+    "images": {
+      "filename_c1": "UI_Talent_S_Xinyan_01",
+      "filename_c2": "UI_Talent_S_Xinyan_02",
+      "filename_c3": "UI_Talent_U_Xinyan_01",
+      "filename_c4": "UI_Talent_S_Xinyan_03",
+      "filename_c5": "UI_Talent_U_Xinyan_02",
+      "filename_c6": "UI_Talent_S_Xinyan_04",
+      "filename_constellation": "Eff_UI_Talent_Xinyan"
+    },
+    "version": "1.1"
+  }
+}

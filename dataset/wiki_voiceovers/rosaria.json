@@ -1,0 +1,290 @@
+[
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Rosaria — Hello: Listen disciple, if you've got a problem you can't handle, then I'm the one for the job. But if you're looking for prayer, you'd better find some other Sister ...Huh? You're not a disciple?"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Boredom",
+    "text": "Rosaria — Chat: Boredom: Don't we have a job to do?"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Overtime",
+    "text": "Rosaria — Chat: Overtime: Everything is negotiable, except overtime."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Life in Mondstadt",
+    "text": "Rosaria — Chat: Life in Mondstadt: Work hard and live each day to the fullest. That is what life in Mondstadt is all about, isn't it?"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains",
+    "text": "Rosaria — When It Rains: This will slow things down."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "When Thunder Strikes",
+    "text": "Rosaria — When Thunder Strikes: ...What a nuisance."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "When It Snows",
+    "text": "Rosaria — When It Snows: We should keep moving, but watch your step in the snow."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "When the Wind Is Blowing",
+    "text": "Rosaria — When the Wind Is Blowing: Blessings from the Anemo Archon Barsibato? Wait... no, it's Bartobas...?"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Rosaria — Good Morning: *yawn* Good morning... I've missed morning mass, haven't I? Ugh, it starts too early anyway."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Rosaria — Good Afternoon: I'd say I sleep even better in the afternoon sun. You should try it sometime."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Rosaria — Good Evening: Good evening. Don't expect to see me at prayer tonight... And don't ask why."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Rosaria — Good Night: Go ahead, take a break. I'll handle things here."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_self",
+    "vo_title": "About {name}: Sister",
+    "text": "Rosaria — About {name}: Sister: Me? I'm just another ordinary person. Church, work... I just do what I have to do."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_self",
+    "vo_title": "About {name}: Troubles",
+    "text": "Rosaria — About {name}: Troubles: Each of the Sisters is worse than the next. If it's not about prayer, then it's about choir or some other thing I'm supposed to participate in... I'm trying to stay out of sight, so don't you dare tell them you saw me here."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Beliefs",
+    "text": "Rosaria — About Us: Beliefs: Perhaps a god has the power to protect everyone if they would choose to do so, but that would never happen. Otherwise, people's suffering couldn't ever be taken seriously."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Prayer",
+    "text": "Rosaria — About Us: Prayer: Pray. Not for the gods, nor the betterment of others... but for yourself."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Battle",
+    "text": "Rosaria — About Us: Battle: Don't overdo it. Let me take care of the dirty work."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Rosaria — About the [[Vision]]: A Vision... Could be proof of strength, or a medal for having survived... who knows? There're two sides to every coin. I won't limit my Vision with ceremonies and definitions. It witnesses me, and I witness it, that's all."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share",
+    "text": "Rosaria — Something to Share: You don't always know why good things happen, or why we should be happy about them. Heh... But if you ever face a problem too big to handle, don't give up hope. You never know, someone may be there to help, even if you can't see them."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Rosaria — Interesting Things: I take no interest in plant life and the sort, but the dandelion is an exception. How such a simple flower could turn into such a delectable wine is beyond me. A glass of [[Dandelion Wine"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Diluc]]",
+    "text": "Rosaria — About [[Diluc]]: Isn't it obvious? There's more than meets the eye to that rich tycoon. He's confident, yet discreet... and even a little bit dangerous."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Kaeya]]",
+    "text": "Rosaria — About [[Kaeya]]: Wine has its uses... like revealing someone's true colors, for example. Smooth talk is Kaeya's veil, but being me, I can see right through it. Hah, you should see him when he's drunk."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Venti]]",
+    "text": "Rosaria — About [[Venti]]: There's something extremely interesting about this bard... I can't quite put my finger on it. There's something that makes him different from the others in Mondstadt."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Barbara]]",
+    "text": "Rosaria — About [[Barbara]]: Barbara is like a thorn in my side, always nagging me about mass and choir practice. I wouldn't be surprised if Sister Victoria specifically asked her to keep an eye on me."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Jean]]",
+    "text": "Rosaria — About [[Jean]]: She's not only competent in her own work but also somehow manages to clear up various matters for others... Huh. Now that's a woman who deserves admiration."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Albedo]]",
+    "text": "Rosaria — About [[Albedo]]: He's like an oil painting you find hanging on the wall in some ancient hall, profound and mysterious... hard to see through. But what can I say, I find people with stories... interesting."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Lisa]]",
+    "text": "Rosaria — About [[Lisa]]: Although I deplore those who play truant on a job, I respect her punctuality when it comes to closing up for the day."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Klee]]",
+    "text": "Rosaria — About [[Klee]]: Trouble, and lots of it. Although, it is sort of a cute kind of trouble..."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Varka]]",
+    "text": "Rosaria — About [[Varka]]: I'm sure Varka means well, but his long-winded conversations get real old real quick. Although, he does really care for those around him, doesn't he?"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About Her Father",
+    "text": "Rosaria — About Her Father: Father? I'm not familiar with the word. You could say that I don't have one — could also say I have many, too. What's it to you?"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Dahlia]]",
+    "text": "Rosaria — About [[Dahlia]]: I like that he's in the habit of always offering to pick up the tab. In fact, his tavern etiquette in general is very good: He knows which questions he can ask and which ones to avoid. But since we figured each other out, I don't need to be too guarded around him anymore. It's so much easier to get along with people when they're smart like him."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: I",
+    "text": "Rosaria — More About {name}: I: Let's forgo the formalities. I'm here to finish a job. Just leave the dirty work to me."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: II",
+    "text": "Rosaria — More About {name}: II: What's weird about a Sister without reverence for the gods? There are hunters who don't eat pork, and fisherman who don't eat fish, aren't there? Just because you do something doesn't mean you love to do it. That's how every job goes."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: III",
+    "text": "Rosaria — More About {name}: III: This year's Dandelion Wine is sinfully good. Care for a glass?"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: IV",
+    "text": "Rosaria — More About {name}: IV: Mondstadt is a beast of light, both old and young. Old in the sense that it constantly requires someone's protection, yet too young to ever survive on its own. That's why there's people like me. I care for Mondstadt just as the other Sisters care for the believers, we are all guiding that which we love onward on the path towards freedom. Huh? Why do I call it a beast of light? Because people like myself can only be found in the dark..."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: V",
+    "text": "Rosaria — More About {name}: V: I sometimes feel that my former selves from years past still exist alongside me, urging me on. I'm sure you know the feeling, too. Even if you decide to venture down a new path, don't just abandon the former you. For that is the foundation upon which you now take footing. Do not fear your past, and do not be scared to come to grips with it."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Hobbies",
+    "text": "Rosaria — {name}'s Hobbies: There are some troubles that only a stiff drink can take away. That being said, I never get drunk."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Troubles",
+    "text": "Rosaria — {name}'s Troubles: Ugh, definitely skipping next month's choir concert, but I bet [[Victoria"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Rosaria — Favorite Food: Have you ever tried Beef Bourguignon? Big chunks of meat with the smooth taste of alcohol... Mmm, it's delectable."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Rosaria — Least Favorite Food: You mean I'm supposed to dip this [[Mondstadt Hash Brown"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Rosaria — Receiving a Gift: I: It seems that our tastes are aligned when it comes to food."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Rosaria — Receiving a Gift: II: At least I'll be able to eat my fill with this."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Rosaria — Receiving a Gift: III: Do you really like this food?"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Rosaria — Birthday: Today's your birthday, so if you have any dirty work that needs taking care of, I can give you a hand... Just don't tell anybody, got it?"
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Rosaria — Feelings About Ascension: Intro: Hmm, just what I needed."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Rosaria — Feelings About Ascension: Building Up: You have a job for me? I've got time."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Rosaria — Feelings About Ascension: Climax: Good. Getting stronger means finishing jobs quicker."
+  },
+  {
+    "character": "Rosaria",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Rosaria — Feelings About Ascension: Conclusion: I'm no stranger to spilling blood, but never have I possessed such power before. For such blessings, I give you thanks. }}"
+  }
+]

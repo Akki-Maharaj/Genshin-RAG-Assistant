@@ -1,0 +1,266 @@
+[
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Chasca — Hello: Chasca, Flower-Feather Clan. Any disputes you need me to end for you? Depending on the situation, it could cost you a little dignity, a few drinks, or potentially... a round of ammo."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Bird's-Eye View",
+    "text": "Chasca — Chat: Bird's-Eye View: When you lose your way, gaining some altitude can bring some perspective."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Whispers",
+    "text": "Chasca — Chat: Whispers: I'd have lost myself long ago if I allowed myself to be led by the whispers of the Abyss. Surviving is tough, but taming the beast within is tougher."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Peacemaker",
+    "text": "Chasca — Chat: Peacemaker: I'm a little out of practice these days... *yawn*... Any conflicts around? I'm in the mood for some peacemaking."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains",
+    "text": "Chasca — When It Rains: Rain... My hair and feathers are gonna get soaked. Time for some preening when I get back."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "When Thunder Strikes",
+    "text": "Chasca — When Thunder Strikes: Huh, we're really gonna go flying in this weather? You think you can outrun a lightning strike?"
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "When It's Windy",
+    "text": "Chasca — When It's Windy: *sniff* There's prey upwind from us... Be ready to pounce."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "When the Wind Is Blowing",
+    "text": "Chasca — When the Wind Is Blowing: The wind's perfect — full speed ahead!"
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Chasca — Good Morning: \"The early qucusaur gets the worm,\" so I made some breakfast. Any plans for the day can wait until we've got some food in us."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Chasca — Good Afternoon: Afternoon. The sun shines strongest at this hour — good time to take a break."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Chasca — Good Evening: Any plans for dinner? If not, let's eat in the tribe. They always bring out the best food and drink for champions."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Chasca — Good Night: Turning in for the night? Hmm... I've been flying all day, so I should also do some gun care."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Chasca: Self-Confidence",
+    "text": "Chasca — About Chasca: Self-Confidence: Back when the Flower-Feather Clan was responsible for patrolling and defending all of Natlan, the flying squad was the best of the best — the fiercest warriors in the nation.To this day, the pride felt by many Qucusaur riders borders on arrogance... Hmm? Me? No, I'm not arrogant. Just supremely confident."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Chasca: Flower-Feather Clan",
+    "text": "Chasca — About Chasca: Flower-Feather Clan: ...When they first brought me back to the tribe, I didn't fit in at all. I felt so out of place — like an alien who suddenly got dropped into a human world... But Chuychu and her— I mean, our parents accepted me for who I was.I'm eternally grateful that I met them, and for that reason, I will defend their beloved tribe... for as long as I live."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Mediation",
+    "text": "Chasca — About Us: Mediation: With your skills, I doubt anyone in Natlan would dare start something with you. But there are exceptions to every rule, so if you ever find yourself in a situation you can't brute force your way out of, be sure to come to me. I'll straighten things out."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Family",
+    "text": "Chasca — About Us: Family: Thank you so much for helping with the Coya situation... I honestly don't know how things would've gone down without you there.She's nowhere near as hostile toward humans anymore, but it'll still take her some time to get used to them. Old habits die hard.Chime, on the other hand? Loves hanging out with the tribe. She gets along really well with Yatlan and the other kids... Heh, watching them play together, it sometimes reminds me of me and Coya when we were little.Anyway, now [[Chimpu"
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Chasca — About the [[Vision]]: This Vision played a major part in my fight against the Abyss. If it hadn't shown up when it did, I don't know who I would be today."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share",
+    "text": "Chasca — Something to Share: People often find it embarrassing to open up about their childhood mistakes... Why is that? Whether you're a human or a Qucusaur, you can only grow by learning from your past mistakes.That's why I'm not shy about my history of mindlessly lashing out as a kid. Nowadays, I never draw my gun without thinking it through first, even if just for a couple of seconds... or maybe a half second."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Chasca — Interesting Things: Natlan has a lot of very tall trees. You get great visibility from up top, and they're good places to launch off. You wanna try? Don't worry, I'll catch you if you fall."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Kachina]]",
+    "text": "Chasca — About [[Kachina]]: \"Every Qucusaur falls from its nest before it learns to fly.\" Kachina didn't magically become a champion overnight. Her victory was a result of consistent, tireless effort over a very long time. She's an outstanding warrior who deserves all the honor and respect she can get."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Mualani]]",
+    "text": "Chasca — About [[Mualani]]: Mualani says we got into a fight as kids over some toy we both wanted, but I don't remember any of that.Hmm... I wonder if it's because I got into so many fights that I just lost track of them all? I also wonder if it was actually her surfboard I was after, rather than a toy... I'll bet I just wanted the ability to go hunting on water.Heh, whatever it was, I doubt our feud lasted more than a day. It never does with Mualani."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Xilonen]]",
+    "text": "Chasca — About [[Xilonen]]: She might come across as low-energy, but make no mistake — she's one of the most diligent people you'll ever meet.When I asked her to build my gun for me, I barely put any thought into it, just gave her a general idea of what I wanted, and left it with her. Then, once she started working on it in earnest, she spent an entire day questioning me — what would a typical day's flying look like, how often I was expecting to use it, and so on — and by the end of the day, there were abandoned designs schemes all over the floor... I was so exhausted that I fell asleep even before she did.Then she wrote a whole maintenance guide, which she forced me to learn by heart so I wouldn't come bugging her with issues every day... Well, that's what she said. But I suspect her real reason was that she wanted to make sure I'd look after myself and fly safe."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Mavuika]]",
+    "text": "Chasca — About [[Mavuika]]: Some people compare me to the Pyro Archon because of my track record in the Pilgrimage. It's a meaningless comparison. If the Pilgrimage was a tree, and I was a vulture on the highest branch, then the Pyro Archon would be the sun in the sky... The stronger you get, the more you appreciate the sheer size of the gulf between you and her. I just won a few championships — she's the champion of an entire era.But at least being on top with a clear view of the sky means I can see exactly how high I want to fly from here."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Kinich]]",
+    "text": "Chasca — About [[Kinich]]: When I first saw Ajaw, I thought \"Oh, Kinich has a saurian he treats like family, too\"... Blissfully unaware of how far off the mark I was. Their relationship is... truly one-of-a-kind.Although I will say, Ajaw's mastery of the human language makes me pretty envious. I wish mom could talk like that, too, so we could do away with the whole body-language-based guesswork-game."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Citlali]]",
+    "text": "Chasca — About [[Citlali]]: My dad told me that when I was little, they gathered all of the most learned elders in Natlan and asked them to come up with a plan for managing my Abyss condition. They all disagreed on the best approach, and it turned into a drawn-out debate. At some point, Citlali quietly left the room, but they were all too busy arguing to notice. When she got back, she put some food and wine down in front of her, ignored everyone, and just started eating... the table suddenly went very quiet.Just by looking at her, you'd never know how much seniority and experience she has."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Ifa]]",
+    "text": "Chasca — About [[Ifa]]: Chuychu and my dad have discussed medicine with him countless times. So after I got back from the airborne workshop, the first thing I did was take Coya to get checked out by him. But he seemed so dismissive — he took one glance, said \"it's nothing serious, Cusco can handle it,\" and then immediately left to deal with another patient... *sigh* He was right, of course. I was just worrying too much."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Iansan]]",
+    "text": "Chasca — About [[Iansan]]: I've always felt that training oneself and training others are two very different skillsets. Very few people have them both, but Iansan has them in spades.I, for one, am not very good at teaching other people. Whenever I'm trying to demonstrate something to the flying squad, I spend forever trying to explain some basic, boring detail that seems intuitive to me... only to have everyone ask, \"What's intuitive about that!?\"If only Iansan could tutor them, I bet we'd have twice as many candidates pass the flying trials each year... Shame that her training program doesn't include flying."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_personality",
+    "vo_title": "More about Chasca: I",
+    "text": "Chasca — More about Chasca: I: As a peacemaker, I know full well that violence isn't always the answer. But in many cases, having the capacity for violence makes people much more willing to listen to reason."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Chasca: II",
+    "text": "Chasca — More About Chasca: II: The warriors of the Flower-Feather Clan are a proud bunch, but the Qucusaurs are a prouder bunch still. Anyone who aspires to become a Rider has to train relentlessly and then win their approval — even me, and I was practically one of them growing up. It's only fair, though. Allowing a rookie to ride a Qucusaur into the skies would be highly irresponsible for both the Qucusaur and the Rider."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Chasca: III",
+    "text": "Chasca — More About Chasca: III: Sometimes, after failing the flying trials countless times and never winning the Qucusaurs' approval, people lose all their motivation and decide to call it quits. In the Flower-Feather Clan, we call those people the \"Wingless\"... But generally, only the most outstanding warriors even attempt the flying trials in the first place. Their fighting spirit may have faded out, but it will one day burn again. And until that day comes, we will quietly watch over them, just as the Qucusaurs watch over their unfledged young."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Chasca: IV",
+    "text": "Chasca — More About Chasca: IV: I was never able to enjoy a proper, happy childhood, but when I was on the brink of death, momma bird gave me a new life, and when I was lost and directionless, Chuychu gave me something to believe in. Behind me, I have my saurian family, my human family, and every other creature in the family we call Natlan. So I will not be defeated. Not by the Abyss, and not by life's hardships. Watch me, I will transcend it all!"
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Chasca: V",
+    "text": "Chasca — More About Chasca: V: Chuychu hoped I'd become a hero. So... I can't give up. I have to stay strong, for her sake...But when the relic exploded, and Coya dove in front of me, I... the same fear of losing my sister came flooding back again...Sorry, I just don't really know who I can talk to about this kind of stuff. I usually push it to the back of my mind... But I feel much better now.Since I can't forget that fear, I guess I'll try the opposite: remember it, own it. And eventually... transcend it."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Chasca's Hobbies",
+    "text": "Chasca — Chasca's Hobbies: Starting fights is more trouble than it's worth. Gets you into too much trouble. Now, ending fights, on the other hand, much more acceptable. This is why I love being a peacemaker, because the fights come to me... Heh, I'm just kidding, of course."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Chasca's Troubles",
+    "text": "Chasca — Chasca's Troubles: The Abyssal energy. Not because it affects me that much — it doesn't anymore. More because of how much it makes the people around me worry about my safety."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Chasca — Favorite Food: Growing up by the sea, I mostly ate raw fish, and after I came to the tribe, I grew to love Flash-Grilled Steak... Qucusaurs and humans have wildly different diets, but I enjoy them both."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Chasca — Least Favorite Food: Anything with too much alcohol, I guess. Not because I don't like drinking — I just need to watch my intake very carefully before a flight. But you get some food where the scent of the alcohol is masked by the other flavors... Looks tasty, smells delicious, so you take a bite, and then... uh-oh, it's a trap."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Chasca — Receiving a Gift: I: I'm telling you, this dish plus a nice wine would increase the chances of mediation success by thirty percent. Heh, there's nothing quite like some good food and wine to put people in a good mood."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Chasca — Receiving a Gift: II: This is pretty good. Thanks."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Chasca — Receiving a Gift: III: Uh... Was this meant for the qucusaurs? ...Sorry, but this isn't the kind of thing they go for."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Chasca — Birthday: Here, take this gun. It's loaded with six rounds, including an extra-special one. Find an open space and try it out — or better yet, fly up into the sky and do it there.Ooh, you got the special round on the first try, huh? Luck's on your side today... That was a whistling birthday firework. I made it myself!Hmm? ...What are the other five rounds? More fireworks, of course! But they're the trial runs that I made before the one you just fired off. The color's different, and they're not perfect. Next year, I'll do my best to make a full six top-quality rounds for you."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Chasca — Feelings About Ascension: Intro: Huh, is that a new bullet in the chamber?"
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Chasca — Feelings About Ascension: Building Up: Need me to mediate anything? Tribal trouble? Or an all-out war, maybe?"
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Chasca — Feelings About Ascension: Climax: There's an urge to fight that runs in my veins... But now, I know how to put it to good use."
+  },
+  {
+    "character": "Chasca",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Chasca — Feelings About Ascension: Conclusion: \"Kindness should always be repaid, and merit rewarded.\" This is one universal principle that holds true for both the Qucusaur and human worlds. From this day forth, no matter where you go, my wings and my guns will always be at your service. }}"
+  }
+]

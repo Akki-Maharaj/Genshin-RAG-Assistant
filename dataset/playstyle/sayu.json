@@ -1,0 +1,19 @@
+{
+  "character": "Sayu",
+  "element": "Anemo",
+  "weapon_type": "Claymore",
+  "substat": "Elemental Mastery",
+  "inferred_roles": [
+    "Healer",
+    "Off_Field_DPS"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Healer": 3,
+    "Crowd_Control": 1,
+    "Off_Field_DPS": 2
+  }
+}

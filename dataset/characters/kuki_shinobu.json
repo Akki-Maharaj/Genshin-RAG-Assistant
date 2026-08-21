@@ -1,0 +1,223 @@
+{
+  "query": "Kuki Shinobu",
+  "folder": "characters",
+  "match": "Kuki Shinobu",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "kukishinobu",
+  "result": {
+    "id": 10000065,
+    "name": "Kuki Shinobu",
+    "title": "Mender of Tribulations",
+    "description": "The capable and reliable Arataki Gang deputy leader. Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "weaponText": "Sword",
+    "bodyType": "BODY_GIRL",
+    "gender": "Female",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "7/27",
+    "birthday": "July 27",
+    "elementType": "ELEMENT_ELECTRO",
+    "elementText": "Electro",
+    "affiliation": "Arataki Gang",
+    "associationType": "ASSOC_INAZUMA",
+    "region": "Inazuma",
+    "substatType": "FIGHT_PROP_HP_PERCENT",
+    "substatText": "HP",
+    "constellation": "Tribulatio Demptio",
+    "cv": {
+      "english": "Kira Buckland",
+      "chinese": "杨凝",
+      "japanese": "水橋かおり",
+      "korean": "Kim Yool"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104141,
+          "name": "Vajrada Amethyst Sliver",
+          "count": 1
+        },
+        {
+          "id": 101205,
+          "name": "Naku Weed",
+          "count": 3
+        },
+        {
+          "id": 112053,
+          "name": "Spectral Husk",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104142,
+          "name": "Vajrada Amethyst Fragment",
+          "count": 3
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 2
+        },
+        {
+          "id": 101205,
+          "name": "Naku Weed",
+          "count": 10
+        },
+        {
+          "id": 112053,
+          "name": "Spectral Husk",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104142,
+          "name": "Vajrada Amethyst Fragment",
+          "count": 6
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 4
+        },
+        {
+          "id": 101205,
+          "name": "Naku Weed",
+          "count": 20
+        },
+        {
+          "id": 112054,
+          "name": "Spectral Heart",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104143,
+          "name": "Vajrada Amethyst Chunk",
+          "count": 3
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 8
+        },
+        {
+          "id": 101205,
+          "name": "Naku Weed",
+          "count": 30
+        },
+        {
+          "id": 112054,
+          "name": "Spectral Heart",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104143,
+          "name": "Vajrada Amethyst Chunk",
+          "count": 6
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 12
+        },
+        {
+          "id": 101205,
+          "name": "Naku Weed",
+          "count": 45
+        },
+        {
+          "id": 112055,
+          "name": "Spectral Nucleus",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104144,
+          "name": "Vajrada Amethyst Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113035,
+          "name": "Runic Fang",
+          "count": 20
+        },
+        {
+          "id": 101205,
+          "name": "Naku Weed",
+          "count": 60
+        },
+        {
+          "id": 112055,
+          "name": "Spectral Nucleus",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/22/ef220a612a40dc5d4d7c9136345f4967_781122695746863474.png",
+      "cover2": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/06/29/e497caa0da05be3ef9ad4257397aac2b_2081488015651963536.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/be3096da72e3f1d86d6856f298a95147.png",
+      "filename_icon": "UI_AvatarIcon_Shinobu",
+      "filename_iconCard": "UI_AvatarIcon_Shinobu_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Shinobu",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Shinobu",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Shinobu",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Shinobu.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Kuki Shinobu_icon.png"
+    },
+    "version": "2.7"
+  }
+}

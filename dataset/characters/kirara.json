@@ -1,0 +1,222 @@
+{
+  "query": "Kirara",
+  "folder": "characters",
+  "match": "Kirara",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "kirara",
+  "result": {
+    "id": 10000061,
+    "name": "Kirara",
+    "title": "Cat Upon the Eaves",
+    "description": "A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society.",
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "weaponText": "Sword",
+    "bodyType": "BODY_GIRL",
+    "gender": "Female",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "1/22",
+    "birthday": "January 22",
+    "elementType": "ELEMENT_DENDRO",
+    "elementText": "Dendro",
+    "affiliation": "Komaniya Express",
+    "associationType": "ASSOC_INAZUMA",
+    "region": "Inazuma",
+    "substatType": "FIGHT_PROP_HP_PERCENT",
+    "substatText": "HP",
+    "constellation": "Arcella",
+    "cv": {
+      "english": "Julia Gu",
+      "chinese": "孙艳琦",
+      "japanese": "鈴代紗弓",
+      "korean": "Kang Eun-ae"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104131,
+          "name": "Nagadus Emerald Sliver",
+          "count": 1
+        },
+        {
+          "id": 101208,
+          "name": "Amakumo Fruit",
+          "count": 3
+        },
+        {
+          "id": 112053,
+          "name": "Spectral Husk",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104132,
+          "name": "Nagadus Emerald Fragment",
+          "count": 3
+        },
+        {
+          "id": 113045,
+          "name": "Evergloom Ring",
+          "count": 2
+        },
+        {
+          "id": 101208,
+          "name": "Amakumo Fruit",
+          "count": 10
+        },
+        {
+          "id": 112053,
+          "name": "Spectral Husk",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104132,
+          "name": "Nagadus Emerald Fragment",
+          "count": 6
+        },
+        {
+          "id": 113045,
+          "name": "Evergloom Ring",
+          "count": 4
+        },
+        {
+          "id": 101208,
+          "name": "Amakumo Fruit",
+          "count": 20
+        },
+        {
+          "id": 112054,
+          "name": "Spectral Heart",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104133,
+          "name": "Nagadus Emerald Chunk",
+          "count": 3
+        },
+        {
+          "id": 113045,
+          "name": "Evergloom Ring",
+          "count": 8
+        },
+        {
+          "id": 101208,
+          "name": "Amakumo Fruit",
+          "count": 30
+        },
+        {
+          "id": 112054,
+          "name": "Spectral Heart",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104133,
+          "name": "Nagadus Emerald Chunk",
+          "count": 6
+        },
+        {
+          "id": 113045,
+          "name": "Evergloom Ring",
+          "count": 12
+        },
+        {
+          "id": 101208,
+          "name": "Amakumo Fruit",
+          "count": 45
+        },
+        {
+          "id": 112055,
+          "name": "Spectral Nucleus",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104134,
+          "name": "Nagadus Emerald Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113045,
+          "name": "Evergloom Ring",
+          "count": 20
+        },
+        {
+          "id": 101208,
+          "name": "Amakumo Fruit",
+          "count": 60
+        },
+        {
+          "id": 112055,
+          "name": "Spectral Nucleus",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "cover1": "https://webstatic.hoyoverse.com/upload/op-public/2023/05/17/58ed3bce339f53a535cec2e64898fb77_6359020412357438909.png",
+      "cover2": "https://webstatic.hoyoverse.com/upload/op-public/2023/05/17/8eaec8a513f04167ad4b9d58ab4974ea_295699587114986903.png",
+      "filename_icon": "UI_AvatarIcon_Momoka",
+      "filename_iconCard": "UI_AvatarIcon_Momoka_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Momoka",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Momoka",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Momoka",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Momoka.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Momoka.png",
+      "hoyowiki_icon": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/23/35428890/d1699810632f8c3bc8c1e8c8beb8250f_3141235252861584883.png"
+    },
+    "version": "3.7"
+  }
+}

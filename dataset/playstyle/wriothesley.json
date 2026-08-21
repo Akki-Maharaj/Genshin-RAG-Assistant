@@ -1,0 +1,19 @@
+{
+  "character": "Wriothesley",
+  "element": "Cryo",
+  "weapon_type": "Catalyst",
+  "substat": "CRIT DMG",
+  "inferred_roles": [
+    "Healer",
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Healer": 1,
+    "Crowd_Control": 1
+  }
+}

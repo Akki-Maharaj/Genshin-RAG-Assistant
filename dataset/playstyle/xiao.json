@@ -1,0 +1,14 @@
+{
+  "character": "Xiao",
+  "element": "Anemo",
+  "weapon_type": "Polearm",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Unclear/Flex"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {}
+}

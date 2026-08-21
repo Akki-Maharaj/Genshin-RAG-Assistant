@@ -1,0 +1,15 @@
+{
+  "character": "Klee",
+  "element": "Pyro",
+  "weapon_type": "Catalyst",
+  "substat": "Pyro DMG Bonus",
+  "inferred_roles": [
+    "Unclear/Flex"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Hydro)",
+    "Melt (with Cryo)",
+    "Pyro DMG"
+  ],
+  "role_keyword_scores": {}
+}

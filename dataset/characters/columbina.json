@@ -1,0 +1,220 @@
+{
+  "query": "Columbina",
+  "folder": "characters",
+  "match": "Columbina",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "columbina",
+  "result": {
+    "id": 10000125,
+    "name": "Columbina",
+    "title": "Welkin Moon's Homecoming",
+    "description": "The Moon Maiden born in Nod-Krai, and also the welkin moon returning home.",
+    "weaponType": "WEAPON_CATALYST",
+    "weaponText": "Catalyst",
+    "bodyType": "BODY_GIRL",
+    "gender": "Female",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "1/14",
+    "birthday": "January 14",
+    "elementType": "ELEMENT_HYDRO",
+    "elementText": "Hydro",
+    "affiliation": "Silvermoon Hall",
+    "associationType": "ASSOC_NODKRAI",
+    "region": "Nod-Krai",
+    "substatType": "FIGHT_PROP_CRITICAL",
+    "substatText": "CRIT Rate",
+    "constellation": "???",
+    "cv": {
+      "english": "Emi Lo",
+      "chinese": "杨梦露",
+      "japanese": "Lynn",
+      "korean": "Yu Yeong"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104121,
+          "name": "Varunada Lazurite Sliver",
+          "count": 1
+        },
+        {
+          "id": 101268,
+          "name": "Winter Icelea",
+          "count": 3
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 3
+        },
+        {
+          "id": 113079,
+          "name": "Radiant Antler",
+          "count": 2
+        },
+        {
+          "id": 101268,
+          "name": "Winter Icelea",
+          "count": 10
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 6
+        },
+        {
+          "id": 113079,
+          "name": "Radiant Antler",
+          "count": 4
+        },
+        {
+          "id": 101268,
+          "name": "Winter Icelea",
+          "count": 20
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 3
+        },
+        {
+          "id": 113079,
+          "name": "Radiant Antler",
+          "count": 8
+        },
+        {
+          "id": 101268,
+          "name": "Winter Icelea",
+          "count": 30
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 6
+        },
+        {
+          "id": 113079,
+          "name": "Radiant Antler",
+          "count": 12
+        },
+        {
+          "id": 101268,
+          "name": "Winter Icelea",
+          "count": 45
+        },
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104124,
+          "name": "Varunada Lazurite Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113079,
+          "name": "Radiant Antler",
+          "count": 20
+        },
+        {
+          "id": 101268,
+          "name": "Winter Icelea",
+          "count": 60
+        },
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_Columbina",
+      "filename_iconCard": "UI_AvatarIcon_Columbina_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Columbina",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Columbina",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Columbina",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Columbina.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Columbina.png",
+      "hoyowiki_icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/01/13/80fa97679c8d1828fdd96c6aa9638632_4327573591148809640.png"
+    },
+    "version": "6.3"
+  }
+}

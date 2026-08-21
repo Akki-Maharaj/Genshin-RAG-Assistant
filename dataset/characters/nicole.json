@@ -1,0 +1,219 @@
+{
+  "query": "Nicole",
+  "folder": "characters",
+  "match": "Nicole",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "nicole",
+  "result": {
+    "id": 10000131,
+    "name": "Nicole",
+    "title": "Clamor Within",
+    "description": "The Silent \"Mage,\" the Voiceless \"Angel.\"",
+    "weaponType": "WEAPON_CATALYST",
+    "weaponText": "Catalyst",
+    "bodyType": "BODY_LADY",
+    "gender": "Female",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "9/29",
+    "birthday": "September 29",
+    "elementType": "ELEMENT_PYRO",
+    "elementText": "Pyro",
+    "affiliation": "Hexenzirkel",
+    "associationType": "ASSOC_HVISION",
+    "substatType": "FIGHT_PROP_ATTACK_PERCENT",
+    "substatText": "ATK",
+    "constellation": "Reliquiarium",
+    "cv": {
+      "english": "Sophie Shad",
+      "chinese": "云鹤追",
+      "japanese": "豊口めぐみ",
+      "korean": "Lee So-eun"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104111,
+          "name": "Agnidus Agate Sliver",
+          "count": 1
+        },
+        {
+          "id": 101269,
+          "name": "Pine Amber",
+          "count": 3
+        },
+        {
+          "id": 112125,
+          "name": "Tattered Warrant",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 3
+        },
+        {
+          "id": 113084,
+          "name": "Remnant of the Dreadwing",
+          "count": 2
+        },
+        {
+          "id": 101269,
+          "name": "Pine Amber",
+          "count": 10
+        },
+        {
+          "id": 112125,
+          "name": "Tattered Warrant",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 6
+        },
+        {
+          "id": 113084,
+          "name": "Remnant of the Dreadwing",
+          "count": 4
+        },
+        {
+          "id": 101269,
+          "name": "Pine Amber",
+          "count": 20
+        },
+        {
+          "id": 112126,
+          "name": "Immaculate Warrant",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 3
+        },
+        {
+          "id": 113084,
+          "name": "Remnant of the Dreadwing",
+          "count": 8
+        },
+        {
+          "id": 101269,
+          "name": "Pine Amber",
+          "count": 30
+        },
+        {
+          "id": 112126,
+          "name": "Immaculate Warrant",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 6
+        },
+        {
+          "id": 113084,
+          "name": "Remnant of the Dreadwing",
+          "count": 12
+        },
+        {
+          "id": 101269,
+          "name": "Pine Amber",
+          "count": 45
+        },
+        {
+          "id": 112127,
+          "name": "Frost-Etched Warrant",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104114,
+          "name": "Agnidus Agate Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113084,
+          "name": "Remnant of the Dreadwing",
+          "count": 20
+        },
+        {
+          "id": 101269,
+          "name": "Pine Amber",
+          "count": 60
+        },
+        {
+          "id": 112127,
+          "name": "Frost-Etched Warrant",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_Nicole",
+      "filename_iconCard": "UI_AvatarIcon_Nicole_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Nicole",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Nicole",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Nicole",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nicole.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Nicole.png",
+      "hoyowiki_icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/05/18/5e875ee63bca70ebeda64e6fa409d31b_5921156294699298125.png"
+    },
+    "version": "6.6"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "character": "Freminet",
+  "element": "Cryo",
+  "weapon_type": "Claymore",
+  "substat": "ATK",
+  "inferred_roles": [
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Crowd_Control": 1
+  }
+}

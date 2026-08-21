@@ -1,0 +1,66 @@
+{
+  "query": "Aloy",
+  "folder": "constellations",
+  "match": "Aloy",
+  "matchfolder": "constellations",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "aloy",
+  "result": {
+    "id": 6201,
+    "name": "Aloy",
+    "c1": {
+      "name": "Star of Another World",
+      "descriptionRaw": "The time has not yet come for this person's corner of the night sky to light up.",
+      "description": "The time has not yet come for this person's corner of the night sky to light up."
+    },
+    "c2": {
+      "name": "Star of Another World",
+      "descriptionRaw": "The time has not yet come for this person's corner of the night sky to light up.",
+      "description": "The time has not yet come for this person's corner of the night sky to light up."
+    },
+    "c3": {
+      "name": "Star of Another World",
+      "descriptionRaw": "The time has not yet come for this person's corner of the night sky to light up.",
+      "description": "The time has not yet come for this person's corner of the night sky to light up."
+    },
+    "c4": {
+      "name": "Star of Another World",
+      "descriptionRaw": "The time has not yet come for this person's corner of the night sky to light up.",
+      "description": "The time has not yet come for this person's corner of the night sky to light up."
+    },
+    "c5": {
+      "name": "Star of Another World",
+      "descriptionRaw": "The time has not yet come for this person's corner of the night sky to light up.",
+      "description": "The time has not yet come for this person's corner of the night sky to light up."
+    },
+    "c6": {
+      "name": "Star of Another World",
+      "descriptionRaw": "The time has not yet come for this person's corner of the night sky to light up.",
+      "description": "The time has not yet come for this person's corner of the night sky to light up."
+    },
+    "images": {
+      "filename_c1": "UI_Talent_S_Aloy_Lock",
+      "filename_c2": "UI_Talent_S_Aloy_Lock",
+      "filename_c3": "UI_Talent_S_Aloy_Lock",
+      "filename_c4": "UI_Talent_S_Aloy_Lock",
+      "filename_c5": "UI_Talent_S_Aloy_Lock",
+      "filename_c6": "UI_Talent_S_Aloy_Lock",
+      "filename_constellation": "Eff_UI_Talent_Aloy"
+    },
+    "version": "2.1"
+  }
+}

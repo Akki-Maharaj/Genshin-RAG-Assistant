@@ -1,0 +1,278 @@
+[
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Beidou — Hello: I'm Beidou. You've heard of my ship, The Crux and its crew? If you too love adventure, then join me. I've got your back."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Sparring",
+    "text": "Beidou — Chat: Sparring: If you ever want to trade tactics, I'm always ready."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Drinking",
+    "text": "Beidou — Chat: Drinking: Ah! A cold beer after a hard day's work... Nothing like it!"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Land",
+    "text": "Beidou — Chat: Land: It's hard to remain on dry land for so long. Can never seem to quite get my land legs back."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains",
+    "text": "Beidou — When It Rains: When stuck on a deserted island, rain is a precious source of drinking water. There's no need for it now though."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "When Thunder Strikes",
+    "text": "Beidou — When Thunder Strikes: Hey, it's just a little lightning. No need to fear it on the open ocean, so there's even less need to fear it on dry land."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "When It's Windy",
+    "text": "Beidou — When It's Windy: This weather would be great for setting sail."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "When the Wind Is Blowing",
+    "text": "Beidou — When the Wind Is Blowing: Wind's picking up. If sand gets in your eyes, be sure not to rub them."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Beidou — Good Morning: Yo, good morning. I'm about to head off, coming with me?"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Beidou — Good Afternoon: Let's get Xiangling to whip us up something for lunch. Believe me, a hot meal from her is far better than the salted fish we eat out at sea."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Beidou — Good Evening: Alright, I'm off for a drink. Hahaha, no one willing to sell you a proper drink, huh? Perhaps I can..."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Beidou — Good Night: Time moves quickly. Haha, go, may the wind be at your back."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_self",
+    "vo_title": "About {name}",
+    "text": "Beidou — About {name}: We're setting sail! Men, to your posts! A new adventure is about to begin!"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Titles",
+    "text": "Beidou — About Us: Titles: I'm the captain, so you can be my first mate! Deal? Ha? Such names are too outdated for you huh? We'll call each other whatever you wish then."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Eye for People",
+    "text": "Beidou — About Us: Eye for People: I tend to be a good judge of character. When you've learned to read the open ocean, reading people is a cinch. Haha, and that's how I knew you're the good sort the second I laid eyes on ya!"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Choices",
+    "text": "Beidou — About Us: Choices: I chose you as my crewmate, as my comrade on the sea. It gives me great pride to be able to say that."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Beidou — About the [[Vision]]: To those that don't have a Vision, it must seem that those with Visions are like flagships from the Archons to follow. As such, I make sure to fly my flag with pride. That is my motivation."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share",
+    "text": "Beidou — Something to Share: At a loss? When you don't know what to do, just take the first step. The rest will figure itself out naturally."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Beidou — Interesting Things: Every time I return from a long journey and I see the [[Lapis Glede"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Ningguang]]: [[Liyue Qixing]]",
+    "text": "Beidou — About [[Ningguang]]: [[Liyue Qixing]]: Ningguang, eh? As far as Liyue Qixing is concerned, she seems to be doing a good job. But for me, my responsibility lies with my ship and my men, and not with Liyue Qixing."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About Ningguang: Attitudes",
+    "text": "Beidou — About Ningguang: Attitudes: Ningguang is never really one to speak frankly, but she has been very direct with her criticism of me in the past. Haha... But hey, whether she likes me or hates me is her choice, nothing I can do to sway her."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Xiangling]]: Culinary Skills",
+    "text": "Beidou — About [[Xiangling]]: Culinary Skills: When we're out on the open ocean, the one thing we do all miss is Xiangling's cooking. When spirits are low, just thinking of her fried [[Jueyun Chili"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About Xiangling: Food Tasting",
+    "text": "Beidou — About Xiangling: Food Tasting: Xiangling huh? She sometimes uses some... interesting ingredients in her dishes to bring about some, ah... intriguing flavors. Though... there's no way she can improve without having someone to taste-test — a role that I am more than happy to fill."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Zhongli]]",
+    "text": "Beidou — About [[Zhongli]]: You mean the gentleman from Wangsheng Funeral Parlor? My men sometimes speak of the rumors surrounding him — he sounds interesting. Yes, if I get the chance I'd like to meet him someday."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Xiao]]",
+    "text": "Beidou — About [[Xiao]]: One year on the eve of the [[Lantern Rite Festival"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Ganyu]]",
+    "text": "Beidou — About [[Ganyu]]: Privately, Ganyu and I get on like a house on fire! But as you know, she's the secretary to the Liyue Qixing... and I'm not exactly in their good books right now! Doesn't bother me, but I wouldn't want to put Ganyu in a difficult position. So just keep what I said between us, yeah?"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Xinyan]]",
+    "text": "Beidou — About [[Xinyan]]: She's got a great personality, that one! The guys in the crew love that rock and roll of hers. Me? We have common ground, just... not when it comes to taste in music."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Yaoyao]]",
+    "text": "Beidou — About [[Yaoyao]]: Yaoyao always comes on board to play when we're in the harbor. Trouble is, when it's time for her to go she gives you the puppy eyes, and no one has the heart to send her away... Means we're always cutting it quite close by the time we manage to set sail."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Kaedehara Kazuha]]",
+    "text": "Beidou — About [[Kaedehara Kazuha]]: Kazuha? That scallywag actually blocked a strike from the Raiden Shogun outside Tenshukaku! Easier said than done... After the battle he came to the Crux Fleet — said he'd voyage with us a while longer. I was more than happy to oblige. If the day comes when he decides to set off again by himself on the next stage of his journey, I'll send him off with a drink, haha..."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: I",
+    "text": "Beidou — More About {name}: I: Before you step foot on The Alcor, you need to answer one question. When the sea is full of perils — why is it that you still wish to come aboard my ship?"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: II",
+    "text": "Beidou — More About {name}: II: You want to know of my legendary tales? Hahaha, that's just my men exaggerating, adding in their own little details. Although, if you were to ask me if I'm afraid of what monsters lurk in the deep, I'd tell you I have no fear of them."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: III",
+    "text": "Beidou — More About {name}: III: You wanna know why I help the common folk? Why not? Everyone has their low points in life. I don't really do anything, other than help steer those who are truly lost towards a brighter future."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: IV",
+    "text": "Beidou — More About {name}: IV: I've been through some hard times. When I was a child we had little money, so nothing to eat, and lived for years by stealing fruit off of people's trees. Even after I got my own ship, I was cast out by pompous merchants. But me telling you such stories is merely for your amusement. I have no intention of making you live through it too."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: V",
+    "text": "Beidou — More About {name}: V: I have many brothers that sail with me. I have asked, and remember, why each and every one of them came on board. You, however, are special. I know you still have your own things to deal with, and as such, I won't try to rope you into coming onboard permanently. But remember, there is always a place for you onboard The Alcor."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Hobbies",
+    "text": "Beidou — {name}'s Hobbies: My hobbies...? Eh, lemme think... Well, there's adventure, sailing, making friends, drinking, eating... more than I can count on one hand."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Troubles",
+    "text": "Beidou — {name}'s Troubles: If you can change something, change it. If you can't, don't waste time thinking about it. That's how I go about things. But really, if you get stuck, come find me. I'll help you deal with it."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Beidou — Favorite Food: I like food with robust flavors. Spicy fried meat or spicy tofu are my favorites. Sitting down to a big hearty meal together, where everyone can fill their bellies — now that's when things get lively! Haha, alright, alright, all this talk is making me hungry!"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Beidou — Least Favorite Food: I'm not a fan of anything cold, it does nothing to fire up my appetite. I'd rather fry up a few fish."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Beidou — Receiving a Gift: I: Tastes good, I like it! Mind giving me a bowl of rice with this?"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Beidou — Receiving a Gift: II: Your cooking skills aren't bad at all, eating your food has me in a good mood."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Beidou — Receiving a Gift: III: You know, at the end of the day, food is food, and that's fine by me."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Beidou — Birthday: Come, board my ship. I've gathered the crew. The food and drink are all prepared. Today is your birthday, so you are the captain. Haha, so: where should we set sail?"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Beidou — Feelings About Ascension: Intro: Great! I feel much stronger."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Beidou — Feelings About Ascension: Building Up: We're making progress. Let's crack open a bottle to celebrate!"
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Beidou — Feelings About Ascension: Climax: A prime example! It is an honor to have you aboard. I need to keep up if I'm to keep the respect of my crew."
+  },
+  {
+    "character": "Beidou",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Beidou — Feelings About Ascension: Conclusion: After all this training, I feel like I'm finally at my best. Thank you... But please, I'd still like for you to keep me on my toes. }}"
+  }
+]

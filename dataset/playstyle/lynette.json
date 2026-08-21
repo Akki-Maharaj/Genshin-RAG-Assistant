@@ -1,0 +1,14 @@
+{
+  "character": "Lynette",
+  "element": "Anemo",
+  "weapon_type": "Sword",
+  "substat": "Anemo DMG Bonus",
+  "inferred_roles": [
+    "Unclear/Flex"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {}
+}

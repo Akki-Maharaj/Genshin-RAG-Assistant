@@ -1,0 +1,194 @@
+[
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Aloy — Hello: Aloy here. I don't know this world, but my arrows are sharp and my bow's ready. If your party needs help, I'll do what I can."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Moving Out",
+    "text": "Aloy — Chat: Moving Out: Come on. Enough standing around, let's keep moving."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Help",
+    "text": "Aloy — Chat: Help: Let's get going. There are people who need our help."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains",
+    "text": "Aloy — When It Rains: Rain. One way to wash off the grime."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "After the Rain",
+    "text": "Aloy — After the Rain: Sky's running out of rain for now. Time to dry off."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "When It Snows",
+    "text": "Aloy — When It Snows: The world always seems quieter when it snows."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "When It's Windy",
+    "text": "Aloy — When It's Windy: Wind's kicking up again. Feels good to breathe it in."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "When the Wind Is Blowing",
+    "text": "Aloy — When the Wind Is Blowing: Wind is really whipping now. My face feels raw."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Aloy — Good Morning: Morning. World's starting to stir again. Me too, I guess."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Aloy — Good Afternoon: Day's half over, but we still have a lot to do."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Aloy — Good Evening: Sunset. We'll be under the stars soon."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Aloy — Good Night: Night's here. Time to rest, unless we're going on by starlight."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Aloy",
+    "text": "Aloy — About Aloy: I grew up an outcast, and it wasn't much fun. Even though I'm a stranger here, people are friendlier than the tribe that was supposed to raise me. It's... nice."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Action",
+    "text": "Aloy — About Us: Action: Everything I do is in the service of life, not death. That's why I'm here with you."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Oath",
+    "text": "Aloy — About Us: Oath: An oath seems like a formality. But if you want mine, you've got it."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Moving Forward",
+    "text": "Aloy — About Us: Moving Forward: I'll do whatever it takes to finish this with you. I won't hesitate. I won't falter."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share",
+    "text": "Aloy — Something to Share: If I have to share something, it'll be my bow... in the service of people who need the help."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Aloy — Interesting Things: This land has a past full of secrets, just like my world. I'll uncover all of it, if I have enough time."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Aloy: I",
+    "text": "Aloy — More About Aloy: I: I'm not much for talking about myself. The mission is what's important."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Aloy: II",
+    "text": "Aloy — More About Aloy: II: I never had parents. But a man named Rost raised me. He was stern, but kind and generous. And he trained me well. I miss him."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Aloy: III",
+    "text": "Aloy — More About Aloy: III: I spent my whole life looking for my mother and never found her, not really. But I found ancient messages from the woman I was... cloned from. It felt like she knew me. And how to inspire me."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Aloy: IV",
+    "text": "Aloy — More About Aloy: IV: When I grew up, I didn't have any friends. Later in my travels, I made some. But I left that world before we could grow close. That's why I'm glad to have spent time with you."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Aloy: V",
+    "text": "Aloy — More About Aloy: V: Trust doesn't come easy for me, but I know I can trust you. You're a true friend, and I don't say that often."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Aloy's Hobbies",
+    "text": "Aloy — Aloy's Hobbies: Not sure if I have a hobby, unless you count reading things from the past. So, history... I guess?"
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Aloy's Troubles",
+    "text": "Aloy — Aloy's Troubles: One world needed saving. Now another. There's never time to rest."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Aloy — Favorite Food: I'm not picky. Anything's better than traveling on an empty stomach."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Aloy — Least Favorite Food: Had an Oseram stew once that was so thick you could pave a road with it. Ugh."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Aloy — Birthday: Never put much stock in birthdays. Where I come from, it's a time to celebrate your mother, not yourself. Even so, I wish you a, uh... happy day."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Aloy — Feelings About Ascension: Intro: All right. Feels like we're making progress, but we can't stop now."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Aloy — Feelings About Ascension: Building Up: Getting better. Getting stronger. Always a good thing."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Aloy — Feelings About Ascension: Climax: No matter how good a hunter you are, you can always get better. Never rest. Never stop learning."
+  },
+  {
+    "character": "Aloy",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings about Ascension: Conclusion",
+    "text": "Aloy — Feelings about Ascension: Conclusion: When we started out, you were just another stranger in a world I didn't understand. But after everything we've been through, I can say this for certain: My bow is yours, now and always. }}"
+  }
+]

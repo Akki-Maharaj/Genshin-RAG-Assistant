@@ -1,0 +1,19 @@
+{
+  "character": "Columbina",
+  "element": "Hydro",
+  "weapon_type": "Catalyst",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Off_Field_DPS",
+    "Main_DPS_Crit"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Pyro)",
+    "Freeze (with Cryo)",
+    "Electro-Charged (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Off_Field_DPS": 1,
+    "Main_DPS_Crit": 1
+  }
+}

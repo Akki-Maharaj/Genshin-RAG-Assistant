@@ -1,0 +1,17 @@
+{
+  "character": "Barbara",
+  "element": "Hydro",
+  "weapon_type": "Catalyst",
+  "substat": "HP",
+  "inferred_roles": [
+    "Healer"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Pyro)",
+    "Freeze (with Cryo)",
+    "Electro-Charged (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Healer": 2
+  }
+}

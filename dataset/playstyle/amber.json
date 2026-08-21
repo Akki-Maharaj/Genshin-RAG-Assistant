@@ -1,0 +1,17 @@
+{
+  "character": "Amber",
+  "element": "Pyro",
+  "weapon_type": "Bow",
+  "substat": "ATK",
+  "inferred_roles": [
+    "Main_DPS_Crit"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Hydro)",
+    "Melt (with Cryo)",
+    "Pyro DMG"
+  ],
+  "role_keyword_scores": {
+    "Main_DPS_Crit": 1
+  }
+}

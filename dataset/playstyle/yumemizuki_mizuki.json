@@ -1,0 +1,16 @@
+{
+  "character": "Yumemizuki Mizuki",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "substat": "Elemental Mastery",
+  "inferred_roles": [
+    "Healer"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Healer": 4
+  }
+}

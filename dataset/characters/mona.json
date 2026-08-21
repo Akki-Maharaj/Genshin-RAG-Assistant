@@ -1,0 +1,228 @@
+{
+  "query": "Mona",
+  "folder": "characters",
+  "match": "Mona",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "mona",
+  "result": {
+    "id": 10000041,
+    "name": "Mona",
+    "title": "Astral Reflection",
+    "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+    "weaponType": "WEAPON_CATALYST",
+    "weaponText": "Catalyst",
+    "bodyType": "BODY_GIRL",
+    "gender": "Female",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "8/31",
+    "birthday": "August 31",
+    "elementType": "ELEMENT_HYDRO",
+    "elementText": "Hydro",
+    "affiliation": "Mondstadt",
+    "associationType": "ASSOC_MONDSTADT",
+    "region": "Mondstadt",
+    "substatType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "substatText": "Energy Recharge",
+    "constellation": "Astrolabos",
+    "cv": {
+      "english": "Felecia Angelle",
+      "chinese": "陈婷婷",
+      "japanese": "小原好美",
+      "korean": "Woo Jeong-shin"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104121,
+          "name": "Varunada Lazurite Sliver",
+          "count": 1
+        },
+        {
+          "id": 100025,
+          "name": "Philanemo Mushroom",
+          "count": 3
+        },
+        {
+          "id": 112038,
+          "name": "Whopperflower Nectar",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 3
+        },
+        {
+          "id": 113012,
+          "name": "Cleansing Heart",
+          "count": 2
+        },
+        {
+          "id": 100025,
+          "name": "Philanemo Mushroom",
+          "count": 10
+        },
+        {
+          "id": 112038,
+          "name": "Whopperflower Nectar",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 6
+        },
+        {
+          "id": 113012,
+          "name": "Cleansing Heart",
+          "count": 4
+        },
+        {
+          "id": 100025,
+          "name": "Philanemo Mushroom",
+          "count": 20
+        },
+        {
+          "id": 112039,
+          "name": "Shimmering Nectar",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 3
+        },
+        {
+          "id": 113012,
+          "name": "Cleansing Heart",
+          "count": 8
+        },
+        {
+          "id": 100025,
+          "name": "Philanemo Mushroom",
+          "count": 30
+        },
+        {
+          "id": 112039,
+          "name": "Shimmering Nectar",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 6
+        },
+        {
+          "id": 113012,
+          "name": "Cleansing Heart",
+          "count": 12
+        },
+        {
+          "id": 100025,
+          "name": "Philanemo Mushroom",
+          "count": 45
+        },
+        {
+          "id": 112040,
+          "name": "Energy Nectar",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104124,
+          "name": "Varunada Lazurite Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113012,
+          "name": "Cleansing Heart",
+          "count": 20
+        },
+        {
+          "id": 100025,
+          "name": "Philanemo Mushroom",
+          "count": 60
+        },
+        {
+          "id": 112040,
+          "name": "Energy Nectar",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Mona_Card.jpg",
+      "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Mona_Portrait.png",
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/22/9e4203089ad086d328973adf3f6e8c7b_1731345046482271564.png",
+      "cover2": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/06/28/247b5054c574b0ff69b27dfe5d18101b_5626904084481297773.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1fa7a20fb3b391132e1132ab2a44e146.png",
+      "filename_icon": "UI_AvatarIcon_Mona",
+      "filename_iconCard": "UI_AvatarIcon_Mona_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Mona",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Mona",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Mona",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Mona_icon.png"
+    },
+    "url": {
+      "fandom": "https://genshin-impact.fandom.com/wiki/Mona"
+    },
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "character": "Sigewinne",
+  "element": "Hydro",
+  "weapon_type": "Bow",
+  "substat": "HP",
+  "inferred_roles": [
+    "Healer",
+    "Shielder"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Pyro)",
+    "Freeze (with Cryo)",
+    "Electro-Charged (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Healer": 7,
+    "Shielder": 1
+  }
+}

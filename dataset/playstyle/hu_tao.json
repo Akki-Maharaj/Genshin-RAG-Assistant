@@ -1,0 +1,19 @@
+{
+  "character": "Hu Tao",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "substat": "CRIT DMG",
+  "inferred_roles": [
+    "Crowd_Control",
+    "Main_DPS_Crit"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Hydro)",
+    "Melt (with Cryo)",
+    "Pyro DMG"
+  ],
+  "role_keyword_scores": {
+    "Crowd_Control": 1,
+    "Main_DPS_Crit": 1
+  }
+}

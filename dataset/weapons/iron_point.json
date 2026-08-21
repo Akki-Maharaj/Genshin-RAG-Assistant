@@ -1,0 +1,133 @@
+{
+  "query": "Iron Point",
+  "folder": "weapons",
+  "match": "Iron Point",
+  "matchfolder": "weapons",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "ironpoint",
+  "result": {
+    "id": 13201,
+    "name": "Iron Point",
+    "description": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers.",
+    "descriptionRaw": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers.",
+    "weaponType": "WEAPON_POLE",
+    "weaponText": "Polearm",
+    "rarity": 2,
+    "story": "A simple weapon that exudes a certain austerity.\nFor those who defend that which they must protect,\nOr a traveler with naught to their name but themselves,\nEven the most mundane of weapons might be ten times as powerful as it seems.",
+    "baseAtkValue": 32.93,
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 5000
+        },
+        {
+          "id": 114009,
+          "name": "Fetters of the Dandelion Gladiator",
+          "count": 1
+        },
+        {
+          "id": 112023,
+          "name": "Chaos Device",
+          "count": 1
+        },
+        {
+          "id": 112008,
+          "name": "Divining Scroll",
+          "count": 1
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 5000
+        },
+        {
+          "id": 114010,
+          "name": "Chains of the Dandelion Gladiator",
+          "count": 1
+        },
+        {
+          "id": 112023,
+          "name": "Chaos Device",
+          "count": 5
+        },
+        {
+          "id": 112008,
+          "name": "Divining Scroll",
+          "count": 4
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 10000
+        },
+        {
+          "id": 114010,
+          "name": "Chains of the Dandelion Gladiator",
+          "count": 3
+        },
+        {
+          "id": 112024,
+          "name": "Chaos Circuit",
+          "count": 3
+        },
+        {
+          "id": 112009,
+          "name": "Sealed Scroll",
+          "count": 3
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 15000
+        },
+        {
+          "id": 114011,
+          "name": "Shackles of the Dandelion Gladiator",
+          "count": 1
+        },
+        {
+          "id": 112024,
+          "name": "Chaos Circuit",
+          "count": 5
+        },
+        {
+          "id": 112009,
+          "name": "Sealed Scroll",
+          "count": 4
+        }
+      ]
+    },
+    "images": {
+      "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Rod.png",
+      "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Rod_Awaken.png",
+      "filename_icon": "UI_EquipIcon_Pole_Rod",
+      "filename_awakenIcon": "UI_EquipIcon_Pole_Rod_Awaken",
+      "filename_gacha": "UI_Gacha_EquipIcon_Pole_Rod",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Rod.png",
+      "mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Rod_Awaken.png"
+    },
+    "version": "1.0"
+  }
+}

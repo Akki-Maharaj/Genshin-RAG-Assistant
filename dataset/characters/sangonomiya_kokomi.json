@@ -1,0 +1,226 @@
+{
+  "query": "Sangonomiya Kokomi",
+  "folder": "characters",
+  "match": "Sangonomiya Kokomi",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "sangonomiyakokomi",
+  "result": {
+    "id": 10000054,
+    "name": "Sangonomiya Kokomi",
+    "title": "Pearl of Wisdom",
+    "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+    "weaponType": "WEAPON_CATALYST",
+    "weaponText": "Catalyst",
+    "bodyType": "BODY_GIRL",
+    "gender": "Female",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "2/22",
+    "birthday": "February 22",
+    "elementType": "ELEMENT_HYDRO",
+    "elementText": "Hydro",
+    "affiliation": "Watatsumi Island",
+    "associationType": "ASSOC_INAZUMA",
+    "region": "Inazuma",
+    "substatType": "FIGHT_PROP_WATER_ADD_HURT",
+    "substatText": "Hydro DMG Bonus",
+    "constellation": "Dracaena Somnolenta",
+    "cv": {
+      "english": "Risa Mei",
+      "chinese": "龟娘",
+      "japanese": "三森すずこ",
+      "korean": "Yeo Yoon-mi"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104121,
+          "name": "Varunada Lazurite Sliver",
+          "count": 1
+        },
+        {
+          "id": 101207,
+          "name": "Sango Pearl",
+          "count": 3
+        },
+        {
+          "id": 112053,
+          "name": "Spectral Husk",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 3
+        },
+        {
+          "id": 113028,
+          "name": "Dew of Repudiation",
+          "count": 2
+        },
+        {
+          "id": 101207,
+          "name": "Sango Pearl",
+          "count": 10
+        },
+        {
+          "id": 112053,
+          "name": "Spectral Husk",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 6
+        },
+        {
+          "id": 113028,
+          "name": "Dew of Repudiation",
+          "count": 4
+        },
+        {
+          "id": 101207,
+          "name": "Sango Pearl",
+          "count": 20
+        },
+        {
+          "id": 112054,
+          "name": "Spectral Heart",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 3
+        },
+        {
+          "id": 113028,
+          "name": "Dew of Repudiation",
+          "count": 8
+        },
+        {
+          "id": 101207,
+          "name": "Sango Pearl",
+          "count": 30
+        },
+        {
+          "id": 112054,
+          "name": "Spectral Heart",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 6
+        },
+        {
+          "id": 113028,
+          "name": "Dew of Repudiation",
+          "count": 12
+        },
+        {
+          "id": 101207,
+          "name": "Sango Pearl",
+          "count": 45
+        },
+        {
+          "id": 112055,
+          "name": "Spectral Nucleus",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104124,
+          "name": "Varunada Lazurite Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113028,
+          "name": "Dew of Repudiation",
+          "count": 20
+        },
+        {
+          "id": 101207,
+          "name": "Sango Pearl",
+          "count": 60
+        },
+        {
+          "id": 112055,
+          "name": "Spectral Nucleus",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/fd94f2afc70ab075c727ce0805fd0201.png",
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/22/8ca5953fb331d71bc880496f5e8b7745_3256211802655370131.png",
+      "cover2": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/20/6b5d5658498d64378f6bc3a499be1061_5372222117088715540.png",
+      "filename_icon": "UI_AvatarIcon_Kokomi",
+      "filename_iconCard": "UI_AvatarIcon_Kokomi_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Kokomi",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Kokomi",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Kokomi",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Kokomi.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Sangonomiya Kokomi_icon.png"
+    },
+    "url": {
+      "fandom": "https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi"
+    },
+    "version": "2.1"
+  }
+}

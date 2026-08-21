@@ -1,0 +1,66 @@
+{
+  "query": "Lynette",
+  "folder": "constellations",
+  "match": "Lynette",
+  "matchfolder": "constellations",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "lynette",
+  "result": {
+    "id": 8301,
+    "name": "Lynette",
+    "c1": {
+      "name": "A Cold Blade Like a Shadow",
+      "descriptionRaw": "When <color=#FFD780FF>Enigmatic Feint</color>'s Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent's position that will pull nearby opponents in.",
+      "description": "When Enigmatic Feint's Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent's position that will pull nearby opponents in."
+    },
+    "c2": {
+      "name": "Endless Mysteries",
+      "descriptionRaw": "Whenever the Bogglecat Box summoned by <color=#FFD780FF>Magic Trick: Astonishing Shift</color> fires a Vivid Shot, it will fire an extra Vivid Shot.",
+      "description": "Whenever the Bogglecat Box summoned by Magic Trick: Astonishing Shift fires a Vivid Shot, it will fire an extra Vivid Shot."
+    },
+    "c3": {
+      "name": "Cognition-Inverting Gaze",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Magic Trick: Astonishing Shift</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Magic Trick: Astonishing Shift by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Tacit Coordination",
+      "descriptionRaw": "Increases <color=#FFD780FF>Enigmatic Feint</color>'s charges by 1.",
+      "description": "Increases Enigmatic Feint's charges by 1."
+    },
+    "c5": {
+      "name": "Obscuring Ambiguity",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Enigmatic Feint</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Enigmatic Feint by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Watchful Eye",
+      "descriptionRaw": "When Lynette uses <color=#FFD780FF>Enigmatic Feint</color>'s Enigma Thrust, she will gain an <color=#80FFD7FF>Anemo Infusion</color> and 20% <color=#80FFD7FF>Anemo DMG Bonus</color> for 6s.",
+      "description": "When Lynette uses Enigmatic Feint's Enigma Thrust, she will gain an Anemo Infusion and 20% Anemo DMG Bonus for 6s."
+    },
+    "images": {
+      "filename_c1": "UI_Talent_S_Linette_01",
+      "filename_c2": "UI_Talent_S_Linette_02",
+      "filename_c3": "UI_Talent_U_Linette_01",
+      "filename_c4": "UI_Talent_S_Linette_03",
+      "filename_c5": "UI_Talent_U_Linette_02",
+      "filename_c6": "UI_Talent_S_Linette_04",
+      "filename_constellation": "Eff_UI_Talent_Linette"
+    },
+    "version": "4.0"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "query": "Rosaria",
+  "folder": "constellations",
+  "match": "Rosaria",
+  "matchfolder": "constellations",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "rosaria",
+  "result": {
+    "id": 4501,
+    "name": "Rosaria",
+    "c1": {
+      "name": "Unholy Revelation",
+      "descriptionRaw": "When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s.",
+      "description": "When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s."
+    },
+    "c2": {
+      "name": "Land Without Promise",
+      "descriptionRaw": "The duration of the Ice Lance created by <color=#FFD780FF>Rites of Termination</color> is increased by 4s.",
+      "description": "The duration of the Ice Lance created by Rites of Termination is increased by 4s."
+    },
+    "c3": {
+      "name": "The Wages of Sin",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Ravaging Confession</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Ravaging Confession by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Painful Grace",
+      "descriptionRaw": "<color=#FFD780FF>Ravaging Confession</color>'s CRIT Hits regenerate 5 Energy for Rosaria.\nCan only be triggered once each time Ravaging Confession is cast.",
+      "description": "Ravaging Confession's CRIT Hits regenerate 5 Energy for Rosaria.\nCan only be triggered once each time Ravaging Confession is cast."
+    },
+    "c5": {
+      "name": "Last Rites",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Rites of Termination</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Rites of Termination by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Divine Retribution",
+      "descriptionRaw": "<color=#FFD780FF>Rites of Termination</color>'s attack decreases opponents' Physical RES by 20% for 10s.",
+      "description": "Rites of Termination's attack decreases opponents' Physical RES by 20% for 10s."
+    },
+    "images": {
+      "filename_c1": "UI_Talent_S_Rosaria_01",
+      "filename_c2": "UI_Talent_S_Rosaria_02",
+      "filename_c3": "UI_Talent_U_Rosaria_01",
+      "filename_c4": "UI_Talent_S_Rosaria_03",
+      "filename_c5": "UI_Talent_U_Rosaria_02",
+      "filename_c6": "UI_Talent_S_Rosaria_04",
+      "filename_constellation": "Eff_UI_Talent_Rosaria"
+    },
+    "version": "1.4"
+  }
+}

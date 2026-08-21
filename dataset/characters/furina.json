@@ -1,0 +1,222 @@
+{
+  "query": "Furina",
+  "folder": "characters",
+  "match": "Furina",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "furina",
+  "result": {
+    "id": 10000089,
+    "name": "Furina",
+    "title": "Endless Solo of Solitude",
+    "description": "The absolute focus of the stage of judgment, until the final applause sounds.",
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "weaponText": "Sword",
+    "bodyType": "BODY_GIRL",
+    "gender": "Female",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "10/13",
+    "birthday": "October 13",
+    "elementType": "ELEMENT_HYDRO",
+    "elementText": "Hydro",
+    "affiliation": "Court of Fontaine",
+    "associationType": "ASSOC_FONTAINE",
+    "region": "Fontaine",
+    "substatType": "FIGHT_PROP_CRITICAL",
+    "substatText": "CRIT Rate",
+    "constellation": "Animula Choragi",
+    "cv": {
+      "english": "Amber Lee Connors",
+      "chinese": "钱琛",
+      "japanese": "水瀬いのり",
+      "korean": "Kim Ha-young"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104121,
+          "name": "Varunada Lazurite Sliver",
+          "count": 1
+        },
+        {
+          "id": 101238,
+          "name": "Lakelight Lily",
+          "count": 3
+        },
+        {
+          "id": 112038,
+          "name": "Whopperflower Nectar",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 3
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 2
+        },
+        {
+          "id": 101238,
+          "name": "Lakelight Lily",
+          "count": 10
+        },
+        {
+          "id": 112038,
+          "name": "Whopperflower Nectar",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 6
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 4
+        },
+        {
+          "id": 101238,
+          "name": "Lakelight Lily",
+          "count": 20
+        },
+        {
+          "id": 112039,
+          "name": "Shimmering Nectar",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 3
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 8
+        },
+        {
+          "id": 101238,
+          "name": "Lakelight Lily",
+          "count": 30
+        },
+        {
+          "id": 112039,
+          "name": "Shimmering Nectar",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 6
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 12
+        },
+        {
+          "id": 101238,
+          "name": "Lakelight Lily",
+          "count": 45
+        },
+        {
+          "id": 112040,
+          "name": "Energy Nectar",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104124,
+          "name": "Varunada Lazurite Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 20
+        },
+        {
+          "id": 101238,
+          "name": "Lakelight Lily",
+          "count": 60
+        },
+        {
+          "id": 112040,
+          "name": "Energy Nectar",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_Furina",
+      "filename_iconCard": "UI_AvatarIcon_Furina_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Furina",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Furina",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Furina",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Furina.png",
+      "cover1": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113447/e8d153da1a2dca7a07fd76397cd60612_2043628622447437530.png",
+      "cover2": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113447/a28573fbba728cd873a56337bf83ff31_2734275279164942426.png",
+      "hoyowiki_icon": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/06/35428890/263e5ea0784d182b393f67a7e24146a5_2961704185113948066.png"
+    },
+    "version": "4.2"
+  }
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Flins — Hello: Greetings, I am Kyryll Chudomirovich Flins. It is considered good etiquette to give my full name when greeting important guests, but this no doubt leaves you wondering what to call me on a day-to-day basis... Well, in the past, I was customarily addressed as \"Chudomirovich\" by most — but for simplicity's sake, you can just call me Flins. That's my surname."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Patience",
+    "text": "Flins — Chat: Patience: Let us have a modicum of patience for the richness and complexity of humanity. The wanton cruelty of the few is not worth our ire."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: The Wild Hunt",
+    "text": "Flins — Chat: The Wild Hunt: He who wishes to peer into the Abyss needs simply to wander through Nod-Krai on a misty night. The march of the Wild Hunt will be sure to drag him into the darkness."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Ghosts",
+    "text": "Flins — Chat: Ghosts: People ought not be so frightened of ghosts. They are merely talking shadows, chattering away endlessly about their past affairs."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains",
+    "text": "Flins — When It Rains: You look worried? Relax, it takes more than a little rainfall to extinguish my lamp."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "When Thunder Strikes",
+    "text": "Flins — When Thunder Strikes: Listen — that, my friend, is the world's original symphony. No instrument could ever replicate the sheer power and grandeur of thunder."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "When It Snows",
+    "text": "Flins — When It Snows: Each time the snow falls, that is the call of Snezhnaya — the land whence I hail."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "When the Wind Is Blowing",
+    "text": "Flins — When the Wind Is Blowing: \"The winds awaken, the leaves whirl round\"..."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "In the Desert",
+    "text": "Flins — In the Desert: An orange snow dances in the air... Hah, so this is the fabled desert."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Flins — Good Morning: Ah, good morning. The sun illuminates the land as another day dawns in Nod-Krai... Many centuries have gone by, yet each day begins just like the last."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Flins — Good Afternoon: Afternoon. I'm not personally in the habit of taking an afternoon nap, but don't let that stop you, should you feel so inclined."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Flins — Good Evening: I prefer to be active during the night. The purpose of a lamp is to shine light into the darkness, is it not?"
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Flins — Good Night: Midnight is when I come into my own. Since you aren't ready to retire, and the moon has not yet assumed its position in the sky, perhaps I could tell you some ancient stories to pass the time?"
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Flins: Virtues",
+    "text": "Flins — About Flins: Virtues: Prudence, modesty, and loyalty. These are the three cardinal virtues of the Lightkeepers, and I highly approve."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Flins: Ratnik",
+    "text": "Flins — About Flins: Ratnik: Every living being, human and fae alike, needs some sort of an identity. It is what helps us to find our place in the world. The Lightkeepers swear to keep the light of humanity burning in the cold, dark nights where monsters run amok. I happen to be nocturnally inclined myself, and I can certainly strike some measure of fear into other, less benign creatures of the night, so the role of Ratnik suits me perfectly."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Company",
+    "text": "Flins — About Us: Company: It is an honor to have the company of your distinguished self for this part of my journey. Night is falling... Since I can't hold a candle to you, perhaps this lamp will do the trick?"
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Fae and Humans",
+    "text": "Flins — About Us: Fae and Humans: We seem to have covered quite some distance together... I am reminded of an age when both the fae and humans roamed free in Snezhnaya. Our races share many things in common, and I once presumed that we must share a similar ancestry. Now, I believe that what truly unites us is a common spirit — the spirit that gives rise to all things good and kind."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Moon Wheel]]",
+    "text": "Flins — About the [[Moon Wheel]]: No, the fae don't need Moon Wheels. We have our own methods. But I quite like the design, which goes nicely with my black overcoat, plus, it gives a convenient cover story for the power I wield... I've never been one to refuse tools such as this that help me blend in more seamlessly to my homeland."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_about_others",
+    "vo_title": "Something to Share",
+    "text": "Flins — Something to Share: Have you ever asked people in Nod-Krai how they ended up here? I have. Most of them didn't choose it because it's a comfortable place to live, or because they dream of what their life here could be like. No, this is but a rest-stop where weary travelers can find some brief respite from the snowstorm. Hardly the kind of place that makes people feel as if they belong. And so, any traveler who stops in Nod-Krai is sure to leave once they are rested and recovered.The next stop on your journey is Snezhnaya, no doubt. The snowy plains there are simply beautiful. I wish you a safe trip."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_about_others",
+    "vo_title": "Interesting Things",
+    "text": "Flins — Interesting Things: ...A [[Enkanomiya"
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_personality",
+    "vo_title": "About [[Lauma]]",
+    "text": "Flins — About [[Lauma]]: Hyperborea, the bygone golden elysium... That is what comes to mind whenever I see her. Her ancient and noble lineage are no doubt as heavy a burden to bear as the stunning antlers she wears on her head, and yet she takes it all in her stride. I commend her resilience and courage in doing so."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_personality",
+    "vo_title": "About [[Illuga]]",
+    "text": "Flins — About [[Illuga]]: Members of the Lightkeepers are under no obligation to stay — and many do, in fact, leave shortly after joining. Only the most determined persevere, and Illuga is one such example. It is common to admire those who display wit and cunning, but to me, determination is a far more valuable quality."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_personality",
+    "vo_title": "About [[Aino]]",
+    "text": "Flins — About [[Aino]]: I must confess that I do not deal well with machines. This, and not the age difference, is the biggest point of disparity between myself and Aino."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_personality",
+    "vo_title": "About [[Varka]]",
+    "text": "Flins — About [[Varka]]: You shan't catch me crossing blades with Varka, there's simply no contest. No sword in the world has a sharper bite than the North Wind. Now, you might think that the allusion to one of the fiercest forces in nature's arsenal is pure hyperbole, but I tell you — he is a true knight, the likes of which are rarely seen in this day and age. If I ever have the chance to spar with him, it will be a sure sign that I am going up in the world."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_personality",
+    "vo_title": "About [[Nefer]]",
+    "text": "Flins — About [[Nefer]]: Nefer's intuition is as sharp as a knife, and that is a knife that no one wishes to contend with. Fortunately, I don't make a habit of prying into other people's backgrounds. I can only hope she doesn't either."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_personality",
+    "vo_title": "About [[Jahoda]]",
+    "text": "Flins — About [[Jahoda]]: Jahoda always seems to show up where you would least expect. One day, you'll find her by a scrap pile at the [[Clink-Clank Krumkake Craftshop"
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_personality",
+    "vo_title": "About the [[Tsaritsa]]",
+    "text": "Flins — About the [[Tsaritsa]]: Although Nod-Krai is technically a part of Snezhnaya, you won't hear us habitually refer to \"Her Majesty, the Tsaritsa.\" ...Who's \"us\"? Hehe... The Lightkeepers, of course... Who else?"
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "More About Flins: I",
+    "text": "Flins — More About Flins: I: I am but a humble Ratnik. You already know my name, you've seen where I am stationed, what more is there to know? Were you hoping to hear some kind of sensational untold tale of my life? I'm afraid that no such tale exists. There is nothing noteworthy to report about my experience as a Ratnik: Simply put, I hold my lamp tight, day and night, ready to face the Wild Hunt whenever it should strike."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "More About Flins: II",
+    "text": "Flins — More About Flins: II: As you have witnessed, no corner of Nod-Krai is safe from the Wild Hunt. Some may have the arms and skills with which to defend themselves, but even then, not all Wild Hunts are made equal. Sometimes, for reasons that defy comprehension, horde after horde of monsters will appear with no end in sight, and you simply cannot escape by fighting them off. I have found myself in this predicament a number of times.I am acutely aware that you are a more skilled fighter than most, but the Wild Hunt is a complex and formidable foe, and I urge you not to underestimate it. If you ever find yourself in its presence, you must immediately inform the nearest Lightkeeper — or, by all means, come to me."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "More About Flins: III",
+    "text": "Flins — More About Flins: III: You surprise me. Here you are, a seasoned veteran who has weathered countless storms, and yet you still have the curious spirit of a budding young adventurer.*sigh* Alright, let me think — what other pages are there in the story of Flins that you might deem worthy of your perusal?Hmm... Well, there is my lamp. It's not the standard-issue kind wielded by other Lightkeepers. This one has been with me for a very long time indeed. The weight of its past alone is often enough to scare even the darkest of shadows away. As a soul on the brink of death once said, the light of this lamp strikes more fear into the heart than his incompetent colleagues could ever hope to...Will that satisfy your curiosity for now?"
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "More About Flins: IV",
+    "text": "Flins — More About Flins: IV: Almost every sojourner in Nod-Krai has a complicated past. Desire runs deep in human souls — it is always there, and always active. Each night, as they mumble in their sleep, the anxiety plagues their mind like a dark fog as the memories stir in the ley lines, flowing in various directions. The Nod-Krai of today is a chaotic place. It wasn't always this awful."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "More About Flins: V",
+    "text": "Flins — More About Flins: V: Forgive me if I forgo my usual airs and graces from now on. The fact is, there are very few people left in this world with any knowledge of my past. And even though you are one of them, I hope you won't treat me differently than anyone else — after all this time pretending to be human, I've actually grown rather fond of seeing how long I can keep up the act.Let's leave the wind and frost, the piles of stone, the moss, and the stench of seawater behind. I have put a few coins together. The time has come to shop for supplies."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Flins's Hobbies",
+    "text": "Flins — Flins's Hobbies: Do you have any interest in old coins or ancient gemstones? Not only are they valuable items, but the marks and scratches they accumulate over the years add a certain character which I find makes them all the more charming... Much like a well-aged wine."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Flins's Troubles",
+    "text": "Flins — Flins's Troubles: A colleague of mine in [[Piramida"
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Flins — Favorite Food: Have you ever seen water boiling under an open flame? No? Ah, what a pity.There's a kind of liquor in Snezhnaya called Fire-Water, and when you light it, the flame burns on the surface of the liquid. Goes down quite smoothly, too. It'll warm you up from the very depths of your soul. Maybe I'll get to treat you to a Fire-Water one day."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Flins — Least Favorite Food: Given that we are close acquaintances by this point, would you mind if I shared a minor grievance with you? The truth is that given my... unique situation, foods greatly relished by other people I personally find to be rather dull. ...Oh, but to be clear, I still immensely enjoy the time we spend together at the dinner table."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Flins — Receiving a Gift: I: Mm... Unsurprisingly, that was exceptional."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Flins — Receiving a Gift: II: Mm, yes, delightful."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Flins — Receiving a Gift: III: Uh... In the interests of our continued friendship, I would prefer to keep my thoughts to myself."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Flins — Birthday: Those who love you will celebrate your arrival in this world by preparing a feast, singing songs, and offering blessings. When you pass away, those who miss you will grieve by holding a funeral and lighting lanterns. In life and in death, there will always be those who are moved by your existence. So, take the chance, while your soul is full of life, to come together with your loved ones and be happy — you deserve it. ...Uh, excuse me? You want me to... be your birthday candle?"
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Flins — Feelings About Ascension: Intro: What's this... a gesture of encouragement? Huh, you have my sincerest gratitude. While we're on the topic — long may such gestures continue."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Flins — Feelings About Ascension: Building Up: You seem to have taken a great interest in my training lately. I only hope my rate of development is to your satisfaction."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Flins — Feelings About Ascension: Climax: Every soldier who seeks to improve must not only hone their skills, but carefully consider their tactics. Based on my prior experience in battle, weaponry and strategies that can dispose of enemies en masse are highly preferred. That is why the polearm is my weapon of choice."
+  },
+  {
+    "character": "Flins",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Flins — Feelings About Ascension: Conclusion: Though we have never discussed this topic in great depth before, I trust you share the same opinion as I on this. The true art of war lies in deterrence, and not in fighting... Otherwise, things would become far too simple. }}"
+  }
+]

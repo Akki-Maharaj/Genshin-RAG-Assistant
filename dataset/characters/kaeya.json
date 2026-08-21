@@ -1,0 +1,228 @@
+{
+  "query": "Kaeya",
+  "folder": "characters",
+  "match": "Kaeya",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "kaeya",
+  "result": {
+    "id": 10000015,
+    "name": "Kaeya",
+    "title": "Frostwind Swordsman",
+    "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "weaponText": "Sword",
+    "bodyType": "BODY_MALE",
+    "gender": "Male",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "11/30",
+    "birthday": "November 30",
+    "elementType": "ELEMENT_CRYO",
+    "elementText": "Cryo",
+    "affiliation": "Knights of Favonius",
+    "associationType": "ASSOC_MONDSTADT",
+    "region": "Mondstadt",
+    "substatType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "substatText": "Energy Recharge",
+    "constellation": "Pavo Ocellus",
+    "cv": {
+      "english": "Josey Montana McCoy",
+      "chinese": "孙晔",
+      "japanese": "鳥海浩輔",
+      "korean": "Jung Joo-won"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104161,
+          "name": "Shivada Jade Sliver",
+          "count": 1
+        },
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "count": 3
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104162,
+          "name": "Shivada Jade Fragment",
+          "count": 3
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "count": 2
+        },
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "count": 10
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104162,
+          "name": "Shivada Jade Fragment",
+          "count": 6
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "count": 4
+        },
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "count": 20
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104163,
+          "name": "Shivada Jade Chunk",
+          "count": 3
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "count": 8
+        },
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "count": 30
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104163,
+          "name": "Shivada Jade Chunk",
+          "count": 6
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "count": 12
+        },
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "count": 45
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104164,
+          "name": "Shivada Jade Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "count": 20
+        },
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "count": 60
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Character_Kaeya_Card.jpg",
+      "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Character_Kaeya_Portrait.png",
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/22/cbce61ef1ee5586c4e77b2070348685f_2003673786618101140.png",
+      "cover2": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100910351589464.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/428a3008f1d6fda010ccfcf7d83b08fe.png",
+      "filename_icon": "UI_AvatarIcon_Kaeya",
+      "filename_iconCard": "UI_AvatarIcon_Kaeya_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Kaeya",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Kaeya",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Kaeya",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Kaeya.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Kaeya_icon.png"
+    },
+    "url": {
+      "fandom": "https://genshin-impact.fandom.com/wiki/Kaeya"
+    },
+    "version": "1.0"
+  }
+}

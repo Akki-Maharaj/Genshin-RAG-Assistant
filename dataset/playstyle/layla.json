@@ -1,0 +1,17 @@
+{
+  "character": "Layla",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "substat": "HP",
+  "inferred_roles": [
+    "Shielder"
+  ],
+  "reaction_tags": [
+    "Freeze (with Hydro)",
+    "Melt (with Pyro)",
+    "Superconduct (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Shielder": 5
+  }
+}

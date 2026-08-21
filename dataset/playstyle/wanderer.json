@@ -1,0 +1,16 @@
+{
+  "character": "Wanderer",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Main_DPS_Crit"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Main_DPS_Crit": 1
+  }
+}

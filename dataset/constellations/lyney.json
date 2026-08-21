@@ -1,0 +1,66 @@
+{
+  "query": "Lyney",
+  "folder": "constellations",
+  "match": "Lyney",
+  "matchfolder": "constellations",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "lyney",
+  "result": {
+    "id": 8401,
+    "name": "Lyney",
+    "c1": {
+      "name": "Whimsical Wonders",
+      "descriptionRaw": "Lyney can have 2 <color=#FFD780FF>Grin-Malkin Hats</color> present at once.\nAdditionally, Prop Arrows will summon 2 Grin-Malkin Hats and grant Lyney 1 extra stack of Prop Surplus. This effect can occur once every 15s.",
+      "description": "Lyney can have 2 Grin-Malkin Hats present at once.\nAdditionally, Prop Arrows will summon 2 Grin-Malkin Hats and grant Lyney 1 extra stack of Prop Surplus. This effect can occur once every 15s."
+    },
+    "c2": {
+      "name": "Loquacious Cajoling",
+      "descriptionRaw": "When Lyney is on the field, he will gain a stack of Crisp Focus every 2s. Each stack will increase his CRIT DMG by 20%. Max 3 stacks. This effect will be canceled when Lyney leaves the field.",
+      "description": "When Lyney is on the field, he will gain a stack of Crisp Focus every 2s. Each stack will increase his CRIT DMG by 20%. Max 3 stacks. This effect will be canceled when Lyney leaves the field."
+    },
+    "c3": {
+      "name": "Prestidigitation",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Normal Attack: Card Force Translocation</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Normal Attack: Card Force Translocation by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Well-Versed, Well-Rehearsed",
+      "descriptionRaw": "After an opponent is hit by Lyney's <color=#FF9999FF>Pyro</color> Charged Attack, this opponent's <color=#FF9999FF>Pyro RES</color> will be decreased by 20% for 6s.",
+      "description": "After an opponent is hit by Lyney's Pyro Charged Attack, this opponent's Pyro RES will be decreased by 20% for 6s."
+    },
+    "c5": {
+      "name": "To Pierce Enigmas",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Wondrous Trick: Miracle Parade</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Wondrous Trick: Miracle Parade by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Guarded Smile",
+      "descriptionRaw": "When Lyney fires a <color=#FFD780FF>Prop Arrow</color>, he will fire a Pyrotechnic Strike: Reprised that will deal 80% of a Pyrotechnic Strike's DMG. This DMG is considered Charged Attack DMG.",
+      "description": "When Lyney fires a Prop Arrow, he will fire a Pyrotechnic Strike: Reprised that will deal 80% of a Pyrotechnic Strike's DMG. This DMG is considered Charged Attack DMG."
+    },
+    "images": {
+      "filename_c1": "UI_Talent_S_Liney_01",
+      "filename_c2": "UI_Talent_S_Liney_03",
+      "filename_c3": "UI_Talent_U_Liney_01",
+      "filename_c4": "UI_Talent_S_Liney_02",
+      "filename_c5": "UI_Talent_U_Liney_02",
+      "filename_c6": "UI_Talent_S_Liney_04",
+      "filename_constellation": "Eff_UI_Talent_Liney"
+    },
+    "version": "4.0"
+  }
+}

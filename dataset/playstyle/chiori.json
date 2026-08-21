@@ -1,0 +1,16 @@
+{
+  "character": "Chiori",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Off_Field_DPS"
+  ],
+  "reaction_tags": [
+    "Crystallize (with elemental)",
+    "Shielding via Crystallize"
+  ],
+  "role_keyword_scores": {
+    "Off_Field_DPS": 3
+  }
+}

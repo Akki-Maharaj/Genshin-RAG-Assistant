@@ -1,0 +1,16 @@
+{
+  "character": "Lan Yan",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "substat": "ATK",
+  "inferred_roles": [
+    "Shielder"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {
+    "Shielder": 6
+  }
+}

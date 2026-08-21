@@ -1,0 +1,278 @@
+[
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Furina — Hello: Why are you just standing there with your mouth gaping? Ah, you must be stunned and at a loss for words... Understandable, it is I after all... Fontaine's most beloved star, Furina. I'm on a very tight schedule, so you're lucky to even get an appointment with me."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Tea Party",
+    "text": "Furina — Chat: Tea Party: Tea parties are a must for the well-mannered. If you'd like to learn the proper etiquette, I'd be happy to teach you."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Fun",
+    "text": "Furina — Chat: Fun: Boring... Isn't there anything else more interesting to do?"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Popularity",
+    "text": "Furina — Chat: Popularity: *sigh* Being too popular can be such a hassle. Who knew the people would adore me so much?"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains",
+    "text": "Furina — When It Rains: It's pouring out here! Wait, the water levels aren't rising, are they?"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "When It Snows",
+    "text": "Furina — When It Snows: Wow, this would be the perfect location for shooting a film."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "When the Sun Is Out",
+    "text": "Furina — When the Sun Is Out: The sun feels almost as hot as those studio lights I'm in front of all the time... Good thing there can only be one sun."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "When the Wind Is Blowing",
+    "text": "Furina — When the Wind Is Blowing: \"Listen, there is a disturbing growling in the wind. That's the sound of a long-forgotten sea monster having a nightmare.\" Huh? Why is it having a nightmare? Uh... I dunno, because fear has to manifest itself somehow?"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "In the Desert",
+    "text": "Furina — In the Desert: What a wild and desolate sight... Allow me to grant you the blessing of water!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Furina — Good Morning: Good morning... Must I really get up this early? Just let me sleep a little longer..."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Furina — Good Afternoon: Good afternoon! Where's my cake? What? I just had cake for breakfast? Well, I think it's been long enough!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Furina — Good Evening: Good evening. *sigh* Mademoiselle Crabaletta has been muttering about getting in shape lately and even said that she wanted to drag me along with her. Hmph, I'm already eating much healthier than last month. I work very hard to maintain my figure. Hey, you can tell, can't you!?"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Furina — Good Night: Whew, I'm getting sleepy myself. See you tomorrow. Remember to wake me up on time..."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Furina: Besties",
+    "text": "Furina — About Furina: Besties: Hmm? Who are these people at the [[Salon Solitaire"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_self",
+    "vo_title": "About Furina: Singing",
+    "text": "Furina — About Furina: Singing: I'm very confident in my singing skills, but there aren't many pieces of music that are worthy of my vocal prowess. I hope the creatives in the theater troupe get their act together and don't keep me waiting in vain..."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Relationships",
+    "text": "Furina — About Us: Relationships: *sigh* Given that we know each other, you may relax a little and needn't act so respectfully in my presence. Wait, what's that expression on your face? Don't tell me that you've never respected me from the very beginning!?"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Our Story Together",
+    "text": "Furina — About Us: Our Story Together: My story has already come to an end, and so the next act shall be about OUR story... In which case, we should probably start charging double for public appearances... Oh, I'm so happy!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Furina — About the [[Vision]]: Once the ancient [[Prophecy of Fontaine"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share: Opera",
+    "text": "Furina — Something to Share: Opera: [[Opera Epiclese"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things: [[Lumitoile]]",
+    "text": "Furina — Interesting Things: [[Lumitoile]]: I really like the Lumitoile. Those creatures can glow and shine even in places where no one sees them... That's what I call a true \"star.\" Ah, if only there were an opera about the Lumitoile, then I could literally play the role of a lovely rogue starfish on stage."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Lyney]] and [[Lynette]]",
+    "text": "Furina — About [[Lyney]] and [[Lynette]]: Of course I know Lyney and Lynette. I used to frequently attend their magic shows. Though they're very popular, they're still much less popular than me. Only my performances would draw a completely sold-out crowd... even standing tickets would be out. But now... Uh... I've already decided to hang up my acting career, so it's perfectly normal for my popularity to decline!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Neuvillette]]",
+    "text": "Furina — About [[Neuvillette]]: I'm very grateful to Neuvillette for all the hard work he's done for Fontaine in the past few centuries. It seems he doesn't intend to investigate my crimes of deceiving the people. Anyway, we're no longer working in tandem, and it's been a long time since I've been to the Palais Mermonia. I imagine that this is good for both of us, right?"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Navia]]: Desserts",
+    "text": "Furina — About [[Navia]]: Desserts: Have you tried Navia's macarons? I have to admit that her skills in dessert-making are comparable to mine. The design she paints on the macarons is so cute, don't you think? Not to mention the texture and sweetness... They truly are a work of art! How does she do it? Does it really all boil down to talent? Ugh, I can't believe I'm feeling a little jealous... I'll have to ask her for some tips next time!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_others",
+    "vo_title": "About Navia: Inner Thoughts",
+    "text": "Furina — About Navia: Inner Thoughts: She's a very strong person. Strong people will always manage to keep themselves together no matter what happens, acting like everything is fine. Doing so prevents other people around them from needlessly bearing additional pressure. I saw the duel between Callas and Clorinde... and I can say that in this respect, Navia is becoming more and more like her father."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Arlecchino",
+    "text": "Furina — About [[Arlecchino: The Knave? W-Who's that? Oh... Uh, I'd already forgotten about her... Keeping such a terrible figure like her in your mind will only give you nightmares."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Charlotte]]",
+    "text": "Furina — About [[Charlotte]]: I've often seen Charlotte busily running back and forth lately. She still seems to be hoping to arrange an exclusive interview with me. No matter how many times I refuse, she still hasn't given up. To be honest, her persistence made me angry at first... but then she told me with a resolute look in her eyes that she wanted to let people understand the real Furina, and that she believed people would understand my troubles. I don't know how to respond to her kind intentions... I suppose she might be right, but I'm just not ready yet..."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Wriothesley]]",
+    "text": "Furina — About [[Wriothesley]]: I haven't communicated with him much, but Neuvillette claims he's trustworthy, so I suppose he must be a good person. Oh, come to think of it, I've received some tea from Wriothesley before and it was exquisite!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Clorinde]]",
+    "text": "Furina — About [[Clorinde]]: As I remember, Clorinde isn't very talkative, but she has stood by me and protected me on several occasions, so I trust her very much. Hmm... I do miss her ever so slightly, but I don't have any real reason to see her now. Oh, right! I should invite her to my next tea party!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Escoffier]]",
+    "text": "Furina — About [[Escoffier]]: Oh? You've met my Patissiere Supreme? Thanks to Escoffier, I used to have my pick of delectable confections, even beyond Gateau Debord. Unfortunately, after everything that happened, I can no longer afford what the Palais Mermonia was paying her. Hm? Oh, don't worry, we're still in touch. I like to send her homemade dishes of my own. I even invented a new one not too long ago — \"Harra Fruit Fish Jelly Macaroni\"... Sounds good, right? I'll make it for you sometime."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Furina: I",
+    "text": "Furina — More About Furina: I: You're interested in hearing about me? *sigh* I suppose there's no helping that... After all, I was once the biggest celebrity of all Fontaine! Every day, countless journalists would come flocking around me, trying to get the inside scoop on my personal life, so I have loads of experience rejecting them. Of course, I don't intend to use this experience on you. With the right delicacies, I might be willing to exchange some of my secrets."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Furina: II",
+    "text": "Furina — More About Furina: II: Someone recently recommended me to try surfing, so I went and gave it a shot. Keeping balance on the rolling waves was a little tricky at first, but I managed to get the hang of it pretty quickly. Maybe I'm just a natural surfer... Anyway, feeling the wind and waves up close and riding along the horizon was rather amazing. You should give it a try!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Furina: III",
+    "text": "Furina — More About Furina: III: If you have time, could you tell me more about your journey? I would love to hear all your fantastic stories. How should I put it... I easily feel interested in all kinds of things, but it isn't long before I feel bored again. Perhaps the more easily enthusiasm sparks, the more quickly it fades. But, when I'm with you, I seem to constantly feel happy... Such an amazing feeling!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Furina: IV",
+    "text": "Furina — More About Furina: IV: Recently, I've been wondering if I've been a little too hard on myself in the past. In my efforts to maintain the reserved manner of a deity, I never got the chance to enjoy my life, which is why I've become obsessed with shopping lately. I've bought many new precious things... like dazzling rainbow-colored tea bags, fully-automated extendable cutlery, and a saddle specially made for riding Seahorses... But in the end, I realized that most of the stuff I bought was useless, so I sent them all to the troupe to be used as props in performances. Strange... before I bought those things, I was certain they would all be of good use to me..."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_personality",
+    "vo_title": "More About Furina: V",
+    "text": "Furina — More About Furina: V: People love talking about the past and often regret the beautiful things that have now faded into history. They also love to talk about the future, as if they're willing to sacrifice everything for an uncertain tomorrow. I don't agree with their way of thinking, yet I also feel very envious... I once lived in a world without a past or a future. To cope with that anxiety, I tried to create and act out a stronger, more god-like version of myself. Over the centuries, the stronger role I tried to play gradually merged with my real self. Even I can't separate the two now... but perhaps there's no need to distinguish them. Experiences of the past have formed who I am now, and that flawed performance has also become the most important part of me."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Furina's Hobbies",
+    "text": "Furina — Furina's Hobbies: The Queen's Crown still doesn't have a sequel yet? Pity, a classic like that where justice overcomes evil never gets old."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Furina's Troubles",
+    "text": "Furina — Furina's Troubles: Hmm, what sauce should I pick for my macaroni tonight?"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Furina — Favorite Food: No one complains about exquisite confectioneries, but it'll take a lot of effort to make some that I like. Listen carefully, desserts are like operas... Everything from choosing the characters to imagining the setting requires a lot of effort in order to make the final performance a hit!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Furina — Least Favorite Food: Simply put, I detest most of those \"creative\" dishes. I have tasted many wonderful dishes throughout the years which did nothing but leave me with some moments that I never want to look back on."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Furina — Receiving a Gift: I: Oh? What a rich aroma and delicate texture... I didn't expect you to be such an accomplished cook... with refined taste, as well!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Furina — Receiving a Gift: II: Too ordinary! Hmph, such an uninspired dish will never have my approval!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Furina — Receiving a Gift: III: Ugh. Is this what you usually eat? *sigh* Seems I'll have to share some of my macaroni with you."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Furina — Birthday: Happy Birthday! Here, please take this ticket as your gift. It's a VIP seat to see Happy Day, just don't forget to show up to the performance! Hmm? What's \"Happy Day\"? *sigh* Well, I wanted to keep it a surprise... But it's an opera that I've rehearsed personally. It's about a big group of people that gather together to celebrate a certain very important person. You understand now, right? Just don't forget to come!"
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Furina — Feelings About Ascension: Intro: I'm really not accustomed to using a Vision. Why don't you teach me? Ah, I nearly forgot... you've never used a Vision either."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Furina — Feelings About Ascension: Building Up: The strength gained through my own hard work is truly fulfilling. Hehe, thanks for your support."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Furina — Feelings About Ascension: Climax: That's more like it! As expected, my dazzling side comes through in any situation."
+  },
+  {
+    "character": "Furina",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Furina — Feelings About Ascension: Conclusion: I didn't know you cared so much about me. Does that mean that you still need my power? But given the way I am now... there's a chance I won't be able to give you everything you need. Hmm? All you really care about is... me? In that case, then let us act out our future journey together! }}"
+  }
+]

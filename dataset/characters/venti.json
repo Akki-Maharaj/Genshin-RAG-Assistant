@@ -1,0 +1,228 @@
+{
+  "query": "Venti",
+  "folder": "characters",
+  "match": "Venti",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "venti",
+  "result": {
+    "id": 10000022,
+    "name": "Venti",
+    "title": "Windborne Bard",
+    "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+    "weaponType": "WEAPON_BOW",
+    "weaponText": "Bow",
+    "bodyType": "BODY_BOY",
+    "gender": "Male",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "6/16",
+    "birthday": "June 16",
+    "elementType": "ELEMENT_ANEMO",
+    "elementText": "Anemo",
+    "affiliation": "Mondstadt",
+    "associationType": "ASSOC_MONDSTADT",
+    "region": "Mondstadt",
+    "substatType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "substatText": "Energy Recharge",
+    "constellation": "Carmen Dei",
+    "cv": {
+      "english": "Erika Harlacher",
+      "chinese": "喵酱",
+      "japanese": "村瀬歩",
+      "korean": "Jung Yoo-jung"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104151,
+          "name": "Vayuda Turquoise Sliver",
+          "count": 1
+        },
+        {
+          "id": 100023,
+          "name": "Cecilia",
+          "count": 3
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 3
+        },
+        {
+          "id": 113001,
+          "name": "Hurricane Seed",
+          "count": 2
+        },
+        {
+          "id": 100023,
+          "name": "Cecilia",
+          "count": 10
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104152,
+          "name": "Vayuda Turquoise Fragment",
+          "count": 6
+        },
+        {
+          "id": 113001,
+          "name": "Hurricane Seed",
+          "count": 4
+        },
+        {
+          "id": 100023,
+          "name": "Cecilia",
+          "count": 20
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 3
+        },
+        {
+          "id": 113001,
+          "name": "Hurricane Seed",
+          "count": 8
+        },
+        {
+          "id": 100023,
+          "name": "Cecilia",
+          "count": 30
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104153,
+          "name": "Vayuda Turquoise Chunk",
+          "count": 6
+        },
+        {
+          "id": 113001,
+          "name": "Hurricane Seed",
+          "count": 12
+        },
+        {
+          "id": 100023,
+          "name": "Cecilia",
+          "count": 45
+        },
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104154,
+          "name": "Vayuda Turquoise Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113001,
+          "name": "Hurricane Seed",
+          "count": 20
+        },
+        {
+          "id": 100023,
+          "name": "Cecilia",
+          "count": 60
+        },
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Character_Venti_Card.jpg",
+      "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Character_Venti_Portrait.png",
+      "cover1": "https://act-webstatic.hoyoverse.com/upload/contentweb/2022/07/22/965e940e6caafe8fbd4bf0e17653000b_4508958090491775485.png",
+      "cover2": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191122/2019112211143037621.png",
+      "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/f42e16fca94650e2e932c093de92ae54.png",
+      "filename_icon": "UI_AvatarIcon_Venti",
+      "filename_iconCard": "UI_AvatarIcon_Venti_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Venti",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Venti",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Venti",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png",
+      "hoyowiki_icon": "https://bbs.hoyolab.com/hoyowiki/picture/character/Venti_icon.png"
+    },
+    "url": {
+      "fandom": "https://genshin-impact.fandom.com/wiki/Venti"
+    },
+    "version": "1.0"
+  }
+}

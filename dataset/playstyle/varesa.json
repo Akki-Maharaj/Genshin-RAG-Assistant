@@ -1,0 +1,17 @@
+{
+  "character": "Varesa",
+  "element": "Electro",
+  "weapon_type": "Catalyst",
+  "substat": "CRIT Rate",
+  "inferred_roles": [
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Electro-Charged (with Hydro)",
+    "Superconduct (with Cryo)",
+    "Overload (with Pyro)"
+  ],
+  "role_keyword_scores": {
+    "Crowd_Control": 3
+  }
+}

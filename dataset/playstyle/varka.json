@@ -1,0 +1,14 @@
+{
+  "character": "Varka",
+  "element": "Anemo",
+  "weapon_type": "Claymore",
+  "substat": "CRIT DMG",
+  "inferred_roles": [
+    "Unclear/Flex"
+  ],
+  "reaction_tags": [
+    "Swirl (with any element)",
+    "Crowd control via Swirl"
+  ],
+  "role_keyword_scores": {}
+}

@@ -1,0 +1,66 @@
+{
+  "query": "Fischl",
+  "folder": "constellations",
+  "match": "Fischl",
+  "matchfolder": "constellations",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "fischl",
+  "result": {
+    "id": 3101,
+    "name": "Fischl",
+    "c1": {
+      "name": "Gaze of the Deep",
+      "descriptionRaw": "Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, Oz fires a coordinated attack, dealing DMG equal to 22% of Fischl's ATK.",
+      "description": "Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, Oz fires a coordinated attack, dealing DMG equal to 22% of Fischl's ATK."
+    },
+    "c2": {
+      "name": "Devourer of All Sins",
+      "descriptionRaw": "When <color=#FFD780FF>Nightrider</color> is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.",
+      "description": "When Nightrider is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%."
+    },
+    "c3": {
+      "name": "Wings of Nightmare",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Nightrider</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Nightrider by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Her Pilgrimage of Bleak",
+      "descriptionRaw": "When <color=#FFD780FF>Midnight Phantasmagoria</color> is used, it deals 222% of ATK as <color=#FFACFFFF>Electro DMG</color> to surrounding opponents.\nWhen the skill duration ends, Fischl regenerates 20% of her HP.",
+      "description": "When Midnight Phantasmagoria is used, it deals 222% of ATK as Electro DMG to surrounding opponents.\nWhen the skill duration ends, Fischl regenerates 20% of her HP."
+    },
+    "c5": {
+      "name": "Against the Fleeing Light",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Midnight Phantasmagoria</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Midnight Phantasmagoria by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Evernight Raven",
+      "descriptionRaw": "Extends the duration of Oz's presence on the field by 2s. Additionally, Oz performs coordinated attacks with your active character when present, dealing 30% of Fischl's ATK as <color=#FFACFFFF>Electro DMG</color>.",
+      "description": "Extends the duration of Oz's presence on the field by 2s. Additionally, Oz performs coordinated attacks with your active character when present, dealing 30% of Fischl's ATK as Electro DMG."
+    },
+    "images": {
+      "filename_c1": "UI_Talent_S_Fischl_01",
+      "filename_c2": "UI_Talent_S_Fischl_02",
+      "filename_c3": "UI_Talent_U_Fischl_01",
+      "filename_c4": "UI_Talent_S_Fischl_03",
+      "filename_c5": "UI_Talent_U_Fischl_02",
+      "filename_c6": "UI_Talent_S_Fischl_04",
+      "filename_constellation": "Eff_UI_Talent_Fischl"
+    },
+    "version": "1.0"
+  }
+}

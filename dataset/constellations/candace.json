@@ -1,0 +1,66 @@
+{
+  "query": "Candace",
+  "folder": "constellations",
+  "match": "Candace",
+  "matchfolder": "constellations",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "candace",
+  "result": {
+    "id": 7201,
+    "name": "Candace",
+    "c1": {
+      "name": "Returning Heiress of the Scarlet Sands",
+      "descriptionRaw": "The duration of Prayer of the Crimson Crown effect triggered by <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> is increased by 3s.",
+      "description": "The duration of Prayer of the Crimson Crown effect triggered by Sacred Rite: Wagtail's Tide is increased by 3s."
+    },
+    "c2": {
+      "name": "Moon-Piercing Brilliance",
+      "descriptionRaw": "When <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> hits opponents, Candace's Max HP will be increased by 20% for 15s.",
+      "description": "When Sacred Rite: Heron's Sanctum hits opponents, Candace's Max HP will be increased by 20% for 15s."
+    },
+    "c3": {
+      "name": "Hunter's Supplication",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Sacred Rite: Wagtail's Tide by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Sentinel Oath",
+      "descriptionRaw": "Shortens the Hold CD of <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> to be the same as that of the Tapping CD.",
+      "description": "Shortens the Hold CD of Sacred Rite: Heron's Sanctum to be the same as that of the Tapping CD."
+    },
+    "c5": {
+      "name": "Heterochromatic Gaze",
+      "descriptionRaw": "Increases the Level of <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> by 3.\nMaximum upgrade level is 15.",
+      "description": "Increases the Level of Sacred Rite: Heron's Sanctum by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "The Overflow",
+      "descriptionRaw": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals <color=#80C0FFFF>AoE Hydro DMG</color> equal to 15% of Candace's Max HP.\nThis effect can trigger once every 2.3s and is considered Elemental Burst DMG.",
+      "description": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by Sacred Rite: Wagtail's Tide deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals AoE Hydro DMG equal to 15% of Candace's Max HP.\nThis effect can trigger once every 2.3s and is considered Elemental Burst DMG."
+    },
+    "images": {
+      "filename_c1": "UI_Talent_S_Candace_01",
+      "filename_c2": "UI_Talent_S_Candace_02",
+      "filename_c3": "UI_Talent_U_Candace_01",
+      "filename_c4": "UI_Talent_S_Candace_03",
+      "filename_c5": "UI_Talent_U_Candace_02",
+      "filename_c6": "UI_Talent_S_Candace_04",
+      "filename_constellation": "Eff_UI_Talent_Candace"
+    },
+    "version": "3.1"
+  }
+}

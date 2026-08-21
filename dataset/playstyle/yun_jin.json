@@ -1,0 +1,16 @@
+{
+  "character": "Yun Jin",
+  "element": "Geo",
+  "weapon_type": "Polearm",
+  "substat": "Energy Recharge",
+  "inferred_roles": [
+    "Shielder"
+  ],
+  "reaction_tags": [
+    "Crystallize (with elemental)",
+    "Shielding via Crystallize"
+  ],
+  "role_keyword_scores": {
+    "Shielder": 3
+  }
+}

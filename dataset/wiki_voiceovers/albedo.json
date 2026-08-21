@@ -1,0 +1,272 @@
+[
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Hello",
+    "text": "Albedo — Hello: I am Albedo, Chief Alchemist of the Knights of Favonius. You carry the aura of the stars, interesting... I would like to study you, if you do not mind. I'm certain we will have many opportunities to be alone in the future."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Still Life",
+    "text": "Albedo — Chat: Still Life: What a view... How about a quick break so I can sketch this beautiful scenery?"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Investigation",
+    "text": "Albedo — Chat: Investigation: \"The truth of this world\"... *sigh* What could it be?"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Chat: Reminiscing",
+    "text": "Albedo — Chat: Reminiscing: Going out into the world and investigating, turning the \"unknown\" into the \"known.\" ...Ahhh, I missed this feeling."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "When It Rains",
+    "text": "Albedo — When It Rains: The soil is moist, ideal for collecting the roots of Boom Blossoms. No please, allow me to handle this."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "When It Snows",
+    "text": "Albedo — When It Snows: [[Rhinedottir"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "When the Sun Is Out",
+    "text": "Albedo — When the Sun Is Out: Ample light... active biological organisms... Yes, this is a good place to sketch."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Good Morning",
+    "text": "Albedo — Good Morning: Good morning. Are we going to search for ancient relics today?"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Good Afternoon",
+    "text": "Albedo — Good Afternoon: Good afternoon. I heard your footsteps. My, it certainly is lively outside of the workshop."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Good Evening",
+    "text": "Albedo — Good Evening: *sigh* It's gotten quiet outside..."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Good Night",
+    "text": "Albedo — Good Night: Good night, you go ahead and rest. I will just finish one last experiment before bed... If you are interested in the results, I can discuss them with you tomorrow."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_self",
+    "vo_title": "About {name}: Genius",
+    "text": "Albedo — About {name}: Genius: Genius? ...A number of people call me that. But I don't think I'm any \"genius.\""
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_self",
+    "vo_title": "About {name}: Socializing",
+    "text": "Albedo — About {name}: Socializing: Relationships are... quite troublesome. Once you establish a relation with someone, you must continue to maintain it; if you lose contact, you must reestablish the relation. This taxing cycle requires a lot of time..."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Experiments",
+    "text": "Albedo — About Us: Experiments: You... want to accompany me while I experiment? I'm honored.Oh, don't be nervous. My experiments may be dangerous, but no one gets hurt... most of the time."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_us",
+    "vo_title": "About Us: Assistant",
+    "text": "Albedo — About Us: Assistant: Would you oblige me by serving as my assistant? After observing so many experiments, you surely know a good deal about alchemy by now. Relax, we will work together. I don't think you will have any problems. I have faith in my ability to instruct you, and even more faith in your exceptional talents."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_misc",
+    "vo_title": "About the [[Vision]]",
+    "text": "Albedo — About the [[Vision]]: My Vision? Ah, that's nothing more than a tool to aid in my experiments, no different from a beaker or crucible. The one thing about it that really intrigues me is the principle behind how it works... One day, I will uncover its secrets, it's only a matter of time."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_misc",
+    "vo_title": "Something to Share",
+    "text": "Albedo — Something to Share: There's something I've always wanted to ask you, but feared rejection and disappointment...Eh-hem... I am very interested in your [[Paimon"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_misc",
+    "vo_title": "Interesting Things",
+    "text": "Albedo — Interesting Things: You would like to know more about petrified trees? Erm... Actually, the petrified trees you have come across in domains aren't that ancient. Truly ancient trees usually grow to around one or two miles in height. Oh, and there's a kind of large spider that lives around their roots — if you tie one up in cape jasmine and lemongrass and sprinkle on some cardamom, smoke it for a few hours — you get a fragrant taste that's simply... unforgettable."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About Family",
+    "text": "Albedo — About Family: Family? Although Alice has always asked me to call her mother.... when I think of the idea of \"family,\" my [[Rhinedottir"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Sucrose]]: Direction",
+    "text": "Albedo — About [[Sucrose]]: Direction: Sucrose? I think I more or less understand why she is so dedicated to her research in bio-alchemy... Either way, I'm happy to see her succeed more and more in her endeavors."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About Sucrose: Habits",
+    "text": "Albedo — About Sucrose: Habits: Working with Sucrose on alchemy research is quite pleasant, but she has some... stubborn qualities in regards to certain aspects unrelated to research. For example, I have told her numerous times to just call me \"Albedo\" since we are hardly generations apart, but she insists on addressing me in an excessively formal manner. *sigh* ...Whatever she prefers, I guess."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Lisa]]",
+    "text": "Albedo — About [[Lisa]]: Lisa? I always am impressed by the valuable perspectives she brings to discussions. But is a person with her talents satisfied with such a basic occupation as librarian? There must be some hidden reason for this."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Klee]]",
+    "text": "Albedo — About [[Klee]]: Indeed, I view Klee as my younger sister. Whenever she gets herself into some explosive sort of trouble, I can only console myself with the fact that her current destructiveness is nothing compared to that of Miss Alice."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Jean]]",
+    "text": "Albedo — About [[Jean]]: Jean? She has served exceptionally well as Acting Grand Master, one can even say she is more reliable than Grand Master Varka. Perhaps in our hearts, we all eagerly await the day she can become the official Grand Master herself."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Xingqiu]]",
+    "text": "Albedo — About [[Xingqiu]]: Oh, Xingqiu? I find his written works quite interesting. The Yae Publishing House in Inazuma has been asking that I cooperate with a different author for greater royalties. Hmph, do I seem the type to be swayed by a few extra Mora?"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Barbara]]",
+    "text": "Albedo — About [[Barbara]]: Barbara? She's a very earnest Deaconess. I once had the opportunity to sketch her a simple portrait... What happened to the sketch? Ah yes... Albert offered to purchase it, but I rejected his bid and gave it to the Acting Grand Master. Social relations... really require a lot of effort."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Durin]]",
+    "text": "Albedo — About [[Durin]]: My brother is learning all manner of new things. He's intelligent and passionately philosophical. This sometimes causes difficulties, but it does nothing to dull his passion for the world. His arrival — or should I say, his joining the family — has given me a new understanding of human relations. With my closest kin around, home has become a lively place — which is a positive thing, for sure."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_about_others",
+    "vo_title": "About [[Prune]]",
+    "text": "Albedo — About [[Prune]]: She often comes to me asking about the \"nature of being,\" though our discussions tend to end as soon as I pose a few counter-questions. Still, I'm pleased to say she always returns later with a notebook full of answers."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: I",
+    "text": "Albedo — More About {name}: I: Have a question for me? Go ahead, ask. It doesn't take too long to ask a single question, does it? I'm about to begin the final stage of an experiment..."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: II",
+    "text": "Albedo — More About {name}: II: Oh, by the way. Did you know that without human manipulation, you would need to harness the power of a sun eight times the size of our own in order to naturally create gold?"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: III",
+    "text": "Albedo — More About {name}: III: The time required to sketch portraits closely correlates with one's mood. I could spend half a day sketching Huffman, while I might only need three strokes of the pencil to sketch Kaeya — one for the face, one for the eyepatch string... and one for the eyepatch."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: IV",
+    "text": "Albedo — More About {name}: IV: What do I do besides sketching and research...? I will occasionally read novels from Inazuma and Liyue. They contain many fascinating ideas which can sometimes provide me with unexpected inspirations for my own creations."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_personality",
+    "vo_title": "More About {name}: V",
+    "text": "Albedo — More About {name}: V: Even now, I find the nigredo processing stage of alchemy passed down by my master to be full of mystery. What did my master want to create using this technique...? My research is far from over, I will require your help to investigate further."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Hobbies",
+    "text": "Albedo — {name}'s Hobbies: Hmm... Besides research, the activity I spend most of my time on is probably sketching. At first I saw it simply as a way to better study the structure of living things and materials so as to aid me in my experiments, but it eventually became a hobby of mine. Indeed, it is a very good way to relax."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "{name}'s Troubles",
+    "text": "Albedo — {name}'s Troubles: There's just never enough time, is there? Even when I remove the most troublesome matters from my schedule, I still can't find enough time for everything."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Favorite Food",
+    "text": "Albedo — Favorite Food: I really do enjoy having dessert. How can I put it...? When both physical and mental capacity are spent, high-energy materials further provide a kind of primordial, highly-effective boost."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Least Favorite Food",
+    "text": "Albedo — Least Favorite Food: What food do I dislike? ...Large portions of meat at restaurants. I have a rather small appetite, so a meal like that only ends up in tragedy — either I overeat and the joy of the taste is lost, or I don't finish it and the food is wasted. I decided to simply not go to restaurants, although that has also meant I must spend more time preparing my own food..."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: I",
+    "text": "Albedo — Receiving a Gift: I: If flavors were colors... this one would be gold."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: II",
+    "text": "Albedo — Receiving a Gift: II: You're willing to spend so much time on improving your cooking, and that's precisely how you're able to make it taste so good."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Receiving a Gift: III",
+    "text": "Albedo — Receiving a Gift: III: This is more than I can manage... maybe we could split it between us?"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Birthday",
+    "text": "Albedo — Birthday: Happy birthday. You look especially happy, would you mind if I sketched you? The capacity of our brains is limited, so we are bound to forget things. But when an image is transferred onto paper or canvas, the sketch becomes an extension of our memory. We can remember that past feeling when we later look at the sketch."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Intro",
+    "text": "Albedo — Feelings About Ascension: Intro: Nigredo is the first step in alchemy, drawing from primordial forms. As beings who live in this world, we must find our own meaning."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Building Up",
+    "text": "Albedo — Feelings About Ascension: Building Up: Albedo is the step in which change begins. Clearing away the excess so we can take on all the knowledge that is available. Would you like to investigate this world with me?"
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Climax",
+    "text": "Albedo — Feelings About Ascension: Climax: Rubedo in alchemy refers to the refining of feeling. I feel the refining of my own emotions is also thanks to you."
+  },
+  {
+    "character": "Albedo",
+    "topic": "voiceover_other",
+    "vo_title": "Feelings About Ascension: Conclusion",
+    "text": "Albedo — Feelings About Ascension: Conclusion: Citrinitas is the final stage of the alchemical transmutation process. The meaning of the object being transmuted has finally been brought to light, becoming gold and revealing its true value... I too have found my own meaning. }}"
+  }
+]

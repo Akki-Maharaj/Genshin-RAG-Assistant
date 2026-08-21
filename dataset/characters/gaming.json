@@ -1,0 +1,222 @@
+{
+  "query": "Gaming",
+  "folder": "characters",
+  "match": "Gaming",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "gaming",
+  "result": {
+    "id": 10000092,
+    "name": "Gaming",
+    "title": "Leonine Vanguard",
+    "description": "Guard of the Sword and Strongbox Secure Transport Agency, and the head of the \"Mighty Mythical Beasts\" Wushou troupe.",
+    "weaponType": "WEAPON_CLAYMORE",
+    "weaponText": "Claymore",
+    "bodyType": "BODY_BOY",
+    "gender": "Male",
+    "qualityType": "QUALITY_PURPLE",
+    "rarity": 4,
+    "birthdaymmdd": "12/22",
+    "birthday": "December 22",
+    "elementType": "ELEMENT_PYRO",
+    "elementText": "Pyro",
+    "affiliation": "Sword and Strongbox Secure Transport Agency",
+    "associationType": "ASSOC_LIYUE",
+    "region": "Liyue",
+    "substatType": "FIGHT_PROP_ATTACK_PERCENT",
+    "substatText": "ATK",
+    "constellation": "Leo Expergiscens",
+    "cv": {
+      "english": "Caleb Yen",
+      "chinese": "谢莹",
+      "japanese": "小松昌平",
+      "korean": "Kim Yoon-gi"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104111,
+          "name": "Agnidus Agate Sliver",
+          "count": 1
+        },
+        {
+          "id": 100033,
+          "name": "Starconch",
+          "count": 3
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 3
+        },
+        {
+          "id": 113051,
+          "name": "Emperor's Resolution",
+          "count": 2
+        },
+        {
+          "id": 100033,
+          "name": "Starconch",
+          "count": 10
+        },
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "count": 6
+        },
+        {
+          "id": 113051,
+          "name": "Emperor's Resolution",
+          "count": 4
+        },
+        {
+          "id": 100033,
+          "name": "Starconch",
+          "count": 20
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 3
+        },
+        {
+          "id": 113051,
+          "name": "Emperor's Resolution",
+          "count": 8
+        },
+        {
+          "id": 100033,
+          "name": "Starconch",
+          "count": 30
+        },
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "count": 6
+        },
+        {
+          "id": 113051,
+          "name": "Emperor's Resolution",
+          "count": 12
+        },
+        {
+          "id": 100033,
+          "name": "Starconch",
+          "count": 45
+        },
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104114,
+          "name": "Agnidus Agate Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113051,
+          "name": "Emperor's Resolution",
+          "count": 20
+        },
+        {
+          "id": 100033,
+          "name": "Starconch",
+          "count": 60
+        },
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_Gaming",
+      "filename_iconCard": "UI_AvatarIcon_Gaming_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Gaming",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Gaming",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Gaming",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gaming.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Gaming.png",
+      "cover1": "https://fastcdn.hoyoverse.com/content-v2/hk4e/119403/c649538cd00d8802daf3051a4f7d8cc3_7678226519918318299.png",
+      "cover2": "https://fastcdn.hoyoverse.com/content-v2/hk4e/119403/9abb338b8452bc5162483f76d3cc67b3_1627152661334822845.png",
+      "hoyowiki_icon": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/29/35428890/b041ad23a9d6245efac952a9379c5114_8939761424130236195.png"
+    },
+    "version": "4.4"
+  }
+}

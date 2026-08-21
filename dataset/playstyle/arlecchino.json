@@ -1,0 +1,19 @@
+{
+  "character": "Arlecchino",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "substat": "CRIT DMG",
+  "inferred_roles": [
+    "Shielder",
+    "Healer"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Hydro)",
+    "Melt (with Cryo)",
+    "Pyro DMG"
+  ],
+  "role_keyword_scores": {
+    "Healer": 2,
+    "Shielder": 4
+  }
+}

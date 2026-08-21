@@ -1,0 +1,222 @@
+{
+  "query": "Sigewinne",
+  "folder": "characters",
+  "match": "Sigewinne",
+  "matchfolder": "characters",
+  "matchtype": "names",
+  "options": {
+    "dumpResult": true,
+    "matchNames": true,
+    "matchAltNames": true,
+    "matchAliases": false,
+    "matchCategories": false,
+    "verboseCategories": false,
+    "queryLanguages": [
+      "English"
+    ],
+    "resultLanguage": "English",
+    "v4Props": false,
+    "v4PropsOnly": false
+  },
+  "filename": "sigewinne",
+  "result": {
+    "id": 10000095,
+    "name": "Sigewinne",
+    "title": "Wondrous Dragonheir",
+    "description": "A Melusine and the Fortress of Meropide's head nurse. She cares equally for every convict locked in the undersea prison.",
+    "weaponType": "WEAPON_BOW",
+    "weaponText": "Bow",
+    "bodyType": "BODY_LOLI",
+    "gender": "Female",
+    "qualityType": "QUALITY_ORANGE",
+    "rarity": 5,
+    "birthdaymmdd": "3/30",
+    "birthday": "March 30",
+    "elementType": "ELEMENT_HYDRO",
+    "elementText": "Hydro",
+    "affiliation": "Fortress of Meropide",
+    "associationType": "ASSOC_FONTAINE",
+    "region": "Fontaine",
+    "substatType": "FIGHT_PROP_HP_PERCENT",
+    "substatText": "HP",
+    "constellation": "Nereides",
+    "cv": {
+      "english": "Sarah Williams",
+      "chinese": "赵爽",
+      "japanese": "木野日菜",
+      "korean": "Kim Chae-rin"
+    },
+    "costs": {
+      "ascend1": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 20000
+        },
+        {
+          "id": 104121,
+          "name": "Varunada Lazurite Sliver",
+          "count": 1
+        },
+        {
+          "id": 101233,
+          "name": "Romaritime Flower",
+          "count": 3
+        },
+        {
+          "id": 112080,
+          "name": "Transoceanic Pearl",
+          "count": 3
+        }
+      ],
+      "ascend2": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 40000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 3
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 2
+        },
+        {
+          "id": 101233,
+          "name": "Romaritime Flower",
+          "count": 10
+        },
+        {
+          "id": 112080,
+          "name": "Transoceanic Pearl",
+          "count": 15
+        }
+      ],
+      "ascend3": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 60000
+        },
+        {
+          "id": 104122,
+          "name": "Varunada Lazurite Fragment",
+          "count": 6
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 4
+        },
+        {
+          "id": 101233,
+          "name": "Romaritime Flower",
+          "count": 20
+        },
+        {
+          "id": 112081,
+          "name": "Transoceanic Chunk",
+          "count": 12
+        }
+      ],
+      "ascend4": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 80000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 3
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 8
+        },
+        {
+          "id": 101233,
+          "name": "Romaritime Flower",
+          "count": 30
+        },
+        {
+          "id": 112081,
+          "name": "Transoceanic Chunk",
+          "count": 18
+        }
+      ],
+      "ascend5": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 100000
+        },
+        {
+          "id": 104123,
+          "name": "Varunada Lazurite Chunk",
+          "count": 6
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 12
+        },
+        {
+          "id": 101233,
+          "name": "Romaritime Flower",
+          "count": 45
+        },
+        {
+          "id": 112082,
+          "name": "Xenochromatic Crystal",
+          "count": 12
+        }
+      ],
+      "ascend6": [
+        {
+          "id": 202,
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "id": 104124,
+          "name": "Varunada Lazurite Gemstone",
+          "count": 6
+        },
+        {
+          "id": 113057,
+          "name": "Water That Failed To Transcend",
+          "count": 20
+        },
+        {
+          "id": 101233,
+          "name": "Romaritime Flower",
+          "count": 60
+        },
+        {
+          "id": 112082,
+          "name": "Xenochromatic Crystal",
+          "count": 24
+        }
+      ]
+    },
+    "images": {
+      "filename_icon": "UI_AvatarIcon_Sigewinne",
+      "filename_iconCard": "UI_AvatarIcon_Sigewinne_Card",
+      "filename_sideIcon": "UI_AvatarIcon_Side_Sigewinne",
+      "filename_gachaSplash": "UI_Gacha_AvatarImg_Sigewinne",
+      "filename_gachaSlice": "UI_Gacha_AvatarIcon_Sigewinne",
+      "mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sigewinne.png",
+      "mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sigewinne.png",
+      "cover1": "https://fastcdn.hoyoverse.com/content-v2/hk4e/124105/22609467819303b436883092635ae97a_5002591570143526700.png",
+      "cover2": "https://fastcdn.hoyoverse.com/content-v2/hk4e/124105/92c470753d2ea1e4acca1ea8e77a2539_6872660230877687686.png",
+      "hoyowiki_icon": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/26/35428890/2d607aa4d729030ea04f79919257e311_1172370997840232141.png"
+    },
+    "version": "4.7"
+  }
+}

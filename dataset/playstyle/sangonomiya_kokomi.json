@@ -1,0 +1,20 @@
+{
+  "character": "Sangonomiya Kokomi",
+  "element": "Hydro",
+  "weapon_type": "Catalyst",
+  "substat": "Hydro DMG Bonus",
+  "inferred_roles": [
+    "Healer",
+    "Crowd_Control"
+  ],
+  "reaction_tags": [
+    "Vaporize (with Pyro)",
+    "Freeze (with Cryo)",
+    "Electro-Charged (with Electro)"
+  ],
+  "role_keyword_scores": {
+    "Healer": 4,
+    "Crowd_Control": 1,
+    "Off_Field_DPS": 1
+  }
+}
